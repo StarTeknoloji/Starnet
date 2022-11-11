@@ -1,5 +1,5 @@
 # *[*`*`](https://net.starteknoloji.space/comet)*
-# [*(* *STAR Teknoloji !! *%*](https://net.starteknoloji.space/about)
+# [*(* *STAR Teknoloji !! *%*](https://starteknoloji.space/about)
 ## [net.starteknoloji.space](http://net.starteknoloji.space)
 ## *.starteknoloji.net
 # **quiet security *$* yıldız teknolojicisi** 
@@ -65,9 +65,9 @@
 ## *This is an Emerging Platform. 
 -  Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
--  [Reklam](https://net.starteknoloji.space/inbox)
--  [404.](https://net.starteknoloji.space/inboks)
--  [Jekyll](https://net.starteknoloji.space/blog) 
+-  [Reklam](https://starteknoloji.space/inbox)
+-  [404.](https://starteknoloji.space/inboks)
+-  [Jekyll](https://starteknoloji.space/blog) 
 
 ## *Support Contact
 > ## `+90 0507 236 39 28`    
@@ -77,7 +77,7 @@
 > ## [author@codes.computer](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
 > ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)*
->- [Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin), [Aynur Zorlu](https://net.starteknoloji.space/hakkında)  
+>- [Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin), [Aynur Zorlu](https://starteknoloji.space/hakkında)  
 `UA-240549066-1S`
 
 ## *Some Applications To Be Used On Our Site For Our Goals
