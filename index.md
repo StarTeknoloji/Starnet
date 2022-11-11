@@ -1,6 +1,6 @@
 # *[*`*`](https://net.starteknoloji.space/comet)*
 # [*(* *STAR Teknoloji !! *%*](https://net.starteknoloji.space/about)
-## net.starteknoloji.space
+## [net.starteknoloji.space](http://net.starteknoloji.space)
 ## *.starteknoloji.net
 # **quiet security *$* yıldız teknolojicisi** 
 ![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
