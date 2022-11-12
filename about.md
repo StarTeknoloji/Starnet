@@ -15,7 +15,7 @@
 ![g2-chili-piper-integration-blog-featured-image@2x](https://user-images.githubusercontent.com/93947784/199843179-f0f9542f-f95b-46aa-8005-5e1056e8c4e8.jpeg)
 
 
-# *Mevcut Domain Alanlarımız
+# *Mevcut Domain Alanlarımız*
 *|`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.monster`|                
 *|`www.teknoloji.agency`||`www.teknoloji.team`||`www.teknoloji.media`||`www.teknoloji.world`||`www.teknoloji.world`|
 *|`www.teknoloji.email`||`www.teknoloji.ws`||`www.teknoloji.run`||`www.teknoloji.directory`||`www.teknoloji.software`| 
@@ -28,7 +28,7 @@
 *|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`||`www.teknoloji.best`|
 *|`www.teknoloji.homes`||`www.teknoloji.quest`|
 >- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.
-# *PROJE PLAN; COLLABORATION system 
+# *PROJE PLAN; COLLABORATION system* 
 **(No action taken)
 >>>![blob (6)](https://user-images.githubusercontent.com/93947784/200133219-c4fc5460-e768-4012-87e7-cf8a3f57610d.png)
 ![blob-1a5d189](https://user-images.githubusercontent.com/93947784/200133222-2bfbb502-6f17-4d2b-80a7-a4e23b6ccd23.png)
