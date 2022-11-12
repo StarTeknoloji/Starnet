@@ -27,7 +27,7 @@
 *|`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.international`|*
 *|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`||`www.teknoloji.best`|*
 *|`www.teknoloji.homes`||`www.teknoloji.quest`|*
->- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.
+>- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.*
 # *PROJE PLAN; COLLABORATION system* 
 **(No action taken)
 >>>![blob (6)](https://user-images.githubusercontent.com/93947784/200133219-c4fc5460-e768-4012-87e7-cf8a3f57610d.png)
