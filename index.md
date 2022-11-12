@@ -21,15 +21,15 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 
-# **StarTeknolojiSpace
-## Computer İnformation Services     
+# **StarTeknolojiSpace*
+## *Computer İnformation Services*     
 > ## `Computer and Peripherals`
 > ## `Network Setup`
 > ## `Website Setup` 
 > ## `Server Setup`
 > ## `Enterprise Application Management and Release Development`              
 > ## `Information Technology Consulting, Microsoft MCP Continuity`
->>## Missions %100 local  
+>>## *Missions %100 local*  
 > # 1.`Computer, Phone, Tablet, Technical Service.`
 > # 2.`Operating System Installation, Application Installation,.`
 > # 3.`Backup and Recovery`
@@ -70,7 +70,7 @@
 -  *[404.](https://starteknoloji.space/inboks)
 -  *[Jekyll](https://starteknoloji.space/blog) 
 
-## *Support Contact*
+## *Support us Contact*
 > ## `+90 0507 236 39 28`    
 > ## `+90 0288 318 33 40` 
 > ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
@@ -81,7 +81,7 @@
 >- [Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin), [Aynur Zorlu](https://starteknoloji.space/hakkında)  
 `UA-240549066-1S`
 
-## *Some Applications To Be Used On Our Site For Our Goals
+## *Some Applications To Be Used On Our Site For Our Goals*
 - *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
 - *` Message box Comment`*
 - *` Site Security`* 
