@@ -1,5 +1,5 @@
 # *[*`*`](https://starteknoloji.space/comet)*
-# **[*(* *STAR Teknolojisi *!* ](https://starteknoloji.space/about)**
+# **[*(* *STAR Teknolojici *!* ](https://starteknoloji.space/about)**
 #  *`*net.starteknoloji.space*`*
 ## *`*.starteknoloji.net`*
 
