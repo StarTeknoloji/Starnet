@@ -1,4 +1,4 @@
-# *[*`*`](https://net.starteknoloji.space/comet)*
+# *[*`*`](https://starteknoloji.space/comet)*
 # [*(* *STAR Teknoloji !! *%*](https://starteknoloji.space/about)
 ## [net.starteknoloji.space](http://net.starteknoloji.space)
 ## *.starteknoloji.net
@@ -65,9 +65,9 @@
 ## *This is an Emerging Platform. 
 -  Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
--  [Reklam](https://starteknoloji.space/inbox)
--  [404.](https://starteknoloji.space/inboks)
--  [Jekyll](https://starteknoloji.space/blog) 
+-  *[Reklam](https://starteknoloji.space/inbox)
+-  *[404.](https://starteknoloji.space/inboks)
+-  *[Jekyll](https://starteknoloji.space/blog) 
 
 ## *Support Contact
 > ## `+90 0507 236 39 28`    
