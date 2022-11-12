@@ -6,9 +6,9 @@
 ![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 
-## **quiet security *$* yıldız teknolojicisi**
+# **quiet security *$* yıldız teknolojicisi**
 # **Güvenli Alış Veriş(Devamsız)** ![Fgddj_yX0AA7Grr](https://user-images.githubusercontent.com/93947784/200559799-2d834958-6191-43fe-8abe-ebc4ab826927.jpeg)
-## [Ürün Listesi PayPal Ödeme](https://net.starteknoloji.space/PayPal)
+## [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
 
 >>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
@@ -44,7 +44,7 @@
 ## *Our project*
 > ## *Project STARSUFF private STARSHADE public
 ## *ANNOUNCEMENT*
-## *`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`
+## *`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`*
 ## `Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com`
 >>> ## *Discord*
 ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d) 
@@ -66,9 +66,9 @@
 ## *This is an Emerging Platform* 
 -  Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
--  *[Reklam](https://starteknoloji.space/inbox)
--  *[404.](https://starteknoloji.space/inboks)
--  *[Jekyll](https://starteknoloji.space/blog) 
+-  *[Reklam](https://starteknoloji.space/inbox)*
+-  *[404.](https://starteknoloji.space/inboks)*
+-  *[Jekyll](https://starteknoloji.space/blog)* 
 
 ## *Support us Contact*
 > ## `+90 0507 236 39 28`    
