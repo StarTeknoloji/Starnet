@@ -58,10 +58,10 @@
 >>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 ## *Our Other Field Topics and Sections*
->> ## [www.CodesExe.com Tracing](https://codesexe.com)        
->> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
->> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
->> ## [www.codes.computer KaTeX](https://www.codes.computer)
+>> - *[www.CodesExe.com Tracing](https://codesexe.com)*        
+>> - *[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)*
+>> - *[https://starcomputer.space Jekyll](https://starcomputer.space)*   
+>> - *[www.codes.computer KaTeX](https://www.codes.computer)*
 
 ## *This is an Emerging Platform* 
 -  Please Contribute 
