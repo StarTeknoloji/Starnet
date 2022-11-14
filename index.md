@@ -75,14 +75,14 @@
 > ## `+90 0507 236 39 28`    
 > ## `+90 0288 318 33 40` 
 > ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
-> ## [ercetinguler@codesexe.com] (https://outlook.live.com)
-> ## [yazar@kodlar.bilgisayar] (https://outlook.live.com)
+> ## [ercetinguler@codesexe.com](https://outlook.live.com)
+> ## [yazar@kodlar.bilgisayar](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
 
 >- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)**&**[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
 "UA-240549066-1S"
 
-# *<! -- `*starshadeshinecometstarsuffsecur*´ -- >
+# **<! -- `starshadeshinecometstarsuffsecur´ -- >**
 
 
 ## *Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
