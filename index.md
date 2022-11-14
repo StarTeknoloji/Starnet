@@ -85,7 +85,7 @@
 ° *Game Start Uni* 
 # **<*!* *--* *`starshadeshinecometstarsuffsecur` *--* >** 
 ° *Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…* 
-° *Evrendek yönün*
+° *Evrendeki yönün*
 
 ## *Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
 - *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
