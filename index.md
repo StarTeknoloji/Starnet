@@ -57,7 +57,7 @@
 
 >>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
-## *Site*
+## *Our Other Field Topics and Sections*
 >> ## [www.CodesExe.com Tracing](https://codesexe.com)        
 >> ## [www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)
 >> ## [https://starcomputer.space Jekyll](https://starcomputer.space)   
