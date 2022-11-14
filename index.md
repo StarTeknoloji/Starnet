@@ -82,8 +82,7 @@
 >- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)**&**[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
 "UA-240549066-1S"
 
-# **<! -- `starshadeshinecometstarsuffsecur´ -- >**
-
+# **<! -- `starshadeshinecometstarsuffsecur` -- >**
 
 ## *Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
 - *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
