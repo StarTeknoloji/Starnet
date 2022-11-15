@@ -1,4 +1,4 @@
-# **[*`*`](https://starteknoloji.space/comet)**
+ **[**`*`**Comet**](https://starteknoloji.space/comet)** 
 # **[*(* *STAR Teknolojici *!* *`**`*`**`*©*`**`**`*](https://starteknoloji.space/about)**
 # *`*net.starteknoloji.space*`*
 ## *`*.starteknoloji.net`*
