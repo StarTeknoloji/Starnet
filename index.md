@@ -67,7 +67,7 @@
 ° *Evrendeki yönün*
 ## *Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
 - *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
-- *` Mesaj kutusu Yorum`*
+- *` Rehber, Mesaj kutusu Yorum`*
 - *` Site Güvenliği`*
 ## *Support us Contact*
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7677025,17z/data=!3m1!4b1!4m5!3m4!1s0x40a09da495093447:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912?hl=en&authuser=0)
