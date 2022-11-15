@@ -1,5 +1,5 @@
 # **[*`*`](https://starteknoloji.space/comet)**
-# **[*(* *STAR Teknolojici *!* *`**`**``*``®``*``**`*](https://starteknoloji.space/about)**
+# **[*(* *STAR Teknolojici *!* **`**`**``*``*®*``*``**`*](https://starteknoloji.space/about)**
 # *`*net.starteknoloji.space*`*
 ## *`*.starteknoloji.net`*
 # **`**``©``**`** *`Teknoloji.space`*
@@ -47,8 +47,8 @@
 ## **[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)* 
 >> <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 >> <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
->>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
->>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
+>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
+>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## *Our Other Field Topics and Sections*
 >> - *[www.CodesExe.com Tracing](https://codesexe.com)*        
 >> - *[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)*
@@ -69,7 +69,6 @@
 > ## [yazar@kodlar.bilgisayar](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
 >- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)**&**[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
-
 ° *Game Start Uni* 
 # **<*!* *--* *`starshadeshinecometstarsuffsecur` *--* >** 
 ° *Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…* 
