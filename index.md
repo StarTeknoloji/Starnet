@@ -74,7 +74,7 @@
 ° *Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…* 
 ° *Evrendeki yönün*
 
-## *Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
+## *Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
 - *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
 - *` Mesaj kutusu Yorum`*
 - *` Site Güvenliği`*
