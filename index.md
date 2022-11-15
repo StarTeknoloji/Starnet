@@ -4,7 +4,7 @@
 ## *`*.starteknoloji.net`*
 ## **`Teknoloji.space`*
 ![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
->>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
+>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 # **quiet security *$* yıldız teknolojicisi**
 # **Güvenli Alış Veriş(Devamsız)** ![Fgddj_yX0AA7Grr](https://user-images.githubusercontent.com/93947784/200559799-2d834958-6191-43fe-8abe-ebc4ab826927.jpeg)
 ## [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
@@ -26,7 +26,7 @@
 > ## `Server Setup`
 > ## `Enterprise Application Management and Release Development`              
 > ## `Information Technology Consulting, Microsoft MCP Continuity`
->>## *Missions %100 local*  
+> ## *Missions %100 local*  
 > # 1.`Computer, Phone, Tablet, Technical Service.`
 > # 2.`Operating System Installation, Application Installation,.`
 > # 3.`Backup and Recovery`
@@ -50,16 +50,25 @@
 >> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
 >> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## *Our Other Field Topics and Sections*
->> - *[www.CodesExe.com Tracing](https://codesexe.com)*        
->> - *[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)*
->> - *[www.Starcomputer.space Jekyll](https://starcomputer.space)*   
->> - *[www.Codes.computer KaTeX](https://www.codes.computer)*
+> - *[www.CodesExe.com Tracing](https://codesexe.com)*        
+> - *[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)*
+> - *[www.Starcomputer.space Jekyll](https://starcomputer.space)*   
+> - *[www.Codes.computer KaTeX](https://www.codes.computer)*
 ## *This is an Emerging Platform* #
 " Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
 -  *[Reklam](https://starteknoloji.space/inbox)*
 -  *[404.](https://starteknoloji.space/inboks)*
 -  *[Jekyll](https://starteknoloji.space/blog)* 
+- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)**&**[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
+° *Game Start Uni* 
+# **<*!* *--* *`starshadeshinecometstarsuffsecur` *--* >** 
+° *Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…* 
+° *Evrendeki yönün*
+## *Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
+- *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
+- *` Mesaj kutusu Yorum`*
+- *` Site Güvenliği`*
 ## *Support us Contact*
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7677025,17z/data=!3m1!4b1!4m5!3m4!1s0x40a09da495093447:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912?hl=en&authuser=0)
 > ## `+90 0507 236 39 28`    
@@ -68,16 +77,6 @@
 > ## [ercetinguler@codesexe.com](https://outlook.live.com)
 > ## [yazar@kodlar.bilgisayar](https://outlook.live.com)
 > ## [user@starcomputer.space](https://outlok.live.com)
->- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)**&**[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
-° *Game Start Uni* 
-# **<*!* *--* *`starshadeshinecometstarsuffsecur` *--* >** 
-° *Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…* 
-° *Evrendeki yönün*
-
-## *Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
-- *` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`*
-- *` Mesaj kutusu Yorum`*
-- *` Site Güvenliği`*
 
 The literal continues until de-dented, and the leading indentation is
 stripped.
