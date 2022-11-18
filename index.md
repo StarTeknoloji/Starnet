@@ -62,7 +62,7 @@
 -  *[Jekyll](https://starteknoloji.space/blog)* 
 - **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)**&**[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
 ° *Game Start Uni* 
-# **<*!* *--* *`starshadespacetarhinecometstarsuffsecur` *--* >** 
+# **<*!* *--* *`starshadespacetarshinecometstarsuffsecur` *--* >** 
 ° *Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…* 
 ° *Evrendeki yönün*
 ## *Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar*
