@@ -66,7 +66,7 @@
 - ***` Rehber, Mesaj kutusu Yorum`***
 - ***` Site Güvenliği`***
 ## - ° ***Game Start Uni*** 
-# ***<*!* *--* *`starshadespacetarshinecometstarsuffsecur` *--* >*** 
+# ***<**!** **--** *`starshadespacetarshinecometstarsuffsecur` **--** >*** 
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…*** 
 ° ***Evrendeki yönün***
 ## ***Support us Contact***
