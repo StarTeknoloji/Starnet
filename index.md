@@ -48,7 +48,7 @@
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 > <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 > <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
-> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
+>>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
 > <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
 > - ***[www.CodesExe.com Tracing](https://codesexe.com)***        
