@@ -56,7 +56,7 @@
 > - ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***   
 > - ***[www.Codes.computer KaTeX](https://www.codes.computer)***
 ## ***This is an Emerging Platform*** #
-" Please Contribute 
+°  ***Please Contribut***
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
 -  ***[Reklam](https://starteknoloji.space/inbox)***
 -  ***[404.](https://starteknoloji.space/inboks)***
