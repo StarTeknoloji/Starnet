@@ -6,7 +6,7 @@
 # **`Teknoloji.space`*
 =======
  
-# ***[***`(*``STAR Teknolojiju`*** ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***`](https://starteknoloji.space/about)*** #                           
+# ***[**`(*`** **`STAR Teknolojiju`** ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***`](https://starteknoloji.space/about)***                          
 ## ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
 ## ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
 ## **`Teknoloji.space`*
@@ -14,9 +14,9 @@
 >>>>>>> 65a73266b323eae18f387ff4ec47b51c0c5fca84
 ![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 >![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
-# *`quiet security`* *$* *`yıldız teknolojicisi`*
+# *`quiet security`* **$** *`yıldız teknolojicisi`*
 # *`Güvenli Alış Veriş(Devamsız)`* ![Fgddj_yX0AA7Grr](https://user-images.githubusercontent.com/93947784/200559799-2d834958-6191-43fe-8abe-ebc4ab826927.jpeg)
-## [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
+° ***[Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)***
 >![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](httpslhs://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
@@ -56,7 +56,7 @@
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 > <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 > <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
-> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
+>>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
 > <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
 > - ***[www.CodesExe.com Tracing](https://codesexe.com)***        
@@ -64,7 +64,7 @@
 > - ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***   
 > - ***[www.Codes.computer KaTeX](https://www.codes.computer)***
 ## ***This is an Emerging Platform*** #
-" Please Contribute 
+°  ***Please Contribut***
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
 -  ***[Reklam](https://starteknoloji.space/inbox)***
 -  ***[404.](https://starteknoloji.space/inboks)***
