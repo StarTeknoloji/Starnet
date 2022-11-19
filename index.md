@@ -66,12 +66,12 @@
 - ***` Rehber, Mesaj kutusu Yorum`***
 - ***` Site Güvenliği`***
 ## - ° ***Game Start Uni*** 
-# ***<**!** **--** *`starshadespacetarshinecometstarsuffsecur` **--** >*** 
+# ***<**! *--* *`starshadespacetarshinecometstarsuffsecur` *--* >*** 
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…*** 
 ° ***Evrendeki yönün***
 ## ***Support us Contact***
-> ## `+90 0507 236 39 28`    
-> ## `+90 0288 318 33 40` 
+> ## ***`+90 0507 236 39 28`***    
+> ## ***`+90 0288 318 33 40`*** 
 > ## ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***    
 > ## ***[ercetinguler@codesexe.com](https://outlook.live.com)***
 > ## ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
