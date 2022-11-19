@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-
-# *[**`SPACE` *`(`* *`STAR Teknolojici`* `*``*©*``**`**`](Saturn)*
-# *`net.starteknoloji.space`*
-# *`*.starteknoloji.net`*
-# **`Teknoloji.space`*
-=======
- 
 # ***[**`(*`** **`STAR Teknolojiju`** ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***`](https://starteknoloji.space/about)***                          
 ## ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
 ## ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
