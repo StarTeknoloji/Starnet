@@ -1,5 +1,5 @@
 
-# ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***                           
+# ***[|``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`|](https://starteknoloji.space/about)***                           
 ## ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
 ## ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
 ## **`Teknoloji.space`*
@@ -9,7 +9,7 @@
 # *`quiet security`* *$* *`yıldız teknolojicisi`*
 # *`Güvenli Alış Veriş(Devamsız)`* ![Fgddj_yX0AA7Grr](https://user-images.githubusercontent.com/93947784/200559799-2d834958-6191-43fe-8abe-ebc4ab826927.jpeg)
 ## [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
->![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
+## ![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](httpslhs://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
