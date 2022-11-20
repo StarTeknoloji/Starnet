@@ -1,5 +1,5 @@
 
-- ***[*|``(*```STARSUFF`|* *|`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`|*](https://starteknoloji.space/about)***                           
+- ***|[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`]|(https://starteknoloji.space/about)***                           
 ## ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
 ## ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
 ## **`Teknoloji.space`*
