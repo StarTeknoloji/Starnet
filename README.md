@@ -22,7 +22,7 @@
 - **|`Planlar`|**
 - ***Metadata***
 - ***Sign, Logo, Symbol*** 
-- ***Karakter Geliştirme Uygulaması (plan)***
+- ***Karakter Geliştirme Uygulaması***
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
