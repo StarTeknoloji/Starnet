@@ -54,7 +54,7 @@
 > - ***[www.CodesExe.com Tracing](https://codesexe.com)***        
 > - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 > - ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***   
-> - ***[www.Codes.computer KaTeX](https://www.codes.computer)***
+> - ***[www.Codes.computer KaTeX](https://codes.computer/)***
 ## ***This is an Emerging Platform*** #
 " Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
