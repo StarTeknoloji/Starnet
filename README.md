@@ -5,7 +5,7 @@
 # ***@starteknoloji.net***
 # ***dev.starteknoloji.tel***
 # ***net.starteknoloji.space***
-# ***app.starteknoloji.io*** ***planlarımız arasında***
+# ***app.starteknoloji.io***
 # ***NET uygulamamız için https://Net.StarTeknoloji.Space*** 
 ![indir (15)](https://user-images.githubusercontent.com/93947784/196596827-97ab0514-ddf0-457e-8dcf-abe69f18f7d8.png)![indir (11)](https://user-images.githubusercontent.com/93947784/197026144-bd604682-f963-4f97-b60c-4d438bb8b110.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
