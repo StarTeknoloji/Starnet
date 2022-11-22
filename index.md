@@ -1,4 +1,4 @@
-
+![_E__png gift_2022%20report%20gift_STARteknoloji webp](https://user-images.githubusercontent.com/93947784/203376626-32ac841b-bbac-4be6-a2d5-3c88deec62fb.png)
 - ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***                           
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
 # ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
