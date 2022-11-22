@@ -19,7 +19,9 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 ![5077109 (5)](https://user-images.githubusercontent.com/93947784/188820165-8435f006-22a8-4fab-ab72-481ea978d8e8.png)
-
+- ***|`Planlar`|***
+- ***Logo, Symbol*** 
+- ***Metadata***
 
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
