@@ -5,7 +5,7 @@
 # ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
 # **`Teknoloji.space`*
 # ***`www.tecju.com`***  *****`TEKNOLOJİ'NİN USTASI`*****
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://codes-exe.github.io/github-slideshow/#/">***STARteknoloji-slideshow</a></p></body></html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://codes-exe.github.io/github-slideshow/#/">STARteknoloji-slideshow</a></p></body></html>
 ![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 # *`quiet security`* *$* *`yıldız teknolojicisi`*
