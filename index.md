@@ -22,14 +22,14 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 # **StarTeknolojiSpace* </>
-## ***Computer İnformation Services***
+-## ***Computer İnformation Services***
  ## `Computer and Peripherals`
  ## `Network Setup`
  ## `Website Setup` 
  ## `Server Setup`
  ## `Enterprise Application Management and Release Development`
  ## `Information Technology Consulting, Microsoft MCP Continuity`
- ## *Missions %100 local*  
+- ## *Missions %100 local*  
  # 1.`Computer, Phone, Tablet, Technical Service.`
  # 2.`Operating System Installation, Application Installation,.`
  # 3.`Backup and Recovery`
@@ -53,10 +53,10 @@
 ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
  <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
- - ***[www.CodesExe.com Tracing](https://codesexe.com)***
- - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
- - ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***
- - ***[www.Codes.computer KaTeX](https://codes.computer/)***
+-  ***[www.CodesExe.com Tracing](https://codesexe.com)***
+-  ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
+- ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***
+- ***[www.Codes.computer KaTeX](https://codes.computer/)***
 ## ***This is an Emerging Platform*** #
 " Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
