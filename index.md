@@ -19,8 +19,7 @@
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
-[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
-# <h1> **StarTeknolojiSpace* <\h1>
+[![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml) <h1> **StarTeknolojiSpace* <\h1>
 ## ***Computer İnformation Services***
 > ## `Computer and Peripherals`
 > ## `Network Setup`
