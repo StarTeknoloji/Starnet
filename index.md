@@ -21,27 +21,27 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
-# **StarTeknolojiSpace* </>
--## ***Computer İnformation Services***
+# **StarTeknolojiSpace* 
+- ***Computer İnformation Services***
  ## `Computer and Peripherals`
  ## `Network Setup`
  ## `Website Setup` 
  ## `Server Setup`
  ## `Enterprise Application Management and Release Development`
  ## `Information Technology Consulting, Microsoft MCP Continuity`
-- ## *Missions %100 local*  
+- ***Missions %100 local****  
  # 1.`Computer, Phone, Tablet, Technical Service.`
- # 2.`Operating System Installation, Application Installation,.`
- # 3.`Backup and Recovery`
- # 4.`Official Printout, Photocopy, Color output.`
- # 5.`Security Camera ve Web Cablo  Connection.`
- # 6.`A4 PVC Coating, Spiral Notebook.`
- # 7.`Second-Hand Trading.`
- # 8.`We have Motherboard Repair, Eprom process, Soldering.`
- # 9.`Warranty and Outsourcing.`
- # 10.`10:00 ve 19:00 Study.`
+  2.`Operating System Installation, Application Installation,.`
+  3.`Backup and Recovery`
+  4.`Official Printout, Photocopy, Color output.`
+  5.`Security Camera ve Web Cablo  Connection.`
+  6.`A4 PVC Coating, Spiral Notebook.`
+  7.`Second-Hand Trading.`
+  8.`We have Motherboard Repair, Eprom process, Soldering.`
+  9.`Warranty and Outsourcing.`
+  10.`10:00 ve 19:00 Study.`
 ## ***Our project*** 
- ## ***Project STARSUFF private STARSHADE public***
+- ***Project STARSUFF private STARSHADE public***
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`***
 ## ***`Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com`***
@@ -72,12 +72,12 @@
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…*** 
 ° ***Evrendeki yönün***
 ## ***Support us Contact***
- ## ***`+90 0507 236 39 28`***
- ## ***`+90 0288 318 33 40`***
- ## ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***
- ## ***[ercetinguler@codesexe.com](https://outlook.live.com)***
- ## ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
- ## ***[user@starcomputer.space](https://outlok.live.com)***
+ - ***`+90 0507 236 39 28`***
+ - ***`+90 0288 318 33 40`***
+ - ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***
+ - ***[ercetinguler@codesexe.com](https://outlook.live.com)***
+ - ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
+ - ***[user@starcomputer.space](https://outlok.live.com)***
 - **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)**
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7677025,17z/data=!3m1!4b1!4m5!3m4!1s0x40a09da495093447:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912?hl=en&authuser=0)
 
