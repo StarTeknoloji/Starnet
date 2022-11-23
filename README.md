@@ -3,6 +3,7 @@
 - ***|`Özellikler`|***
 # ***@starteknoloji.space*** 
 # ***@starteknoloji.net***
+# ***net.starteknoloji.dev***
 # ***dev.starteknoloji.tel***
 # ***net.starteknoloji.space***
 # ***app.starteknoloji.io***
