@@ -225,3 +225,4 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://codes-exe.github.io/github-slideshow/#/">github-slideshow</a></p></body></html>
