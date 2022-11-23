@@ -1,7 +1,7 @@
 ![_E__png gift_2022%20report%20gift_STARteknoloji webp](https://user-images.githubusercontent.com/93947784/203376626-32ac841b-bbac-4be6-a2d5-3c88deec62fb.png)
 - ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***                           
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
-# ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
+# ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)*** ***`Net.Starteknoloji.dev`***
 # **`Teknoloji.space`*
 # ***`www.tecju.com`***  *****`TEKNOLOJİ'NİN USTASI`*****
 ![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
