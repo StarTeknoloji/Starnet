@@ -1,5 +1,5 @@
 ![_E__png gift_2022%20report%20gift_STARteknoloji webp](https://user-images.githubusercontent.com/93947784/203376626-32ac841b-bbac-4be6-a2d5-3c88deec62fb.png)
-- ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***                           
+- ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)***
 # ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)*** ***`Net.Starteknoloji.dev`***
 # **`Teknoloji.space`*
@@ -20,63 +20,63 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 # **StarTeknolojiSpace*
-## ***Computer İnformation Services***     
+## ***Computer İnformation Services***
 > ## `Computer and Peripherals`
 > ## `Network Setup`
 > ## `Website Setup` 
 > ## `Server Setup`
-> ## `Enterprise Application Management and Release Development`              
+> ## `Enterprise Application Management and Release Development`
 > ## `Information Technology Consulting, Microsoft MCP Continuity`
 > ## *Missions %100 local*  
 > # 1.`Computer, Phone, Tablet, Technical Service.`
 > # 2.`Operating System Installation, Application Installation,.`
 > # 3.`Backup and Recovery`
-> # 4.`Official Printout, Photocopy, Color output.` 
+> # 4.`Official Printout, Photocopy, Color output.`
 > # 5.`Security Camera ve Web Cablo  Connection.`
 > # 6.`A4 PVC Coating, Spiral Notebook.`
 > # 7.`Second-Hand Trading.`
 > # 8.`We have Motherboard Repair, Eprom process, Soldering.`
 > # 9.`Warranty and Outsourcing.`
-> # 10.`10:00 ve 19:00 Study.` 
+> # 10.`10:00 ve 19:00 Study.`
 ## ***Our project*** 
 > ## ***Project STARSUFF private STARSHADE public***
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.`***
 ## ***`Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com`***
 >>> ## ***Discord***
-## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)*** 
+## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 > <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 > <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 >>> ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
 > <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
-> - ***[www.CodesExe.com Tracing](https://codesexe.com)***        
+> - ***[www.CodesExe.com Tracing](https://codesexe.com)***
 > - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
-> - ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***   
+> - ***[www.Starcomputer.space Jekyll](https://starcomputer.space)***
 > - ***[www.Codes.computer KaTeX](https://codes.computer/)***
 ## ***This is an Emerging Platform*** #
 " Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
 -  ***[Reklam](https://starteknoloji.space/inbox)***
 -  ***[404.](https://starteknoloji.space/inboks)***
--  ***[Jekyll](https://starteknoloji.space/blog)*** 
+-  ***[Jekyll](https://starteknoloji.space/blog)***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - ***` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`***
 - *` Rehber, Mesaj kutusu Yorum`*
 - *` Site Güvenliği`*
-## - ° ***Game Start Uni*** 
-# ***<!* *--* *`starshadespacetarshinecometstarsuffsecur` --* >*** 
+## - ° ***Game Start Uni***
+# ***<!* *--* *`starshadespacetarshinecometstarsuffsecur` --* >***
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…*** 
 ° ***Evrendeki yönün***
 ## ***Support us Contact***
-> ## ***`+90 0507 236 39 28`***    
-> ## ***`+90 0288 318 33 40`*** 
-> ## ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***    
+> ## ***`+90 0507 236 39 28`***
+> ## ***`+90 0288 318 33 40`***
+> ## ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***
 > ## ***[ercetinguler@codesexe.com](https://outlook.live.com)***
 > ## ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
 > ## ***[user@starcomputer.space](https://outlok.live.com)***
-- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)**  
+- **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)**
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7677025,17z/data=!3m1!4b1!4m5!3m4!1s0x40a09da495093447:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912?hl=en&authuser=0)
 
 The literal continues until de-dented, and the leading indentation is
