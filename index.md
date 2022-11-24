@@ -60,9 +60,9 @@
 ## ***This is an Emerging Platform*** #
 " Please Contribute 
 ![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
--  ***[Reklam](https://starteknoloji.space/inbox)***
+-  ***[Local](https://starteknoloji.space/blog)***
 -  ***[404.](https://starteknoloji.space/inboks)***
--  ***[Jekyll](https://starteknoloji.space/blog)***
+-  ***[Jekyll](https://starteknoloji.space/inbox)***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - ***` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`***
 - *` Rehber, Mesaj kutusu Yorum`*
