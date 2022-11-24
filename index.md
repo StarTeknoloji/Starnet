@@ -1,4 +1,16 @@
+---
+layout: presentation
+---
 
+{% for post in site.posts reversed %}
+	{% include slide.html %}
+	<div class="page-break"></div>
+{% endfor %}
+{% unless site.simple-slideshow %}
+{% if site.overview %}
+<section id="overview" class="step" {% for attr in site.overview-data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}></section>
+{% endif %}
+{% endunless %}
 ![_E__png gift_2022%20report%20gift_STARteknoloji webp](https://user-images.githubusercontent.com/93947784/203376626-32ac841b-bbac-4be6-a2d5-3c88deec62fb.png)
 - ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)*** ***`Net.Starteknoloji.dev`***
