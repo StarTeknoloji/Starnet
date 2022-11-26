@@ -1,4 +1,4 @@
-![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204091688-f1d39b8b-2f51-45c8-a7d4-69037d2c854e.png)
+![COMPUTER](https://user-images.githubusercontent.com/93947784/204100011-604df4b0-0c8a-435d-b59d-e746081cb43b.png)
 - ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)*** ***`Net.Starteknoloji.dev`***
 # ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
