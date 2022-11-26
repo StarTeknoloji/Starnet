@@ -16,6 +16,7 @@
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg?branch=Codes-Exe-patch-5)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/Codes-Exe/StarTeknoloji-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Codes-Exe/StarTeknoloji-Web/actions/workflows/pages/pages-build-deployment)
 [![pages-build-deployment](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
