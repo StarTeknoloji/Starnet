@@ -1,5 +1,4 @@
-
-![_E__png gift_2022%20report%20gift_STARteknoloji webp](https://user-images.githubusercontent.com/93947784/203376626-32ac841b-bbac-4be6-a2d5-3c88deec62fb.png)
+![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204091688-f1d39b8b-2f51-45c8-a7d4-69037d2c854e.png)
 - ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)*** ***`Net.Starteknoloji.dev`***
 # ***[`*.StarTeknoloji.net`](https://*.starteknoloji.net)***
