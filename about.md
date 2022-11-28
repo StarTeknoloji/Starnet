@@ -1,7 +1,7 @@
 [<img width="600" alt="TouTube" src="https://user-images.githubusercontent.com/93947784/200424897-184c6343-bddc-4a7b-8ff8-997dc214c25c.png">](https://www.youtube.com/channel/UCJdIwzlJqN_T8_xyyeUTtJw)
 [![channels4_banner](https://user-images.githubusercontent.com/93947784/200999524-18532c09-7617-4bce-baca-0c3d6e46b1dd.jpg)](https://music.youtube.com/channel/UCJdIwzlJqN_T8_xyyeUTtJw?feature=share)
 
->>![unnamed (2)](https://user-images.githubusercontent.com/93947784/198833909-539730b5-266e-4122-a048-56e625b5528a.png)
+>![unnamed (2)](https://user-images.githubusercontent.com/93947784/198833909-539730b5-266e-4122-a048-56e625b5528a.png)
 ![krxd](https://user-images.githubusercontent.com/93947784/198012506-80a6f1bd-c2ff-47a3-936a-71a910607d54.png)
 ![1666597976341](https://user-images.githubusercontent.com/93947784/198012516-1d9293b6-d932-4525-af77-dfebfd30a918.png)
 ![unnamed](https://user-images.githubusercontent.com/93947784/199841100-4f1d1eca-8ef4-47e1-abd7-285c2f73d436.jpg)
@@ -27,7 +27,7 @@
 *|`www.teknoloji.foundation`||`www.teknoloji.solutions`||`www.teknoloji.exchange`||`www.teknoloji.international`|*
 *|`www.teknoloji.codes`||`www.teknoloji.computer`||`www.teknoloji.domains`||`www.teknoloji.skin`||`www.teknoloji.best`|*
 *|`www.teknoloji.homes`||`www.teknoloji.quest`|*
->- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.*
+- *Bu domain alanları almak isteyen kişiler ercetinguler@codesexe.com 'a teklif göndererek uzlaşıldığında godaddy Hesabına tranfer yapılır. Hepsini bir hesaba transfer mümkündür.*
 # *PROJE PLAN; COLLABORATION system* 
 **(No action taken)
 >>>![blob (6)](https://user-images.githubusercontent.com/93947784/200133219-c4fc5460-e768-4012-87e7-cf8a3f57610d.png)
