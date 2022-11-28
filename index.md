@@ -59,8 +59,7 @@
 - ***[www.Codes.computer KaTeX](https://codes.computer/)***
 ## ***This is an Emerging Platform*** #
 " Please Contribute 
-![unnamed31](https://user-images.githubusercontent.com/93947784/200757796-35cd3f03-8901-4d1e-9dc0-2ff0160a7ca2.png)
--  ***[Local](https://starteknoloji.space/blog)***
+![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  ***[Local](https://starteknoloji.space/blog)***
 -  ***[404.](https://starteknoloji.space/inboks)***
 -  ***[Jekyll](https://starteknoloji.space/inbox)***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
