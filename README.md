@@ -24,7 +24,7 @@
 - ***|`Planlar`|***
 - ***Logo, Symbol*** 
 - ***Metadata***
-- Kısaltılmış korrumalı adresim https://t.co/UfvWCoJNWg
+- ***Kısaltılmış korrumalı adresim https://t.co/UfvWCoJNWg***
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 ![5077109](https://user-images.githubusercontent.com/93947784/189415310-005a0ddc-fe72-425f-a3a5-a042aded438d.png)
