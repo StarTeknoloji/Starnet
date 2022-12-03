@@ -225,6 +225,7 @@ set2:
 
 - ***[***``**```Star````My```Tech``**``***]***![Animation](https://user-images.githubusercontent.com/93947784/205455976-687fbbea-35e9-4c9a-ade0-ff34679ff256.gif)
 ## ***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***
+![kagcnsvl](https://user-images.githubusercontent.com/93947784/205461744-3d8afd25-d3cb-4b8b-a60c-c50b493b6bb6.png)
 ![qfdqovlp](https://user-images.githubusercontent.com/93947784/205452385-6f16b0ce-86cc-4b0d-98fe-cb08eac236cf.png)
 ![StarMyTech](https://user-images.githubusercontent.com/93947784/205447008-648194ac-c502-4287-bb7e-1bac38a2e136.png)
 ![StarMyTechpng](https://user-images.githubusercontent.com/93947784/205444087-5542be9b-bb34-4aaa-b5fd-9d8836e952f5.png)
