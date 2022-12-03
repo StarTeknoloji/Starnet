@@ -222,8 +222,8 @@ set2:
   item3: null
 ...  # document end > |
 
--***[*`**``Star```My```Tech``**``*]***
-![StarMyTechpng](https://user-images.githubusercontent.com/93947784/205444087-5542be9b-bb34-4aaa-b5fd-9d8836e952f5.png)
+- ***[***`**``Star```My```Tech``**``***]***
 ## ***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***
 ![dukkanyenilogo](https://user-images.githubusercontent.com/93947784/205444537-14890048-2ff8-4372-ba27-85fb5b3bb5cb.jpeg)
+![StarMyTechpng](https://user-images.githubusercontent.com/93947784/205444087-5542be9b-bb34-4aaa-b5fd-9d8836e952f5.png)
 ![StarMyTech1920px](https://user-images.githubusercontent.com/93947784/205444934-c0f90853-dffb-4ed7-ad5c-91f45fa99492.png)
