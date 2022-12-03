@@ -1,4 +1,4 @@
-![Uploading STARteknoloji (dev).png…]()
+![STARteknoloji (dev)](https://user-images.githubusercontent.com/93947784/205434226-47b71e02-a7ce-4c80-b6b1-105e30b2e507.png)
 - ***Hoşgeldin***
 - ***|`Özellikler`|***
 # ***@starteknoloji.space*** 
