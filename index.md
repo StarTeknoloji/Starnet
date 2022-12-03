@@ -226,5 +226,6 @@ set2:
 ## ***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***
 ![edlpkfdz](https://user-images.githubusercontent.com/93947784/205446300-f982f304-4dca-44a4-9de9-381706059626.png)
 ![dukkanyenilogo](https://user-images.githubusercontent.com/93947784/205444537-14890048-2ff8-4372-ba27-85fb5b3bb5cb.jpeg)
+![StarMyTech](https://user-images.githubusercontent.com/93947784/205447008-648194ac-c502-4287-bb7e-1bac38a2e136.png)
 ![StarMyTechpng](https://user-images.githubusercontent.com/93947784/205444087-5542be9b-bb34-4aaa-b5fd-9d8836e952f5.png)
 ![StarMyTech1920px](https://user-images.githubusercontent.com/93947784/205444934-c0f90853-dffb-4ed7-ad5c-91f45fa99492.png)
