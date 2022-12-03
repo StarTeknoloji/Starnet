@@ -223,7 +223,7 @@ set2:
   item3: null
 ...  # document end > |
 
-- ***[***``**```Star````My```Tech``**``***]***
+- ***[***``**```Star````My```Tech``**``***]***![Animation](https://user-images.githubusercontent.com/93947784/205455976-687fbbea-35e9-4c9a-ade0-ff34679ff256.gif)
 ## ***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***
 ![qfdqovlp](https://user-images.githubusercontent.com/93947784/205452385-6f16b0ce-86cc-4b0d-98fe-cb08eac236cf.png)
 ![StarMyTech](https://user-images.githubusercontent.com/93947784/205447008-648194ac-c502-4287-bb7e-1bac38a2e136.png)
