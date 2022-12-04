@@ -232,3 +232,5 @@ set2:
 ![edlpkfdz](https://user-images.githubusercontent.com/93947784/205446300-f982f304-4dca-44a4-9de9-381706059626.png)
 ![StarMyTech1920px](https://user-images.githubusercontent.com/93947784/205444934-c0f90853-dffb-4ed7-ad5c-91f45fa99492.png)
 ![vjtjrfv23z](https://user-images.githubusercontent.com/93947784/205481368-4368eced-bb5f-47d9-99b9-e3b96bd9ca76.png)
+![ydlntpop_1(1)](https://user-images.githubusercontent.com/93947784/205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28.png)
+
