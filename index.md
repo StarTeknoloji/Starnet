@@ -1,5 +1,5 @@
 
- 
+<h1>Hello</h1>
 ![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)- ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)*** ***`Net.Starteknoloji.dev`*** ***[`Web.StarComputer.Space`](https://web.starcomputer.space)***
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://codes-exe.github.io/github-slideshow/#/">STARteknoloji-slideshow</a></p></body></html>
@@ -53,7 +53,7 @@
 - ***[www.CodesExe.com Tracing](https://codesexe.com)***
 - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 - ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
-- ***[www.Codes.Computer KaTeX](https://codes.computer/)***
+- ***[www.Codes.Computer KaTeX](https://codes.computer)***
 ## ***This is an Emerging Platform*** #
 - ***Please Contribute*** -
 ![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  ***[Local](https://starteknoloji.space/blog)***
@@ -69,9 +69,9 @@
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…***
 ° ***Evrendeki yönün***
 ° ***Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
- ## ***Support us Contact***
- - ***`+90 0507 236 39 28`***
- - ***`+90 0288 318 33 40`***
+ - ***Support us Contact***
+ - ***|`+90 0507 236 39 28`|***
+ - ***|`+90 0288 318 33 40`|***
  - ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***
  - ***[ercetinguler@codesexe.com](https://outlook.live.com)***
  - ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
