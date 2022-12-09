@@ -64,7 +64,7 @@
 - ***`www.tecju.com`***  ***`TEKNOLOJİ'NİN USTASI`***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - ***|`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.`|***
- <h3>Game Start Uni<h3/>
+  ### ***Game Start Uni*** ###
 # ***<!* *--* *`starshadespacetarshinecometstarsuffsecur` --* >***
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…***
 ° ***Evrendeki yönün***
