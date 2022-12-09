@@ -64,12 +64,11 @@
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - ***|`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`|***
 - ***|`Rehber, Mesaj kutusu Yorum`|***
-- ***|`Site Güvenliği`|***
 ## - ° ***Game Start Uni***
 # ***<!* *--* *`starshadespacetarshinecometstarsuffsecur` --* >***
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…***
 ° ***Evrendeki yönün***
-° ***Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin
+° ***Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
  ## ***Support us Contact***
  - ***`+90 0507 236 39 28`***
  - ***`+90 0288 318 33 40`***
@@ -227,7 +226,7 @@ set2:
 ...  # document end > |
 
 - ***[***``**```Star````My```Tech``**``***]***![Animation](https://user-images.githubusercontent.com/93947784/205455976-687fbbea-35e9-4c9a-ade0-ff34679ff256.gif)
-## ***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***
+## *|***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***|*
 ![kagcnsvl](https://user-images.githubusercontent.com/93947784/205461744-3d8afd25-d3cb-4b8b-a60c-c50b493b6bb6.png)
 ![qfdqovlp](https://user-images.githubusercontent.com/93947784/205452385-6f16b0ce-86cc-4b0d-98fe-cb08eac236cf.png)
 ![StarMyTech](https://user-images.githubusercontent.com/93947784/205447008-648194ac-c502-4287-bb7e-1bac38a2e136.png)
