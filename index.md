@@ -55,17 +55,18 @@
 - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 - ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
 - ***[www.Codes.Computer KaTeX](https://codes.computer)***
+- ***[www.MyComputer.Digital]
 ## ***This is an Emerging Platform*** #
 - ***Please Contribute*** -
 ![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)***
 - ***[Jekyll](https://starteknoloji.space/inbox)***
-- ***`*Teknoloji.space`***
 - ***`www.tecju.com`***  ***`TEKNOLOJİ'NİN USTASI`***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - ***|`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.`|***
+-  ****|`Mesaj ve yorum kutusu`|****
   ### ***Game Start Uni*** ###
-# ***<!* *--* *`starshadespacetarshinecometstarsuffsecur` --* >***
+# ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…***
 ° ***Evrendeki yönün***
 ° ***Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
@@ -76,6 +77,9 @@
  - ***[ercetinguler@codesexe.com](https://outlook.live.com)***
  - ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
  - ***[user@starcomputer.space](https://outlok.live.com)***
+ - ***[ercetin@mycomputer.digital](https://outlok.live.com)***
+ - - ***[***``**```Star````My```Tech``**``***]***
+## *|***`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`***|*
 - **[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)**
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7677025,17z/data=!3m1!4b1!4m5!3m4!1s0x40a09da495093447:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912?hl=en&authuser=0)
 
@@ -224,15 +228,4 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
-
-- ***[***``**```Star````My```Tech``**``***]***![Animation](https://user-images.githubusercontent.com/93947784/205455976-687fbbea-35e9-4c9a-ade0-ff34679ff256.gif)
-## *|***`Tabelamızı ve Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim`***|*
-![kagcnsvl](https://user-images.githubusercontent.com/93947784/205461744-3d8afd25-d3cb-4b8b-a60c-c50b493b6bb6.png)
-![qfdqovlp](https://user-images.githubusercontent.com/93947784/205452385-6f16b0ce-86cc-4b0d-98fe-cb08eac236cf.png)
-![StarMyTech](https://user-images.githubusercontent.com/93947784/205447008-648194ac-c502-4287-bb7e-1bac38a2e136.png)
-![StarMyTechpng](https://user-images.githubusercontent.com/93947784/205444087-5542be9b-bb34-4aaa-b5fd-9d8836e952f5.png)
-![edlpkfdz](https://user-images.githubusercontent.com/93947784/205446300-f982f304-4dca-44a4-9de9-381706059626.png)
-![StarMyTech1920px](https://user-images.githubusercontent.com/93947784/205444934-c0f90853-dffb-4ed7-ad5c-91f45fa99492.png)
-![vjtjrfv23z](https://user-images.githubusercontent.com/93947784/205481368-4368eced-bb5f-47d9-99b9-e3b96bd9ca76.png)
-![ydlntpop_1(1)](https://user-images.githubusercontent.com/93947784/205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28.png)
 
