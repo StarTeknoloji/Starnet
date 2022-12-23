@@ -55,17 +55,18 @@
 - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 - ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
 - ***[www.Codes.Computer KaTeX](https://codes.computer)***
-- ***[www.MyComputer.Digital]
-## ***This is an Emerging Platform*** #
-- ***Please Contribute*** -
-![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  ***[Local](https://starteknoloji.space/blog)***
+- ***[www.MyComputer.Digital](https://mycomputer.digital)
+## ****This is an Emerging Platform**** 
+- ****Please Contribute**** 
+![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
+- ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)***
 - ***[Jekyll](https://starteknoloji.space/inbox)***
-- ***`www.tecju.com`***  ***`TEKNOLOJİ'NİN USTASI`***
+- *****`www.tecju.com`*****  *****`TEKNOLOJİ'NİN USTASI`*****
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - ***|`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.`|***
 -  ****|`Mesaj ve yorum kutusu`|****
-  ### ***Game Start Uni*** ###
+## ***Game Start Uni*** ##
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…***
 ° ***Evrendeki yönün***
