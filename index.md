@@ -54,7 +54,7 @@
 - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 - ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
 - ***[www.Codes.Computer KaTeX](https://codes.computer)***
-- ***[www.MyComputer.Digital](https://mycomputer.digital)
+- ***[www.MyComputer.Digital](https://mycomputer.digital)***
 ## ****This is an Emerging Platform**** 
 - ****Please Contribute**** 
 ![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
