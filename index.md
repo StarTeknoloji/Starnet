@@ -45,7 +45,7 @@
 ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
  <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
-- ***[www.starsuff.net Reveal.js](https://starsuff.net)
+- ***[www.starsuff.net Reveal.js](https://starsuff.net)***
 - ***[www.CodesExe.com Tracing](https://codesexe.com)***
 - ***[www.CodesExe.org Json Schema](https://codesexe.org)***
 - ***[www.CodesExe.dev Json Schema Feature](codesexe.dev)***
