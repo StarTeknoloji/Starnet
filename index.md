@@ -48,7 +48,7 @@
 - ***[www.Starsuff.net Reveal.js](https://starsuff.net)***
 - ***[www.CodesExe.com Tracing](https://codesexe.com)***
 - ***[www.CodesExe.org Json Schema](https://codesexe.org)***
-- ***[www.CodesExe.dev Json Schema Feature](codesexe.dev)***
+- ***[www.CodesExe.dev Json Schema Feature](https://codesexe.dev)***
 - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 - ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
 - ***[www.Codes.Computer KaTeX](https://codes.computer)***
