@@ -30,13 +30,10 @@
   8.`We have Motherboard Repair, Eprom process, Soldering.`
   9.`Warranty and Outsourcing.`
   10.`10:00 ve 19:00 Study.`
-## ***Our project*** 
-- ***Project STARSUFF private STARSHADE public***
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
-## ***`Our supporters codes.computer, starteknolog.com, starcomputer.space, codesexe.com`***
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/204086860-5c858ee5-88da-49ba-8bf5-b12e43931474.png)
-## ***Discord***
+## ***DİSCORD***
 ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
