@@ -47,6 +47,7 @@
 ## ***Our Other Field Topics and Sections***
 - ***[www.CodesExe.com Tracing](https://codesexe.com)***
 - ***[www.CodesExe.org Json Schema](https://codesexe.org)***
+- ***[www.CodesExe.dev Json Schema Feature](codesexe.dev)***
 - ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 - ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
 - ***[www.Codes.Computer KaTeX](https://codes.computer)***
