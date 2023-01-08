@@ -51,11 +51,9 @@
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
 ## ****This is an Emerging Platform**** 
 - *Please Contribute*
-![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
 - ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)***
-- ***[Jekyll](https://starteknoloji.space/inbox)***
-- *`www.tecju.com`*  *`TEKNOLOJİ'NİN USTASI`*
+- ***[Jekyll](https://starteknoloji.space/inbox)***![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - *`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.`*
 - *`Mesaj ve yorum kutusu`*
@@ -72,7 +70,7 @@
  - ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
  - ***[user@starcomputer.space](https://outlok.live.com)***
  - ***[ercetin@mycomputer.digital](https://outlok.live.com)***
- - *****[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)*****
+ - ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)]Yeni Adresimiz
 Yakında Faaliyete Başlayacaktır.
 <h1>Bilgi</h1>
