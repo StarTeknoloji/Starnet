@@ -1,5 +1,5 @@
-- *****[***``**```Star````My```Tech``**``***]*****
-## ****`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`****
+- ***[***``**```Star````My```Tech``**``***]***
+## *****`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`*****
 ![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)- ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 # ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)[`Net.Starteknoloji.dev`](https://net.starteknoloji.dev)[`Web.StarComputer.Space`](https://web.starcomputer.space)[`space.starteknoloji.net`](https://space.starteknoloji.net)***
 -
