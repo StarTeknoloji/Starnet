@@ -45,7 +45,6 @@
 - ***[`www.CodesExe.org Json Schema`](https://codesexe.org)***
 - ***[`www.CodesExe.dev Json Schema Feature`](https://codesexe.dev)***
 - ***[`www.StarTeknolog.com Standard Js. Style`](https://starteknolog.com)***
-- ***[`www.StarComputer.Space Jekyll`](https://starcomputer.space)***
 - ***[`www.Codes.Computer KaTeX`](https://codes.computer)***
 - ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
