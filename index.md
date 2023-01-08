@@ -1,7 +1,7 @@
 - *****[***``**```Star````My```Tech``**``***]*****
 ## *|***`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`***|* 
 ![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)- ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
-# ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space) [`Net.Starteknoloji.dev`](https://net.starteknoloji.dev) [`Web.StarComputer.Space`](https://web.starcomputer.space) [`space.starteknoloji.net`](https://space.starteknoloji.net)***
+# ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)[`Net.Starteknoloji.dev`](https://net.starteknoloji.dev)[`Web.StarComputer.Space`](https://web.starcomputer.space)[`space.starteknoloji.net`](https://space.starteknoloji.net)***
 -
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://codes-exe.github.io/github-slideshow/#/">STARteknoloji-slideshow</a></p></body></html>
 >![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
@@ -40,17 +40,17 @@
 ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
  <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
-- ***[www.Starsuff.net Reveal.js](https://starsuff.net)***
-- ***[www.CodesExe.com Tracing](https://codesexe.com)***
-- ***[www.CodesExe.org Json Schema](https://codesexe.org)***
-- ***[www.CodesExe.dev Json Schema Feature](https://codesexe.dev)***
-- ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
-- ***[www.StarComputer.Space Jekyll](https://starcomputer.space)***
-- ***[www.Codes.Computer KaTeX](https://codes.computer)***
-- ***[www.MyComputer.Digital Fast Page](https://mycomputer.digital)***
-- ***[www.OksijenSoft.com Js. Script Action](https://oksijensoft.com)***
+- ***[`www.Starsuff.net Reveal.js`](https://starsuff.net)***
+- ***[`www.CodesExe.com Tracing`](https://codesexe.com)***
+- ***[`www.CodesExe.org Json Schema`](https://codesexe.org)***
+- ***[`www.CodesExe.dev Json Schema Feature`](https://codesexe.dev)***
+- ***[`www.StarTeknolog.com Standard Js. Style`](https://starteknolog.com)***
+- ***[`www.StarComputer.Space Jekyll`](https://starcomputer.space)***
+- ***[`www.Codes.Computer KaTeX`](https://codes.computer)***
+- ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
+- ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
 ## ****This is an Emerging Platform**** 
-- ****Please Contribute**** 
+- *Please Contribute*
 ![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
 - ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)***
