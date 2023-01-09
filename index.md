@@ -1,8 +1,8 @@
 - ***[***``**```Star````My```Tech``**``***]***
-## *****`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`*****
-![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)- ***[``(*```STARSUFF` `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
-# ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)[`Net.Starteknoloji.dev`](https://net.starteknoloji.dev)[`Web.StarComputer.Space`](https://web.starcomputer.space)[`space.starteknoloji.net`](https://space.starteknoloji.net)***
--
+## ***`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`***
+![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)
+***[``(*```STAR MyTech``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
+# ***[`Net.StarTeknoloji.Space`](https://net.starteknoloji.space)[`Net.Starteknoloji.dev`](https://net.starteknoloji.dev)[`Web.StarComputer.Space`](https://web.starcomputer.space)[`Space.StarTeknoloji.Net`](https://space.starteknoloji.net)***
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://codes-exe.github.io/github-slideshow/#/">STARteknoloji-slideshow</a></p></body></html>
 >![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
