@@ -51,10 +51,9 @@
 - ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
 ## ****This is an Emerging Platform****
-![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
 - *Please Contribute*
 - ***[Local](https://starteknoloji.space/blog)***
-- ***[404.](https://starteknoloji.space/inboks)***
+- ***[404.](https://starteknoloji.space/inboks)*** > -![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
 - ***[Jekyll](https://starteknoloji.space/inbox)***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 - *`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.`*
