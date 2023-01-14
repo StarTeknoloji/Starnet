@@ -49,7 +49,8 @@
 - ***[`www.Codes.Computer KaTeX`](https://codes.computer)***
 - ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
-## ****This is an Emerging Platform**** ![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
+## ****This is an Emerging Platform**** ![unnamed (6)]![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
+(https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
 - *Please Contribute*
 - ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)***
