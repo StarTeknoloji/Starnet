@@ -1,4 +1,4 @@
-- ***[***``**```Star````My```Tech``**``***]***![watermark_preview_image20230110-6591-1esdfmf 303](https://user-images.githubusercontent.com/93947784/212499036-a6c9608b-23f4-4dc6-a7b7-925e01a910c0.png)
+- ***[***``**```Star````My```Tech``**``***]*** >- ![watermark_preview_image20230110-6591-1esdfmf 303](https://user-images.githubusercontent.com/93947784/212499036-a6c9608b-23f4-4dc6-a7b7-925e01a910c0.png)
 ## ***`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`***
 ![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)
 ***[``(*```STAR MyTech`
@@ -49,8 +49,9 @@
 - ***[`www.Codes.Computer KaTeX`](https://codes.computer)***
 - ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
-## ****This is an Emerging Platform**** ![unnamed (6)]![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
-(https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
+## ****This is an Emerging Platform****
+![unnamed (6)](https://user-images.githubusercontent.com/93947784/204237799-ceddeaac-052e-48f5-b200-232a2768b021.png)-  
+![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
 - *Please Contribute*
 - ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)***
