@@ -1,6 +1,6 @@
 - ***[***``**```Star````My```Tech``**``***]***
-- ![18754980](https://user-images.githubusercontent.com/93947784/212503314-1f53d215-4a95-423c-8498-750d23b62579.png)
-### ***`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`***
+![18754980_transparent](https://user-images.githubusercontent.com/93947784/212530120-6fafb992-9596-48b8-9a73-d650e75b2810.png)
+- ### ***`İş Yeri Adresimizi Değiştiriyoruz Büyüyor ve Gelişiyoruz Katkıda Bulunan Herkese Teşekkür Ederim. Yakında Hizmetinizde`***
 ![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)
 ***[``(*```STAR MyTech`
 `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
