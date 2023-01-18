@@ -219,3 +219,5 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/fd90fd74-b31c-4012-8227-5d4d1c8f8965?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
