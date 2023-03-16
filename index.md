@@ -12,26 +12,7 @@
 [![pages-build-deployment](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
-<iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-# **StarTeknolojiSpace** 
- - ***Computer İnformation Services***
-  `Computer and Peripherals`
-  `Network Setup`
-  `Website Setup` 
-  `Server Setup`
-  `Enterprise Application Management and Release Development`
-  `Information Technology Consulting, Microsoft MCP Continuity`
-- ***Missions %100 local****  
-  1.`Computer, Phone, Tablet, Technical Service.`
-  2.`Operating System Installation, Application Installation,.`
-  3.`Backup and Recovery`
-  4.`Official Printout, Photocopy, Color output.`
-  5.`Security Camera ve Web Cablo  Connection.`
-  6.`A4 PVC Coating, Spiral Notebook.`
-  7.`Second-Hand Trading.`
-  8.`We have Motherboard Repair, Eprom process, Soldering.`
-  9.`Warranty and Outsourcing.`
-  10.`10:00 ve 19:00 Study.`
+<iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
 ## ***DİSCORD***
