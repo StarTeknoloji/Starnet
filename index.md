@@ -53,6 +53,7 @@
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
 ## ****This is an Emerging Platform****
 - *Please Contribute*
+- ***[Defter](https://starteknoloji.github.io/Defter)
 - ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)*** > -![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
 - ***[Jekyll](https://starteknoloji.space/inbox)***
