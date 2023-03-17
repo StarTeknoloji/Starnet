@@ -48,8 +48,8 @@
 ° ***Evrendeki yönün***
 ° ***Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
 ## ***Support us Contact***
- - ***|`+90 0507 236 39 28`|***
- - ***|`+90 0288 318 33 40`|***
+ - ***`+90 0507 236 39 28`***
+ - ***`+90 0288 318 33 40`***
 > - ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)]Yeni Adresimiz
 Yakında Faaliyet'e Başlayacaktır.
