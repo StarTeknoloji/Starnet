@@ -42,7 +42,7 @@
 ### *`KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.`*
 ### *`Mesaj ve yorum kutusu`*
 ## ***Game Start Uni*** ##
-## ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
+# ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
 ## ***Support us Contact***
 ### ***`+90 0507 236 39 28`***
