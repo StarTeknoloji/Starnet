@@ -22,14 +22,14 @@
 > ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
  <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 ## ***Our Other Field Topics and Sections***
-- ***[`www.Starsuff.net Reveal.js`](https://starsuff.net)***
-- ***[`www.CodesExe.com Tracing`](https://codesexe.com)***
-- ***[`www.CodesExe.org Json Schema`](https://codesexe.org)***
-- ***[`www.CodesExe.dev Json Schema Feature`](https://codesexe.dev)***
-- ***[`www.StarTeknolog.com Standard Js. Style`](https://starteknolog.com)***
-- ***[`www.Codes.Computer KaTeX`](https://codes.computer)***
-- ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
-- ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
+- *[`www.Starsuff.net Reveal.js`](https://starsuff.net)*
+- *[`www.CodesExe.com Tracing`](https://codesexe.com)*
+- *[`www.CodesExe.org Json Schema`](https://codesexe.org)*
+- *[`www.CodesExe.dev Json Schema Feature`](https://codesexe.dev)*
+- *[`www.StarTeknolog.com Standard Js. Style`](https://starteknolog.com)*
+- *[`www.Codes.Computer KaTeX`](https://codes.computer)*
+- *[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)*
+- *[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)*
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
 ## ****This is an Emerging Platform****
