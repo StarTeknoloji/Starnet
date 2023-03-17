@@ -13,8 +13,6 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 <iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-> ## ***ANNOUNCEMENT***
-## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
 ## ***DİSCORD***
 ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
@@ -32,6 +30,8 @@
 - ***[`www.Codes.Computer KaTeX`](https://codes.computer)***
 - ***[`www.MyComputer.Digital Fast Page`](https://mycomputer.digital)***
 - ***[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)***
+## ***ANNOUNCEMENT***
+## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
 ## ****This is an Emerging Platform****
 - *Please Contribute*
 - ***[Defter](https://starteknoloji.github.io/Defter)***
