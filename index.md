@@ -27,7 +27,7 @@
 ### ***[404.](https://starteknoloji.space/inboks)*** 
 ### ***[Jekyll](https://starteknoloji.space/inbox)***
 ## ***ANNOUNCEMENT***
-## ***Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.***
+### ***Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.***
 ## ***Our Other Field Topics and Sections***
 ### *[`www.Starsuff.net Reveal.js`](https://starsuff.net)*
 ### *[`www.CodesExe.com Tracing`](https://codesexe.com)*
