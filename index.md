@@ -32,8 +32,8 @@
 - *[`www.OksijenSoft.com Js. Script Action`](https://oksijensoft.com)*
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
-## ****This is an Emerging Platform****
-- *Please Contribute*
+## ***This is an Emerging Platform***
+- ***Please Contribute***
 - ***[Defter](https://starteknoloji.github.io/Defter)***
 - ***[Local](https://starteknoloji.space/blog)***
 - ***[404.](https://starteknoloji.space/inboks)*** 
