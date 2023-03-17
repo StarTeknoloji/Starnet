@@ -22,10 +22,10 @@
 < ![sponsor logo](https://user-images.githubusercontent.com/93947784/200869866-cfe838e3-95a3-4794-8824-1715a028420b.png)
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***
+![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
 ### ***[Defter](https://starteknoloji.github.io/Defter)***
 ### ***[Local](https://starteknoloji.space/blog)***
 ### ***[404.](https://starteknoloji.space/inboks)*** 
-![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
 ### ***[Jekyll](https://starteknoloji.space/inbox)***
 ## ***ANNOUNCEMENT***
 ## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
