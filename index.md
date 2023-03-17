@@ -47,7 +47,7 @@
 ° ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…***
 ° ***Evrendeki yönün***
 ° ***Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
- - ***Support us Contact***
+## ***Support us Contact***
  - ***|`+90 0507 236 39 28`|***
  - ***|`+90 0288 318 33 40`|***
  - ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***
