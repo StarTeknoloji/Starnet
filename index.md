@@ -14,8 +14,8 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 <iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 ## ***DİSCORD***
-## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
-## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
+### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
+### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
  <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 > ![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
