@@ -27,7 +27,7 @@
 ### ***[404.](https://starteknoloji.space/inboks)*** 
 ### ***[Jekyll](https://starteknoloji.space/inbox)***
 ## ***ANNOUNCEMENT***
-## ***`Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.`***
+## ***Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@codesexe.com People with Open Source, app projects are helped to work on these sites. It is free.***
 ## ***Our Other Field Topics and Sections***
 ### *[`www.Starsuff.net Reveal.js`](https://starsuff.net)*
 ### *[`www.CodesExe.com Tracing`](https://codesexe.com)*
@@ -47,7 +47,7 @@
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 33 40`***
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
-[![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)]Yeni Adresimiz
+![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png) Yeni Adresimiz
 Yakında Faaliyet'e Başlayacaktır.
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 <h1>Bilgi</h1>
