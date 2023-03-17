@@ -50,11 +50,6 @@
 ## ***Support us Contact***
  - ***|`+90 0507 236 39 28`|***
  - ***|`+90 0288 318 33 40`|***
- - ***[ercetinguler@starteknoloji.space](https://outlook.live.com)***
- - ***[ercetinguler@codesexe.com](https://outlook.live.com)***
- - ***[yazar@kodlar.bilgisayar](https://outlook.live.com)***
- - ***[user@starcomputer.space](https://outlok.live.com)***
- - ***[ercetin@mycomputer.digital](https://outlok.live.com)***
 > - ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)]Yeni Adresimiz
 Yakında Faaliyet'e Başlayacaktır.
