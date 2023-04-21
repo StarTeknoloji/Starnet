@@ -46,6 +46,8 @@
 ### ***`+90 0288 318 33 40`***
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 ![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png) Yeni Adresimiz
+'More-indented' lines keep their newlines, too -
+this text will appear over two lines.---  # document start
 Yakında Faaliyet'e Başlayacaktır.
 <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 <h1>Bilgi</h1>
