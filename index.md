@@ -1,7 +1,7 @@
  ***[***``**```Star````My```Tech``**``***]***![205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28 123 3](https://user-images.githubusercontent.com/93947784/226168678-ad897552-4ee9-4605-a699-d07bb4da0f08.png)***
 ![18754980_transparent](https://user-images.githubusercontent.com/93947784/212530120-6fafb992-9596-48b8-9a73-d650e75b2810.png)
 - #### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
-![STARteknoloji (2)](https://user-images.githubusercontent.com/93947784/204231175-846a8ab9-3f94-4e0c-ade5-d1199f23f194.png)
+![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
 ***[``(*```STAR MyTech`
 `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
 ## ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)[`Net.Starteknoloji.dev`](http://net.starteknoloji.dev)[`Web.StarComputer.Space`](http://web.starcomputer.space)[`Space.StarTeknoloji.Net`](http://space.starteknoloji.net/)***
