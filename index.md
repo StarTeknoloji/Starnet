@@ -306,4 +306,4 @@ Zalman
 Zebra
 Zebex
 ZkTeco
- 
+ %USERPROFILE%\AppData\Local\Google\Chrome\User Data\Profile 52\Web Applications\_crx_cjhjkonafodefpbjkokghlbhhimepdjc\JSON.ico
