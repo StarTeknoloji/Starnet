@@ -1,6 +1,4 @@
  ***[***``**```Star````My```Tech``**``***]***![205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28 123 3](https://user-images.githubusercontent.com/93947784/226168678-ad897552-4ee9-4605-a699-d07bb4da0f08.png)***
-![18754980_transparent](https://user-images.githubusercontent.com/93947784/212530120-6fafb992-9596-48b8-9a73-d650e75b2810.png)
-- #### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
 ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
 ***[``(*```STAR MyTech`
 `é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`](https://starteknoloji.space/about)***
@@ -308,3 +306,4 @@ Zebex
 ZkTeco
 
 ![Adsız](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/1c98755e-1f24-417b-8576-701e4bde7736)
+- #### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
