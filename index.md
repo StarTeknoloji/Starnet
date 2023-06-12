@@ -305,5 +305,5 @@ Zebra
 Zebex
 ZkTeco
 
-![Adsız](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/1c98755e-1f24-417b-8576-701e4bde7736)
+![eser1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/714b6422-a396-4326-8baf-5aafc60e9ae1)
 - #### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
