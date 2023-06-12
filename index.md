@@ -307,3 +307,4 @@ Zebra
 Zebex
 ZkTeco
  %USERPROFILE%\AppData\Local\Google\Chrome\User Data\Profile 52\Web Applications\_crx_cjhjkonafodefpbjkokghlbhhimepdjc\JSON.ico
+![Adsız](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/1c98755e-1f24-417b-8576-701e4bde7736)
