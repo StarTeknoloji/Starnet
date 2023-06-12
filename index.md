@@ -1,7 +1,7 @@
 ***[***``**```Star````My```Tech``**``***]***![205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28 123 3](https://user-images.githubusercontent.com/93947784/226168678-ad897552-4ee9-4605-a699-d07bb4da0f08.png)***
 ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
-*[***``(*```STAR MyTech`
-`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://starcomputer.space)***
+**[***``(*```STAR MyTech`
+`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://starcomputer.space)**
 ## ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
 >![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
@@ -44,6 +44,9 @@
 ### ***`+90 0288 318 35 60`***
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en) 
+
+![eser1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/714b6422-a396-4326-8baf-5aafc60e9ae1)
+- #### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
 
 <h1>Bilgi</h1>
     
@@ -305,5 +308,4 @@ Zebra
 Zebex
 ZkTeco
 
-![eser1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/714b6422-a396-4326-8baf-5aafc60e9ae1)
-- #### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
+
