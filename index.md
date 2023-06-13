@@ -45,7 +45,7 @@
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en) 
 
-![eser2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/32889201-6494-4102-adf0-bc47b104e77b)
+![eser3](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/1f537825-cfb2-4e1e-b063-a33ae1bbb1d3)
 - ### ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
 
 <h1>Bilgi</h1>
