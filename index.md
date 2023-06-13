@@ -48,7 +48,8 @@
 >![eser8](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7abbb4f0-a95b-411d-a0a6-2989125f5615)
 - # ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
 
-<h1>Bilgilendirme</h1>
+<h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
+
     
 The literal continues until de-dented, and the leading indentation is
 stripped.
