@@ -2,7 +2,7 @@
 ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
 #***[***``(*```STAR MyTech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://starcomputer.space)***
-#- ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
+# - ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
 >![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 [![pages-build-deployment](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment)
