@@ -47,7 +47,8 @@
 
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 - # ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
-![94083909](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/2fe46f4a-56a0-4b70-b763-192d5c1a7818)
+![94083909](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/2fe46f4a-56a0-4b70-b763-192d5c1a7818)![136590672 (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/dd5053c2-9070-4c7e-82e7-b5b3f2d3a715)
+
 
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
 
