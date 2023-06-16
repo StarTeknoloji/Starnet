@@ -24,11 +24,8 @@
 ![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
-### ***[About](https://starteknoloji.space/about)***   ***[Defter](https://starteknoloji.github.io/Defter)***
- 
-### ***[Local](https://starteknoloji.space/blog)***
-### ***[404.](https://starteknoloji.space/inboks)*** 
-### ***[Jekyll](https://starteknoloji.space/inbox)***
+### ***[About](https://starteknoloji.space/about)***   ***[Defter](https://starteknoloji.github.io/Defter)***    ***[Local](https://starteknoloji.space/blog)***   
+***[404.](https://starteknoloji.space/inboks)***  ***[Jekyll](hhtps://starteknoloji.dev)*** 
 ## ***ANNOUNCEMENT***
 ### ***Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.***
 ## ***Our Other Field Topics and Sections***
