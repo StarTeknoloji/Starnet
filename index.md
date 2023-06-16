@@ -44,11 +44,9 @@
 ### ***`+90 0288 318 35 60`***
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 [![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)](https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en) 
+ ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
 
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
-- # ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
-![94083909](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/2fe46f4a-56a0-4b70-b763-192d5c1a7818)![136590672 (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/dd5053c2-9070-4c7e-82e7-b5b3f2d3a715)
-
 
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
 
