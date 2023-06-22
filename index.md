@@ -305,4 +305,9 @@ Zebex
 ZkTeco
 
 <script src="https://gist.github.com/Codes-Exe/41e347dd8b5d0062699c0df518bdc201.js"></script>
-
+<html>
+<head><title>405 Not Allowed</title></head>
+<body bgcolor="white">
+<center><h1>405 Not Allowed</h1></center>
+</body>
+</html>
