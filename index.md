@@ -22,6 +22,7 @@
  <iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
  <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
+
 ![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***![unnamed31](https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png)
@@ -36,7 +37,8 @@
 ### ***Mesaj ve yorum kutusu***
 ## ***Game Start Uni*** ##
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
-### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin***
+### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
+ - > ***Oyunun İçeriği 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kurudğunuz Cümlede Kulandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların içindeki Kahramanınızı Yakalayın!***
 ## ***Support us Contact***
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 35 60`***
