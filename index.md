@@ -17,7 +17,7 @@
 
 <iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
 
-<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
+<iframe src="http://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
 
 ## ***DİSCORD***
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
