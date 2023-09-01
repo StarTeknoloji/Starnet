@@ -28,7 +28,8 @@
 
 ![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ## ***This is an Emerging Platform***
-## ***Please Contribute***![unnamed31](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/915d265f-f2ef-4512-9573-2692e622c57c)
+## ***Please Contribute***![unnamed2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/33f1467c-6939-4793-8866-2ae63b79650d)
+
 
 
 ### ***[About](https://starteknoloji.space/about)***   ***[Defter](https://starteknoloji.github.io/Defter)***    ***[Local](https://starteknoloji.space/blog)***   
