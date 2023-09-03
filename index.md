@@ -323,9 +323,9 @@ ZkTeco
 
 <script src="https://gist.github.com/Codes-Exe/41e347dd8b5d0062699c0df518bdc201.js"></script>
 <html>
-<head><title>405 Not Allowed</title></head>
-<body bgcolor="white">
-<center><h1>405 Not Allowed</h1></center>
+<head><title>Author</title></head>
+<body bgcolor="Green">
+<center><h1>Erçetin Güler</h1></center>
 </body>
 </html>
 ![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/4089e438-0d7e-48bc-b584-b73d325b3844)
