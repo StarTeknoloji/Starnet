@@ -25,6 +25,10 @@
  <iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
  <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
+ 
+![pwrdLogo200](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8f39d702-060a-42f3-a0dc-fa063e37102c)
+![tai-ku](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/ed224138-fe0b-4f74-b253-75fffea36e57)
+![logoMed](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8157cc5a-0885-43f3-85ee-c7d907866d3d)
 
 ![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ## ***This is an Emerging Platform***
