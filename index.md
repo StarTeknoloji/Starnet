@@ -46,7 +46,7 @@
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
 
     ***Kinetik Enerji Sonuçu Ortaya Çıkan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
-
+## ***Gelişmekte Olan Robotlarımız V1 İyi Robot V2 Kötü Robot
 ## ***Support us Contact***
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 35 60`***
