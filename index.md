@@ -323,7 +323,8 @@ ZkTeco
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![unnamed1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e85410ba-126d-490c-a831-9b849f9d49f1)
 
-![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![93947784](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/17a14483-821f-496a-aaec-5c1eae1d29a5)
+![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![1666597976341](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237)
+
 
 
 
