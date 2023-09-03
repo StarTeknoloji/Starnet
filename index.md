@@ -41,7 +41,7 @@
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 ### ***KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.***
 ### ***Mesaj ve yorum kutusu***
-## ***Game Start Uni*** ##
+## ***Game Start Uni*** ##![images (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/f000cd3c-8ddb-4711-9ddd-e3baf1bea7ea)
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
 ![comment-grey-bubble-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b6c04ac-5d96-4f72-8e9e-372366d40d07)
@@ -321,13 +321,8 @@ Zebra
 Zebex
 ZkTeco
 
-<script src="https://gist.github.com/Codes-Exe/41e347dd8b5d0062699c0df518bdc201.js"></script>
-<html>
-<head><title>Author</title></head>
-<body bgcolor="Green">
-<center><h1>![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/20855b07-7f1e-4afb-8e94-e8819e0dc00f)</h1></center>
-</body>
-</html>
+![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)
+
 ![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/20855b07-7f1e-4afb-8e94-e8819e0dc00f)
 
 
