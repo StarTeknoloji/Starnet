@@ -328,5 +328,6 @@ ZkTeco
 <center><h1>Erçetin Güler</h1></center>
 </body>
 </html>
-![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/4089e438-0d7e-48bc-b584-b73d325b3844)
+![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/20855b07-7f1e-4afb-8e94-e8819e0dc00f)
+
 
