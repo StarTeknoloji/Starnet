@@ -26,18 +26,11 @@
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
  <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
  
-![pwrdLogo200](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8f39d702-060a-42f3-a0dc-fa063e37102c)
-![tai-ku](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/ed224138-fe0b-4f74-b253-75fffea36e57)
-![logoMed](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8157cc5a-0885-43f3-85ee-c7d907866d3d)
-![logo64](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/94baef14-3bc0-489a-a58c-26d459beef64)
 >>![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***![unnamed2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/33f1467c-6939-4793-8866-2ae63b79650d)
-
-
-
 ### ***[Defter](https://starteknoloji.github.io/Defter)***    ***[Local](https://starteknoloji.space/blog)***   
 ### ***[404.](https://starteknoloji.space/inboks)***  ***[Jekyll](https://starteknoloji.dev)*** 
 ## ***ANNOUNCEMENT***
