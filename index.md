@@ -45,7 +45,7 @@
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
 
-    ***Kinetik Enerji Sonuçu Ortaya Çıkan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
+    ***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 
 ### ***V1 ROBOT![spinner](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b) Gizli Duygular Diyarı MiniStar Robotları![media-button-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/fc5b005c-3b65-4527-8441-80700d1f3d72)***
 ## ***Support us Contact***
