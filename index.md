@@ -18,16 +18,18 @@
 <iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
 
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
-
+***
 ## ***DİSCORD***
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
+***
  <iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
  <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
  
 >>![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
+***
 
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***![unnamed2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/33f1467c-6939-4793-8866-2ae63b79650d)
@@ -40,6 +42,7 @@
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 ### ***KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.***
 ### ***Mesaj ve yorum kutusu***
+***
 ## ***Game Start Uni*** ##![images (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/f000cd3c-8ddb-4711-9ddd-e3baf1bea7ea)
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
@@ -327,7 +330,7 @@ Zebex
 ZkTeco
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![1666597976341](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237)
-
+***
 
 
 
