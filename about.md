@@ -3,9 +3,7 @@
 
 ![unnamed (2)](https://user-images.githubusercontent.com/93947784/198833909-539730b5-266e-4122-a048-56e625b5528a.png)![unnamed1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/bd3deff7-79bd-448e-8f58-0a434b2d7392)
 
->>![krxd](https://user-images.githubusercontent.com/93947784/198012506-80a6f1bd-c2ff-47a3-936a-71a910607d54.png)
-![1666597976341](https://user-images.githubusercontent.com/93947784/198012516-1d9293b6-d932-4525-af77-dfebfd30a918.png)
-![unnamed3](https://user-images.githubusercontent.com/93947784/199841106-7e83dabb-a7d9-4f2f-a6b3-f9b6d4947103.png)
+>>![unnamed3](https://user-images.githubusercontent.com/93947784/199841106-7e83dabb-a7d9-4f2f-a6b3-f9b6d4947103.png)
 ![unnamed (1)](https://user-images.githubusercontent.com/93947784/199841108-c3d29061-84c8-4bff-a9aa-89a1594715d0.jpg)
 ![unnamed (3)](https://user-images.githubusercontent.com/93947784/199841112-0dfe9c91-de22-4b19-9771-079d21cbfc9a.png)
 ![buyer-behavior-report-2021-learn-featured-image@2x (2)](https://user-images.githubusercontent.com/93947784/199843172-56a72317-6d9d-47f9-a92c-7796c729a93e.jpeg)
