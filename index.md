@@ -48,6 +48,7 @@
     ***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 
 ### ***V1 ROBOT![spinner](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b) Gizli Duygular Diyarı MiniStar Robotları![media-button-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/fc5b005c-3b65-4527-8441-80700d1f3d72)***
+![menu-vs-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/b8b15819-5c7a-4d2d-9554-9aaadcecf613)
 ## ***Support us Contact***
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 35 60`***
