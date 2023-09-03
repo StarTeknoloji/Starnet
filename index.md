@@ -29,7 +29,7 @@
 ![pwrdLogo200](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8f39d702-060a-42f3-a0dc-fa063e37102c)
 ![tai-ku](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/ed224138-fe0b-4f74-b253-75fffea36e57)
 ![logoMed](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8157cc5a-0885-43f3-85ee-c7d907866d3d)
-![Uploading logo64.gif…]()
+![logo64](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/94baef14-3bc0-489a-a58c-26d459beef64)
 
 ![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ## ***This is an Emerging Platform***
