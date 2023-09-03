@@ -44,6 +44,7 @@
 ## ***Game Start Uni*** ##
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
+![comment-grey-bubble-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b6c04ac-5d96-4f72-8e9e-372366d40d07)
 
     ***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 
