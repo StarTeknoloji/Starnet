@@ -330,6 +330,7 @@ Zebex
 ZkTeco
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![1666597976341](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237)
+
 ***
 
 
