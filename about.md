@@ -3,11 +3,6 @@
 
 >>![unnamed (2)](https://user-images.githubusercontent.com/93947784/198833909-539730b5-266e-4122-a048-56e625b5528a.png)![unnamed1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/bd3deff7-79bd-448e-8f58-0a434b2d7392)
 ![unnamed3](https://user-images.githubusercontent.com/93947784/199841106-7e83dabb-a7d9-4f2f-a6b3-f9b6d4947103.png)
-![unnamed (1)](https://user-images.githubusercontent.com/93947784/199841108-c3d29061-84c8-4bff-a9aa-89a1594715d0.jpg)
-![unnamed (3)](https://user-images.githubusercontent.com/93947784/199841112-0dfe9c91-de22-4b19-9771-079d21cbfc9a.png)
-![buyer-behavior-report-2021-learn-featured-image@2x (2)](https://user-images.githubusercontent.com/93947784/199843172-56a72317-6d9d-47f9-a92c-7796c729a93e.jpeg)
-![claim free G2 profile](https://user-images.githubusercontent.com/93947784/199843177-1e8432b1-94d4-4ff9-b71d-02c128ead951.jpeg)
-![G2 Discussions](https://user-images.githubusercontent.com/93947784/199843178-e7f8b97a-388e-4a6d-925b-9b45539cfa8d.jpeg)
 
 # *Mevcut Domain Alanlarımız*
 *|`www.teknoloji.mobi`||`www.teknoloji.Support`||`www.teknoloji.systems`||`www.teknoloji.life`||`www.teknoloji.monster`|*                
