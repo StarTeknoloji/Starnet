@@ -1,7 +1,7 @@
 [![channels4_banner](https://user-images.githubusercontent.com/93947784/200999524-18532c09-7617-4bce-baca-0c3d6e46b1dd.jpg)](https://music.youtube.com/channel/UCJdIwzlJqN_T8_xyyeUTtJw?feature=share)
 [<img width="600" alt="TouTube" src="https://user-images.githubusercontent.com/93947784/200424897-184c6343-bddc-4a7b-8ff8-997dc214c25c.png">](https://www.youtube.com/channel/UCJdIwzlJqN_T8_xyyeUTtJw)
 
->>![unnamed1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9b21789b-d953-4639-82de-8a53ab6fc8ad)
+>![unnamed1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9b21789b-d953-4639-82de-8a53ab6fc8ad)
 ![unnamed (2)](https://user-images.githubusercontent.com/93947784/198833909-539730b5-266e-4122-a048-56e625b5528a.png)![unnamed1](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/bd3deff7-79bd-448e-8f58-0a434b2d7392)
 ![unnamed3](https://user-images.githubusercontent.com/93947784/199841106-7e83dabb-a7d9-4f2f-a6b3-f9b6d4947103.png)
 ![unname](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/28fbf71b-f627-4344-9ad7-402c5424a632)
