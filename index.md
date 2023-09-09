@@ -53,7 +53,7 @@
     
 ### ***V2 ROBOT Arkadaşım Eş![dots-dark](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/88b9c8ac-95ce-4baa-bc78-d10c8d8ea8f4)***
 ### ***V1 ROBOT Zeki Ş.e.![spinner](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b)***
-![353](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e40902a2-7dc8-4ac1-a155-20d3b6533137)
+![265260382-5973b6c8-53d1-4756-9899-d29c180fe23e](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/a9684237-759b-4575-9e39-f32756367434)
 
 
 ***Gizli Duygular Diyarı MiniStar Robotları Top ``13``***![stars-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/48466b1b-9c91-423a-9536-52742d5c0663)
