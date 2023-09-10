@@ -38,6 +38,7 @@
 ## ***ANNOUNCEMENT***
 ### ***Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.***
 ## ***Our Other Field Topics and Sections***
+### ***[www.mycomputer.digital Fast Pages](https://mycomputer.digital)***
 ### ***[www.CodeExe.com Tracing](https://codesexe.com)*** 
 ### ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
