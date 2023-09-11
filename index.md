@@ -18,18 +18,17 @@
 <iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
 
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
-***
+
 ## ***DİSCORD***
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
-***
+
  <iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
  <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
  <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
  
 >>![13369547_transparent (4)](https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png)
 ![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
-***
 
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***![unnamed2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/33f1467c-6939-4793-8866-2ae63b79650d)
@@ -44,7 +43,7 @@
 ## ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 ### ***KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.***
 ### ***Mesaj ve yorum kutusu***
-***
+
 ## ***Game Start Uni*** ##<svg xmlns="http://www.w3.org/2000/svg" id="award_illustration" data-name="award / illustration" viewBox="0 0 157.72 152.03"><defs><style>.cls-4{stroke:#000;stroke-miterlimit:10;stroke-width:2px;fill:#fcea56}.cls-5{fill:none;stroke:#005dcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px}</style></defs><g id="Sparkles"><path class="cls-5" d="M129.19 144.28l6.86 3.39M139.52 121.38l16.2 1.62M135.97 97.08l8.13-2.59M21.66 97.26l-8.14-2.57M18.19 121.56L2 123.23M28.59 144.43l-5.88 3.4"/></g><g id="Band"><path fill="#fcb400" d="M67.05 32.03L57.78.09l41.77.05-8.76 32.06-23.74-.17"/><path class="cls-4" d="M78.8 79.23L58.22 1.75a.995.995 0 00-1.67-.46L31.33 26.36c-.26.26-.36.64-.27 1l18.15 66.67M108.44 94.03l17.91-66.69c.1-.36 0-.74-.27-.99L100.77 1.33c-.55-.54-1.46-.28-1.66.47L78.8 79.31"/></g><g id="Medal"><path d="M115.75 114.98c.03 19.88-16.46 36.01-36.83 36.05-20.37.03-36.91-16.06-36.95-35.94-.03-19.88 16.46-36.02 36.83-36.05 20.37-.03 36.91 16.06 36.95 35.94z" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill="#fcb400"/><path d="M78.88 128.21l-11.41 3.98.32-11.82-7.4-9.36L72 107.65l6.83-9.76 6.87 9.74 11.63 3.32-7.37 9.38.35 11.82-11.42-3.94z" fill="#005dcc"/></g></svg>
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
@@ -66,9 +65,9 @@
 ###  ***[About](https://starteknoloji.space/about)*** 
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 >[![unnamed3](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/51d0ddd4-7108-4e09-9589-5390655b61b9)](https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en) 
-***
+
  ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
-***
+
 
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
@@ -340,8 +339,6 @@ ZkTeco
 
   
 
-</body></html>
-***
 
 
 
