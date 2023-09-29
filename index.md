@@ -36,8 +36,7 @@
 ## ***Please Contribute***![unnamed2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/33f1467c-6939-4793-8866-2ae63b79650d)
 ### ***[Defter](https://starteknoloji.github.io/Defter)***    ***[Local](https://starteknoloji.space/blog)***   
 ### ***[404.](https://starteknoloji.space/inboks)***  ***[Jekyll](https://starteknoloji.dev)*** 
-## ***ANNOUNCEMENT***
-### ***Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.***
+
 ## ***Our Other Field Topics and Sections***
 ### ***[www.mycomputer.digital Fast Pages](https://mycomputer.digital)***
 ### ***[www.CodeExe.com Tracing](https://codesexe.com)*** 
