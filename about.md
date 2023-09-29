@@ -1,3 +1,4 @@
+<yt-img-shadow id="banner" fit="" class="style-scope ytd-action-companion-ad-renderer no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><!--css-build:shady--><img id="img" draggable="false" class="style-scope yt-img-shadow" alt="" src="https://yt3.ggpht.com/3kkmJfrh2c5HL7pqJWMRD3uiTM8NVtme23BkJRgPAIyxEGL95JpzBxjTZjU7oyGQBqm8N1PBgAU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"></yt-img-shadow>
 [![channels4_banner](https://user-images.githubusercontent.com/93947784/200999524-18532c09-7617-4bce-baca-0c3d6e46b1dd.jpg)](https://music.youtube.com/channel/UCJdIwzlJqN_T8_xyyeUTtJw?feature=share)
 [<img width="600" alt="TouTube" src="https://user-images.githubusercontent.com/93947784/200424897-184c6343-bddc-4a7b-8ff8-997dc214c25c.png">](https://www.youtube.com/channel/UCJdIwzlJqN_T8_xyyeUTtJw)
 
