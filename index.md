@@ -51,15 +51,8 @@
 ![comment-grey-bubble-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b6c04ac-5d96-4f72-8e9e-372366d40d07)
 ![unnamed (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/031fcb0e-b674-413b-97c5-17ef65f76e22)
 
-      ***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
+      ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
     
-### ***V2 ROBOT Arkadaşım Eş![dots-dark](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/88b9c8ac-95ce-4baa-bc78-d10c8d8ea8f4)***
-### ***V1 ROBOT Zeki Ş.e.![spinner](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b)***
-***>>![265260382-5973b6c8-53d1-4756-9899-d29c180fe23e](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/a9684237-759b-4575-9e39-f32756367434)<<***
-
-
-***Gizli Duygular Diyarı MiniStar Robotları Top ``13``***![stars-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/48466b1b-9c91-423a-9536-52742d5c0663)
-![menu-vs-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/b8b15819-5c7a-4d2d-9554-9aaadcecf613)
 ## ***Support us Contact***
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 35 60`***
