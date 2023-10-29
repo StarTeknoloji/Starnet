@@ -61,8 +61,9 @@
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 >[![unnamed3](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/51d0ddd4-7108-4e09-9589-5390655b61b9)](https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en)
 >
- # ***Bir Gün Hepinizi Beklerim Özellere Alanımız Mevcut***
- ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
+# ***Bir Gün Hepinizi Beklerim Özellere Alanımız Mevcut***
+ 
+***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
 
 
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
