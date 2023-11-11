@@ -330,7 +330,8 @@ Zebra
 Zebex
 ZkTeco
 
-![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![1666597976341](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237)
+![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![1666597976341](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)
+
 
 
 
