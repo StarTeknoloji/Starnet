@@ -25,7 +25,8 @@
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
-<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe title="vimeo-player" src="https://player.vimeo.com/video/885818450?h=e4a4f82183" width="800" height="600" frameborder="0" allow="gyroscope; accelerometer"    allowfullscreen></iframe>
+<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/885818450?h=e4a4f82183" width="350" height="500" frameborder="0" allow="gyroscope; accelerometer"    allowfullscreen></iframe>
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
