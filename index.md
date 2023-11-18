@@ -44,7 +44,6 @@
 ## ***Game Start Uni*** ##<svg xmlns="http://www.w3.org/2000/svg" id="award_illustration" data-name="award / illustration" viewBox="0 0 157.72 152.03"><defs><style>.cls-4{stroke:#000;stroke-miterlimit:10;stroke-width:2px;fill:#fcea56}.cls-5{fill:none;stroke:#005dcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px}</style></defs><g id="Sparkles"><path class="cls-5" d="M129.19 144.28l6.86 3.39M139.52 121.38l16.2 1.62M135.97 97.08l8.13-2.59M21.66 97.26l-8.14-2.57M18.19 121.56L2 123.23M28.59 144.43l-5.88 3.4"/></g><g id="Band"><path fill="#fcb400" d="M67.05 32.03L57.78.09l41.77.05-8.76 32.06-23.74-.17"/><path class="cls-4" d="M78.8 79.23L58.22 1.75a.995.995 0 00-1.67-.46L31.33 26.36c-.26.26-.36.64-.27 1l18.15 66.67M108.44 94.03l17.91-66.69c.1-.36 0-.74-.27-.99L100.77 1.33c-.55-.54-1.46-.28-1.66.47L78.8 79.31"/></g><g id="Medal"><path d="M115.75 114.98c.03 19.88-16.46 36.01-36.83 36.05-20.37.03-36.91-16.06-36.95-35.94-.03-19.88 16.46-36.02 36.83-36.05 20.37-.03 36.91 16.06 36.95 35.94z" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill="#fcb400"/><path d="M78.88 128.21l-11.41 3.98.32-11.82-7.4-9.36L72 107.65l6.83-9.76 6.87 9.74 11.63 3.32-7.37 9.38.35 11.82-11.42-3.94z" fill="#005dcc"/></g></svg>
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
-
       ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
     
 ## ***Support us Contact***
@@ -52,8 +51,7 @@
 ### ***`+90 0288 318 35 60`***
 ### ***[About](https://starteknoloji.space/about)*** 
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
- 
-***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
+
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
