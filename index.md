@@ -16,20 +16,17 @@
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
 <iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-
 <iframe src="https://starteknoloji.space/about/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
-
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
-
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
 
 ## ***DİSCORD***
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
- <iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe title="vimeo-player" src="https://player.vimeo.com/video/885818450?h=e4a4f82183" width="640" height="274" frameborder="0" allow="gyroscope; accelerometer"    allowfullscreen></iframe>![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
- <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
- <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe title="vimeo-player" src="https://player.vimeo.com/video/885818450?h=e4a4f82183" width="640" height="274" frameborder="0" allow="gyroscope; accelerometer"    allowfullscreen></iframe>
+<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
 ## ***This is an Emerging Platform***
 ## ***Please Contribute***
@@ -53,15 +50,10 @@
 ## ***Support us Contact***
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 35 60`***
-###  ***[About](https://starteknoloji.space/about)*** 
+### ***[About](https://starteknoloji.space/about)*** 
 ### ***[Erçetin Güler](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
-
->
-# ***Bir Gün Hepinizi Beklerim Veya Birinizi***
  
 ***`Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir`***
-
-
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
@@ -211,122 +203,8 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
-Markalarımız
-Asus
-Amd
-Aoc
-A4 Tech
-Argox
-Aclas
-AJAX
-Acer
-Armagan
-Addison
-Benq
-Bixolon
-Bitdefender
-Berqnet
-Bory
-Cougar
-Cbox
-Codegen
-Canon
-Cambox
-Dell
-Dark
-Dahua
-Datalogic
-Dlink
-Decon
-Dct
-Esonic
-Everest
-Epson
-Eset
-FSP
-Fragile
-Foem
-Frisby
-Gigabyte
-Godex
-Goodram
-HI-LEVEL
-Hp
-Hikvision
-Honeywell
-Hilook
-Hytech
-Huawei
-H3C
-Haikon
-Intel
-Izoly
-Inform
-Inca
-Ip-Com
-Kingston
-Kioxia
-Kaspersky
-KEENETIC
-Logitech
-Lg
-Lenovo
-Msi
-Makelsan
-Microsoft
-Mikado
-Newland
-NZXT
-Optoma
-Oem
-Philips
-Perkon
-Performax
-Palmx
-PROXSEN
-Pny
-Qnap
-Rampage
-Ruijie
-Seagate
-Samsung
-Sunlux
-Sensei
-Snopy
-Slink
-Seclife
-Synology
-Steelseries
-SENS
-Tiwox
-Teknim
-Tp-Link
-Technopc
-Ttec
-TESCOM
-Twinmos
-Thermaltake
-Tiandy
-Uranium
-Uniview
-UBNT
-Vento
-Viewsonic
-WD
-Webroot
-XPG
-Xigmatek
-Xerox
-Xprinter
-Xiaomi
-Xfx
-Yıldırım
-Zalman
-Zebra
-Zebex
-ZkTeco
 
-![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)
+![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
 
 
