@@ -52,7 +52,7 @@
 ### ***`+90 0507 236 39 28`***
 ### ***`+90 0288 318 35 60`***
 ### ***[About](https://starteknoloji.space/about)*** 
-### ***[Erçetin Güler](https://starteknoloji.space/gifts.md)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
+### ***[Erçetin Güler](https://[starteknoloji.space/gifts.md](https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin))***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
