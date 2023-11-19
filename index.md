@@ -16,10 +16,10 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
-><iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-><iframe src="https://starteknoloji.space/about/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
-><iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
-><iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
+<iframe width="1000px" height="400px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+<iframe src="https://starteknoloji.space/about/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
+<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
+<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
 
 ## ***DİSCORD***
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
