@@ -45,22 +45,14 @@
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ### ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
       ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
-    
-## ***Support us Contact***
-### ***`+90 0507 236 39 28`***
-### ***`+90 0288 318 35 60`***
-### ***[About](https://starteknoloji.space/about)*** 
-### ***[Erçetin Güler](https://starteknoloji.space/gifts.md)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 
 ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
-<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
-
 
 <iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech.mp4"></iframe>
 
-
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="350" width="500" style="border: 0;"></iframe> <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
+<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
 
@@ -208,6 +200,12 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
+
+## ***Support us Contact***
+### ***`+90 0507 236 39 28`***
+### ***`+90 0288 318 35 60`***
+### ***[About](https://starteknoloji.space/about)*** 
+### ***[Erçetin Güler](https://starteknoloji.space/gifts.md)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
