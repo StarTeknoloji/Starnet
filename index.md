@@ -26,8 +26,7 @@
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
 <iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/885818450?h=e4a4f82183" width="350" height="500" frameborder="0" allow="gyroscope; accelerometer"    allowfullscreen></iframe>
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech.mp4"></iframe><iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="350" width="500" style="border: 0;"></iframe>
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
 ## ***This is an Emerging Platform***
