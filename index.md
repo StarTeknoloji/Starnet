@@ -17,7 +17,7 @@
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
 <iframe width="1000px" height="400px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-<iframe src="https://teknik24.tech/anasayfa" title="Tekni24" height="400" width="1000" style="border: 10;"></iframe>
+<iframe src="https://teknik24.tech/tanıtım" title="Tekni24" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
 
