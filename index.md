@@ -207,11 +207,6 @@ set2:
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
-![Yayıcı Erco Mini](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/151061166/99a983f3-1351-402c-b5c4-657ef86ddbc7)
-
-![Yayıcı Erçetin koyu](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/151061166/23399274-261e-4169-b289-b5334fb57cfb)
-
-![Yayıncı Erco](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/151061166/1df8b63d-ff14-46f1-aae1-c2f1274238e5)
 
   
 
