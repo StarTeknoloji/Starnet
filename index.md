@@ -9,8 +9,8 @@
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://translate.google.com.tr/details?sl=auto&tl=tr&op=translate)***
 
     Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Sayfayı Teker Teker Dünyadaki Bütün Dillere Cevirip 
-    Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
-    Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur.
+    Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Translate Aracılığı ile Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
+    Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur. Tarayıcınızın Edge Olmasına Dikkat Edin.
 
 - ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
 - ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
