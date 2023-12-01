@@ -8,7 +8,7 @@
 #***[***``(*```STAR```My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://translate.google.com.tr/details?sl=auto&tl=tr&op=translate)***
 
-    Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Teker Teker Dünyadaki Bütün Dillere Cevirip 
+    Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Sayfayı Teker Teker Dünyadaki Bütün Dillere Cevirip 
     Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
     Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur.
 
