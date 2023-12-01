@@ -8,6 +8,10 @@
 #***[***``(*```STAR```My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***]***
 
+   Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz; Bu Teker Teker Dünyadaki Bütün Dillere Cevirip 
+   Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
+   Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur.
+
 - ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
 - ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
 >![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28 123 3](https://user-images.githubusercontent.com/93947784/226168678-ad897552-4ee9-4605-a699-d07bb4da0f08.png)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
