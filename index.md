@@ -55,6 +55,8 @@
 
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="250" width="700" style="border: 10;"></iframe>
 
+<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="250" width="700" style="border: 10;"></iframe>
+
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
