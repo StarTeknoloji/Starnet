@@ -1,11 +1,9 @@
 <h1>STAR COMPUTER SPACE</h1>
 
 # ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
-
-***[***`(*```STAR```My``Tech`***
+- ***[***`(*```STAR```My``Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://translate.google.com.tr/details?sl=auto&tl=tr&op=translate)***
-
-***[***``(*```STAR```My```Tech`***
+- ***[***``(*```STAR```My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://translate.google.com.tr/details?sl=auto&tl=tr&op=translate)***
 
     Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Sayfayı Teker Teker Dünyadaki Bütün Dillere Cevirip 
