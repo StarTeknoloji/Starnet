@@ -25,24 +25,8 @@
 
 # ***`APPLİCATİONS`***
 <iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-<div id="kmMain" class="row col-xs-12 pull-right">
-            <div id="kronometre" class="text-center">
-                <div class="ust-butonlar">
-					<button class="btn btn-lg btn-primary" onclick="openFullscreen();"><span class="hide-xs">Tam ekran</span> <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-fullscreen" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 0-.5.5v4a.5.5 0 0 1-1 0v-4A1.5 1.5 0 0 1 1.5 0h4a.5.5 0 0 1 0 1h-4zM10 .5a.5.5 0 0 1 .5-.5h4A1.5 1.5 0 0 1 16 1.5v4a.5.5 0 0 1-1 0v-4a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 1-.5-.5zM.5 10a.5.5 0 0 1 .5.5v4a.5.5 0 0 0 .5.5h4a.5.5 0 0 1 0 1h-4A1.5 1.5 0 0 1 0 14.5v-4a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v4a1.5 1.5 0 0 1-1.5 1.5h-4a.5.5 0 0 1 0-1h4a.5.5 0 0 0 .5-.5v-4a.5.5 0 0 1 .5-.5z"></path>
-                                </svg></button>
-                    <button class="btn btn-lg btn-success" id="btnSettings">Ayarlar</button>
-                    <button class="btn btn-lg btn-danger" onclick="reset()" id="btn-sifirla">SIFIRLA</button>
-                </div>
-                <div id="ekran">
-                    <span id="ekran-saat" class="saat"></span><span id="ekran-dakika" class="dakika">00</span>:<span id="ekran-saniye" class="saniye">00</span><span id="ekran-salise" class="salise"></span>
-                </div>
-                <div class="alt-butonlar">
-                    <button class="btn btn-lg btn-primary" onclick="record()">KAYIT</button>
-                    <button class="btn btn-lg btn-success" onclick="startStop()" id="btnStartStop">BAŞLA</button>
-                </div>
-            </div>
-        </div>
+
+document.querySelector("#koyu-container")
 
 # ***DİSCORD***
 ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
