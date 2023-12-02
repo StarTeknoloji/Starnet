@@ -12,8 +12,6 @@
     Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Translate Aracılığı ile Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
     Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur. Tarayıcınızın Edge Olmasına Dikkat Edin.
 
-- ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
-- ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
 >![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28 123 3](https://user-images.githubusercontent.com/93947784/226168678-ad897552-4ee9-4605-a699-d07bb4da0f08.png)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 [![pages-build-deployment](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml)
@@ -25,12 +23,15 @@
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
 
+## ***`APPLİCATİONS`***
+<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## ***DİSCORD***
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
-## ***`APPLİCATİONS`***
-<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+- ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
+- ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
 
 ## ***This is an Emerging Platform Please Contribute***
 ### ***[Defter](https://starteknoloji.github.io/Defter)***    ***[Local](https://starteknoloji.space/blog)***   
