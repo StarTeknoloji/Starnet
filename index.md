@@ -30,9 +30,6 @@
 ### ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ### ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
-- ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
-- ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
-
 ## ***This is an Emerging Platform Please Contribute***
 ### ***[Defter](https://starteknoloji.github.io/Defter)***    ***[Local](https://starteknoloji.space/blog)***   
 ### ***[404.](https://starteknoloji.space/inboks)***  ***[Jekyll](https://starteknoloji.dev)*** 
@@ -211,6 +208,9 @@ set2:
 ### ***`+90 0288 318 35 60`***
 ### ***[About](https://starteknoloji.space/about)*** 
 ### ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
+- ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
+- ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
+
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
