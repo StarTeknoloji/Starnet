@@ -12,7 +12,7 @@
     Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Sayfayı Teker Teker Dünyadaki Bütün Dillere Cevirip 
     Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Translate Aracılığı ile Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
     Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur. Tarayıcınızın Edge Olmasına Dikkat Edin.
-
+![GenişStarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/bd2a7334-76c9-41c6-bb44-0151b26504b2)
 ![311.space363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)![205482173-eb192a78-eb2b-4d31-8c1e-d722f6741c28 123 3](https://user-images.githubusercontent.com/93947784/226168678-ad897552-4ee9-4605-a699-d07bb4da0f08.png)
 [![pages-build-deployment](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml)
@@ -24,7 +24,6 @@
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
 
-![GenişStarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/bd2a7334-76c9-41c6-bb44-0151b26504b2)
 
 # ***APPLİCATİONS***
 <iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="360" height="550" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="360" height="550" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
