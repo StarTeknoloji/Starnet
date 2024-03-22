@@ -217,6 +217,7 @@ set2:
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
 ![qr_tmp](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/4917ffba-c2c9-40eb-8f2e-5de3126f30ac)
+![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-0-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)
 
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="50" seamless></iframe> </div>
 
