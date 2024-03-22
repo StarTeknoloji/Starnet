@@ -1,6 +1,6 @@
-<h1>STAR COMPUTER SPACE</h1>
+<h1>STAR TEKNOLOJİ SPACE</h1>
 
-# ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
+# ![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/89db7d15-25b1-4111-9f76-1504dba0649e)
 
 ***[****`(*```STAR```My``Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://https://translate.google.com/?hl=tr&sl=tr&tl=en&text=mimar&op=translate)***
@@ -11,7 +11,6 @@
     Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Translate Aracılığı ile Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
     Özellikle Benim İlgimi Ceken Dil Bengalce Olmuştur. Tarayıcınızın Edge Olmasına Dikkat Edin.
     
-![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/89db7d15-25b1-4111-9f76-1504dba0649e)
 [![pages-build-deployment](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/main.yml)
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
