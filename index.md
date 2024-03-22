@@ -19,7 +19,7 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
-<iframe width="1000" height="1000" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 <iframe src="https://birliraci.com/" title="BirLiraci" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
@@ -221,7 +221,7 @@ set2:
 
 ![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
 
-<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="200%" height="150" frameborder="200" seamless></iframe> </div>
+<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="200%" height="150" frameborder="100" seamless></iframe> </div>
 
 
 
