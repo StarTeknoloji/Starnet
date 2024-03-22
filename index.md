@@ -2,10 +2,10 @@
 
 # ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
 
-- ****````````₺````````****[****`(*```STAR```My``Tech`****
+ ****````````₺````````****[****`(*```STAR```My``Tech`****
 ****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****]****
 
-- ****```````₺```````****[****``(*```STAR```My```Tech`****
+ ****```````₺```````****[****``(*```STAR```My```Tech`****
 ****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****]****
 
     Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Sayfayı Teker Teker Dünyadaki Bütün Dillere Cevirip 
@@ -25,17 +25,17 @@
 
 ![Pano888,5](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0f2bd2cd-66d1-43e3-ba3d-27ea899a6662)
 
-# ***`APPLİCATİONS`***
-<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+> # ***APPLİCATİONS***
+><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-# ***DİSCORD***
+> # ***DİSCORD***
 ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
-# ***This is an Emerging Platform Please Contribute***
+> # ***This is an Emerging Platform Please Contribute***
 ## ***[Defter](https://starteknoloji.github.io/Defter)***   ***[Local](https://starteknoloji.space/blog)***   ***[404.](https://starteknoloji.space/inboks)***   ***[Jekyll](https://starteknoloji.dev)*** 
 
-# ***Our Other Field Topics and Sections***
+> # ***Our Other Field Topics and Sections***
 ## ***[www.mycomputer.digital Fast Pages](https://mycomputer.digital)***
 ## ***[www.CodeExe.com Tracing](https://codesexe.com)*** 
 ## ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
@@ -44,7 +44,7 @@
 ## ***KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.***
 ## ***Mesaj ve yorum kutusu***
 
-# ***Game Start Uni***
+> # ***Game Start Uni***
 # ***<!* *--* *`StarshadeSpacetarShineCometStarsuffSecur` --* >***
 ## ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
       ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
