@@ -19,7 +19,7 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
-<iframe width=1000" height="1000" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height: 200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+<iframe width="1000" height="1000" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 <iframe src="https://birliraci.com/" title="BirLiraci" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
@@ -47,7 +47,7 @@
 ## ***Mesaj ve yorum kutusu***
 
 > # ***Game Start Uni***
-# ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecur --* >***
+## ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecur --* >***
 ## ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
       ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 
@@ -217,7 +217,7 @@ set2:
 ## ***Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim.***
 
 
-![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
+![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
 ![qr_tmp](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/4917ffba-c2c9-40eb-8f2e-5de3126f30ac)
 
