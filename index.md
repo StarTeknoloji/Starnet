@@ -1,9 +1,9 @@
 <h1>STAR TEKNOLOJİ SPACE</h1>
 
 # ![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/89db7d15-25b1-4111-9f76-1504dba0649e)
-***[***`(*```STAR```My``Tech`***
+***[***`(*```STAR```My``Tech``***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://https://translate.google.com/?hl=tr&sl=tr&tl=en&text=mimar&op=translate)***
-***[***``(*```STAR```My```Tech`***
+***[***``(*```STAR```My```Tech``***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***](https://https://translate.google.com/?hl=tr&sl=tr&tl=en&text=mimar&op=translate)***
 
 [![pages-build-deployment](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/pages/pages-build-deployment)
