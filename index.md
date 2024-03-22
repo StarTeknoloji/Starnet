@@ -2,9 +2,9 @@
 
 # ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
 
-#****[****`(*```STAR```My``Tech`****
+- ****[****`(*```STAR```My``Tech`****
 ****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****](https://https://translate.google.com/?hl=tr&sl=tr&tl=en&text=mimar&op=translate)****
-****[****``(*```STAR```My```Tech`****
+- ****[****``(*```STAR```My```Tech`****
 ****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****](https://https://translate.google.com/?hl=tr&sl=tr&tl=en&text=mimar&op=translate)****
 
 
@@ -24,10 +24,10 @@
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
 
-![Pano888,5](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0f2bd2cd-66d1-43e3-ba3d-27ea899a6662)
+>>![Pano888,5](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0f2bd2cd-66d1-43e3-ba3d-27ea899a6662)
 
-> # ***APPLİCATİONS***
-><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+# ***APPLİCATİONS***
+<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="490" height="700" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım">   </iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="490" height="700" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 > # ***DİSCORD***
 ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
@@ -210,8 +210,8 @@ set2:
 ## ***+90 0288 318 35 60***
 ## ***[About](https://starteknoloji.space/about)*** 
 ## ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
-# ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
-# ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
+## ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
+## ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
 
 # ***GitHub Hakkında***
 ## ***Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim.***
@@ -221,7 +221,7 @@ set2:
 
 ![qr_tmp](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/4917ffba-c2c9-40eb-8f2e-5de3126f30ac)
 
-![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-0-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-0-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
+![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
 
 
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="250" frameborder="50" seamless></iframe> </div>
