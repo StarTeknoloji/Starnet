@@ -39,6 +39,7 @@
 ## ***[www.mycomputer.digital Fast Pages](https://mycomputer.digital)***
 ## ***[www.CodeExe.com Tracing](https://codesexe.com)*** 
 ## ***[www.StarTeknolog.com Standard Js. Style](https://starteknolog.com)***
+## ***[www.StarComputer.Space Jekyll Theme Hacker](https://starcomputer.space)***
 
 # ***Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar***
 ## ***KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.***
