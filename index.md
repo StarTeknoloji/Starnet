@@ -2,11 +2,12 @@
 
 # ![ekran görüntüsü2](https://user-images.githubusercontent.com/93947784/234849608-2d348961-071f-48e6-a707-674f672f6006.png)
 
- ****````````₺````````****[****`(*```STAR```My``Tech`****
+#****[****`(*```STAR```My``Tech`****
 ****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****]****
+****[****``(*```STAR```My```Tech`****
+****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****](https://https://translate.google.com/?hl=tr&sl=tr&tl=en&text=mimar&op=translate)****
 
- ****```````₺```````****[****``(*```STAR```My```Tech`****
-****`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`****]****
+
 
     Yukarıdaki Kodlamadan Şu Şekilde faydalanabilirsiniz:> Bu Sayfayı Teker Teker Dünyadaki Bütün Dillere Cevirip 
     Her dilde Ortaya cıkan Kelimeyi Tekrardan Teker Teker Yeniden Translate Aracılığı ile Her Dile çevirip, Ortaya cıkan Kelimelerin Anlamlarını Birleştirip Okumanızı Tavsiye Ederim. 
