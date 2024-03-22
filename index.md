@@ -205,23 +205,25 @@ set2:
 ...  # document end > |
 
 # ***Support us Contact***
-## ***`+90 0507 236 39 28`***
-## ***`+90 0288 318 35 60`***
+## ***+90 0530 083 12 88***
+## ***+90 0288 318 35 60***
 ## ***[About](https://starteknoloji.space/about)*** 
 ## ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
-# ***[`Net.StarTeknoloji.Space`](http://net.starteknoloji.space)***
-# ***[`NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz`](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
- <h1 id="GitHub,"><strong><em><code class="language-plaintext highlighter-rouge">GitHub,</code></em></strong></h1><h1 id="GitHub Hakkında"><strong><em><code class="language-plaintext highlighter-rouge">GitHub Hakkında </code></em></strong></h1>
-<h1 id="Anladıklarımı sİze anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlaycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı sunar.  GitHub öğrenmenizi tavsiye ederim Aksi halde bilgisayar biliyorum demeyin, yazılımdan anlamayan emekten anlamaz, İyininin ne olduğunu bilmez...."><strong><em><code class="language-plaintext highlighter-rouge">Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim. 
-</code></em></strong></h1>
+# ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
+# ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
+
+# ***GitHub Hakkında***
+## ***Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim.***
+
 
 ![bubble_bg-2x](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348)![image](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/d88c3b89-a3a1-4cc2-a9fd-c1545d1b5644)![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)
 
 ![qr_tmp](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/4917ffba-c2c9-40eb-8f2e-5de3126f30ac)
+
 ![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-0-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-0-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
 
 
-<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="50" seamless></iframe> </div>
+<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="250" frameborder="50" seamless></iframe> </div>
 
 
 
