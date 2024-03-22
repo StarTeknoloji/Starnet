@@ -24,7 +24,7 @@
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
 <iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
 
-![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/39b208d9-38cf-45d6-8c4f-1705498e6abd)
+![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/dac4e35f-f24c-45da-b967-df4011b3a789)
 
 # ***APPLİCATİONS***
 <iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="360" height="550" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="360" height="550" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
