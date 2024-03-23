@@ -1,5 +1,7 @@
 <h1>STAR TEKNOLOJİ SPACE</h1>
 
+![STAR-LOGO-1024px](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/36a72297-ef8f-43bc-a78c-b4432ad8578c)
+
 ![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/89db7d15-25b1-4111-9f76-1504dba0649e)
 
 ### ***`(*```STAR``My```Tech`***
