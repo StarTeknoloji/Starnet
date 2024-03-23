@@ -1,6 +1,6 @@
 <h1>STAR TEKNOLOJİ SPACE</h1>
 
-![STAR-LOGO-1024px](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/36a72297-ef8f-43bc-a78c-b4432ad8578c)
+![STAR-LOGO-1024px-Photoroom png-Photoroom](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/29b6d41d-53c1-45b0-aad8-8e77d013456d)
 
 ![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/89db7d15-25b1-4111-9f76-1504dba0649e)
 
