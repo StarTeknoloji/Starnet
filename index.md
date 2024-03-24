@@ -53,6 +53,8 @@
 
 <iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
 
+![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7e6990f8-6a2d-4ffa-ac5e-e5294835ac61)
+
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
     
 The literal continues until de-dented, and the leading indentation is
