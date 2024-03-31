@@ -54,13 +54,9 @@
 <iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
 
 # 2024 İnnovations
-
-# ![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7e6990f8-6a2d-4ffa-ac5e-e5294835ac61)
+# ![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0a0855ad-f901-485c-ab51-be37a39906c4)
 # ![Sbt Sayfa](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/efbf5b43-1c77-46f5-8218-3cd3d2cd7515)
 # ![İt business xxl](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5adfcc26-c2b9-4c26-b8d3-35d6b9152a72)
-
-
-
 
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
     
