@@ -42,7 +42,7 @@
 
 > # ***Game Start Uni***
 
-<h1>ecece<h2\>
+<h1>ecece<h2/>
      
 ## ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecur --* >***
 ## ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
