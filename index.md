@@ -57,6 +57,7 @@
 
 # ![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7e6990f8-6a2d-4ffa-ac5e-e5294835ac61)
 # ![Sbt Sayfa](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/efbf5b43-1c77-46f5-8218-3cd3d2cd7515)
+# ![Başlık 4 lü combo](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/ad78d7ed-ea77-4dba-9a44-8035d375cf03)
 
 <h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
     
