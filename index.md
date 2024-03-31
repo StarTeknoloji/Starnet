@@ -41,9 +41,7 @@
 ## ***Mesaj ve yorum kutusu***
 
 > # ***Game Start Uni***
-
-<h1>ecece</h2>
-     
+# ****ecece****    
 ## ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecur --* >***
 ## ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
       ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
