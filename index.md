@@ -212,7 +212,7 @@ set2:
 ## ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 ## ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
 ## ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
-
+## ***[![djgv5qn2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/c055f0d9-6661-4fdc-8c76-722e36da7c9f)](https://www.google.com/maps/place/Star+Bilgisayar+Teknoloji/@41.5671173,27.769834,15z/data=!4m6!3m5!1s0x40a09d0884381e21:0xbb3846749383eb66!8m2!3d41.5671173!4d27.769834!16s%2Fg%2F11y3tbtym0?entry=ttu)***
 # ***GitHub Hakkında***
 ## ***Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim.***
 
