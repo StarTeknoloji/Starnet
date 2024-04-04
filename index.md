@@ -59,8 +59,8 @@
 # ![Sbt Sayfa](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/efbf5b43-1c77-46f5-8218-3cd3d2cd7515)
 # ![İt business xxl](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5adfcc26-c2b9-4c26-b8d3-35d6b9152a72)
 
-<h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)
-    
+<h1>Bilgilendirme</h1>![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)![opt4pow6](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/838849c5-381f-46ef-8a93-9141de247fa0)
+  
 The literal continues until de-dented, and the leading indentation is
 stripped.
 
