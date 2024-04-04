@@ -204,7 +204,6 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
-
 # ***Support us Contact***
 ## ***+90 0530 083 12 88***
 ## ***+90 0288 318 35 60***
@@ -212,7 +211,9 @@ set2:
 ## ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 ## ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
 ## ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
-## ***[![djgv5qn2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/c055f0d9-6661-4fdc-8c76-722e36da7c9f)](https://www.google.com/search?q=Star+Teknoloji&sca_esv=84c550665db3d809&sca_upv=1&hl=en&authuser=0&sxsrf=ACQVn09OlHvTMmS3lEYOXnq3Ym5DBn6anw%3A1712235410961&ei=kqMOZqyfOsS8xc8Pu5idqAw&oq=Star+Bilgisayar+Teknoloji&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVN0YXIgQmlsZ2lzYXlhciBUZWtub2xvamkqAggAMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKcOUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgiYAwCIBgGQBgKSBwExoAcA&sclient=gws-wiz-serp&lqi=Cg5TdGFyIFRla25vbG9qaVoYIg5zdGFyIHRla25vbG9qaSoGCAIQABABkgEQY29tcHV0ZXJfc2VydmljZaoBNxABMh8QASIb8Ss-Gz8qGPRgUV4YSS8faMge2stUGjlZi6sjMhIQAiIOc3RhciB0ZWtub2xvamk#lkt=LocalPoiReviews&rlimm=13490610150293367654)***
+## ***[![djgv5qn2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/c055f0d9-6661-4fdc-8c76-722e36da7c9f)](https://www.google.com/search?q=Star+Teknoloji&sca_esv=84c550665db3d809&sca_upv=1&hl=en&authuser=0&sxsrf=ACQVn09OlHvTMmS3lEYOXnq3Ym5DBn6anw%3A1712235410961&ei=kqMOZqyfOsS8xc8Pu5idqAw&oq=Star+Bilgisayar+Teknoloji&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVN0YXIgQmlsZ2lzYXlhciBUZWtub2xvamkqAggAMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKcOUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgiYAwCIBgGQBgKSBwExoAcA&sclient=gws-wiz-serp&lqi=Cg5TdGFyIFRla25vbG9qaVoYIg5zdGFyIHRla25vbG9qaSoGCAIQABABkgEQY29tcHV0ZXJfc2VydmljZaoBNxABMh8QASIb8Ss-Gz8qGPRgUV4YSS8faMge2stUGjlZi6sjMhIQAiIOc3RhciB0ZWtub2xvamk#lkt=LocalPoiReviews&rlimm=13490610150293367654)[![2d0w74bs](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6b56c280-476f-4c4e-8ebf-7e2fc09f939a)](https://www.google.com/maps/place/Star+Bilgisayar+Teknoloji/@41.5671173,27.769834,15z/data=!4m6!3m5!1s0x40a09d0884381e21:0xbb3846749383eb66!8m2!3d41.5671173!4d27.769834!16s%2Fg%2F11y3tbtym0?entry=ttu)***
+
+***
 # ***GitHub Hakkında***
 ## ***Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim.***
 
