@@ -1,8 +1,7 @@
 <h1>STAR TEKNOLOJİ SPACE</h1>
 
-![STAR-LOGO-1024px-Photoroom png-Photoroom](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/29b6d41d-53c1-45b0-aad8-8e77d013456d)
-
-![StarKızı](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/89db7d15-25b1-4111-9f76-1504dba0649e)
+![starkızı okulu](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/1d060b70-27f1-4ab8-b354-1da87c6f26c4)
+9e)
 
 ### ***`(*```STAR``My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***
