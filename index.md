@@ -43,7 +43,7 @@
 > # ***Game Start Uni***
 # ****[``ecece``](https://translate.google.com/?hl=tr)****    
 ## ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecur --* >***
-## ***- 1. Uzayda parlayan yıldızların gölgesi, Kuyruklu yıldızların yıldızkokusu güvende.***
+## ***- Uzayda parlayan yıldızların gölgesi meydan okumak ***- Kuyruklu yıldızların yıldızkokusu güvende.***
 ## ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
       ***Oyunun İçeriği: > 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 
