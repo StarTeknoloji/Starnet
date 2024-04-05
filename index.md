@@ -1,7 +1,6 @@
 <h1>STAR TEKNOLOJİ SPACE</h1>
 
-![starkızı okulu](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/1d060b70-27f1-4ab8-b354-1da87c6f26c4)
-9e)
+![logo baby](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5435d555-3f26-4280-8f1a-159072194d35)
 
 ### ***`(*```STAR``My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***
