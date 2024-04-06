@@ -15,13 +15,13 @@
 
 - ***[Mağaza Kampanyalı Ürünler](https://starteknoloji.space/shop.html)***   -------   ***[Markalarımız](https://starteknoloji.github.io/Defter)*** 
   
-<iframe width="500" height="600" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="500" style="border: 10;"></iframe>
-<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="500" style="border:10;"></iframe>
+<iframe width="500" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="700" style="border: 10;"></iframe>
+<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="700" style="border:10;"></iframe>
 
 
 # ***APPLİCATİONS***
-<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="300" height="350" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1000" height="400" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
+<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="300" height="350" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="400" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
 
 > ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
@@ -51,11 +51,11 @@
 
 > ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="500" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="700" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="500" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="700" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="500" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="700" style="border: 10;"></iframe>
 
 # ***2024 İnnovations***
 # ![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0a0855ad-f901-485c-ab51-be37a39906c4)
@@ -227,7 +227,7 @@ set2:
 ## ***Sağ Tuşu Click'le Resmi Farklı Kaydedin***
 ![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
 
-<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="120%" height="120" frameborder="50" seamless></iframe> </div>
+<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="90" frameborder="50" seamless></iframe> </div>
 G-FKYSRVE4K2
 UA-240549066-1
 
