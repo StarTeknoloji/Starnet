@@ -13,7 +13,7 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
-- ***[Mağaza Kampanyalı Ürünler](https://starteknoloji.space/shop.html)***   -------   ***[Markalarımız](https://starteknoloji.github.io/Defter)*** 
+- ***[MAĞAZA KAMPANYALI ÜRÜNLER](https://starteknoloji.space/shop.html)***-----***[MARKALARIMIZ](https://starteknoloji.github.io/Defter)***-----***[HAKKIMIZDA](https://starteknoloji.space/about)*** 
   
 <iframe width="700" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 <iframe src="https://web.starcomputer.space" title="Planet" height="400" width="700" style="border: 10;"></iframe>
@@ -212,7 +212,6 @@ set2:
 # ***Support us Contact***
 ## ***+90 0530 083 12 88***
 ## ***+90 0288 318 35 60***
-## ***[About](https://starteknoloji.space/about)*** 
 ## ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 ## ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
 ## ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
