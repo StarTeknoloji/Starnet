@@ -1,4 +1,4 @@
-<html lang="en-US"><head></head><body><h1>STARTEKNOLOJİ</h1><h1>
+<html lang="en-US"><head></head><body><h1>TEKNOLOJİ</h1><h1>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,17 +24,11 @@
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="(* STAR Teknoloji">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.","headline":"(* STAR Teknoloji","name":"(* STAR Teknoloji","url":"https://starteknoloji.space/"}</script>
-<!-- End Jekyll SEO tag -->
 
-
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
+    {"@context":"https://schema.org","@type":"WebSite","description":"Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.","headline":"(* STAR Teknoloji","name":"(* STAR Teknoloji","url":"https://starteknoloji.space/"}</script>
 
 ![logo baby](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/fdd858fb-10b0-461f-ab36-53f7d532fd8a)
--
+
 -  ***[***`(*```STAR``My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***]***
 
