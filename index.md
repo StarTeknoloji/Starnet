@@ -15,10 +15,9 @@
 
 - ***[Mağaza Kampanyalı Ürünler](https://starteknoloji.space/shop.html)***   -------   ***[Markalarımız](https://starteknoloji.github.io/Defter)*** 
   
-<iframe width="1000" height="600" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-<iframe src="https://birliraci.com/" title="BirLiraci" height="400" width="1000" style="border: 10;"></iframe>
-<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
-<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
+<iframe width="500" height="600" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="500" style="border: 10;"></iframe>
+<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="500" style="border:10;"></iframe>
 
 
 # ***APPLİCATİONS***
@@ -40,7 +39,7 @@
 ## ***KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.***
 ## ***Mesaj ve yorum kutusu***
 
-> # ***Game Start Uni***
+# ***Game Start Uni***
 # ****[``ecece``](https://translate.google.com/?hl=tr)****    
 ## ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecurHub --* >***
 ## ***- Açık Kaynak Parmak tünel meydan okumak***
@@ -52,11 +51,11 @@
 
 > ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="1000" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="500" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="1000" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="500" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="500" style="border: 10;"></iframe>
 
 # ***2024 İnnovations***
 # ![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0a0855ad-f901-485c-ab51-be37a39906c4)
@@ -217,7 +216,7 @@ set2:
 ## ***[Erçetin Güler](https://starteknoloji.space/gifts)***&***[Aynur Zorlu](https://starteknoloji.space/hakkında)***
 ## ***[Net.StarTeknoloji.Space](http://net.starteknoloji.space)***
 ## ***[NetCI  Yayında NetSTARspace Uygulamamıza Ulaşabilirsiniz](https://github.com/marketplace/netci-netstarspace/upgrade/1/CUSTOMER_ACCOUNT_ID)***
-> ## ***[![djgv5qn2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/c055f0d9-6661-4fdc-8c76-722e36da7c9f)](https://www.google.com/search?q=Star+Teknoloji&sca_esv=84c550665db3d809&sca_upv=1&hl=en&authuser=0&sxsrf=ACQVn09OlHvTMmS3lEYOXnq3Ym5DBn6anw%3A1712235410961&ei=kqMOZqyfOsS8xc8Pu5idqAw&oq=Star+Bilgisayar+Teknoloji&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVN0YXIgQmlsZ2lzYXlhciBUZWtub2xvamkqAggAMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKcOUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgiYAwCIBgGQBgKSBwExoAcA&sclient=gws-wiz-serp&lqi=Cg5TdGFyIFRla25vbG9qaVoYIg5zdGFyIHRla25vbG9qaSoGCAIQABABkgEQY29tcHV0ZXJfc2VydmljZaoBNxABMh8QASIb8Ss-Gz8qGPRgUV4YSS8faMge2stUGjlZi6sjMhIQAiIOc3RhciB0ZWtub2xvamk#lkt=LocalPoiReviews&rlimm=13490610150293367654)----------[![2d0w74bs](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6b56c280-476f-4c4e-8ebf-7e2fc09f939a)](https://www.google.com/maps/place/Star+Bilgisayar+Teknoloji/@41.5671173,27.769834,15z/data=!4m6!3m5!1s0x40a09d0884381e21:0xbb3846749383eb66!8m2!3d41.5671173!4d27.769834!16s%2Fg%2F11y3tbtym0?entry=ttu)***
+## ***[![djgv5qn2](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/c055f0d9-6661-4fdc-8c76-722e36da7c9f)](https://www.google.com/search?q=Star+Teknoloji&sca_esv=84c550665db3d809&sca_upv=1&hl=en&authuser=0&sxsrf=ACQVn09OlHvTMmS3lEYOXnq3Ym5DBn6anw%3A1712235410961&ei=kqMOZqyfOsS8xc8Pu5idqAw&oq=Star+Bilgisayar+Teknoloji&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVN0YXIgQmlsZ2lzYXlhciBUZWtub2xvamkqAggAMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKcOUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgiYAwCIBgGQBgKSBwExoAcA&sclient=gws-wiz-serp&lqi=Cg5TdGFyIFRla25vbG9qaVoYIg5zdGFyIHRla25vbG9qaSoGCAIQABABkgEQY29tcHV0ZXJfc2VydmljZaoBNxABMh8QASIb8Ss-Gz8qGPRgUV4YSS8faMge2stUGjlZi6sjMhIQAiIOc3RhciB0ZWtub2xvamk#lkt=LocalPoiReviews&rlimm=13490610150293367654)[![2d0w74bs](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6b56c280-476f-4c4e-8ebf-7e2fc09f939a)](https://www.google.com/maps/place/Star+Bilgisayar+Teknoloji/@41.5671173,27.769834,15z/data=!4m6!3m5!1s0x40a09d0884381e21:0xbb3846749383eb66!8m2!3d41.5671173!4d27.769834!16s%2Fg%2F11y3tbtym0?entry=ttu)***
 
 # ***GitHub Hakkında***
 ## ***Anladıklarımı size anlatmaya çalışacağım GitHub özellikle açık kaynaktır, GitHub Actions, GitHub Pages, gibi alanların bize sunduğu fonksiyonların, seçeneklerin ve Özelliklerinin bİze sağlıycağı en önemli fayda eğitim, kazanç, aktivite, meslek ve iş sağlamamızı, geliştirmemizi sağlar. GitHub öğrenmenizi tavsiye ederim.***
@@ -226,7 +225,7 @@ set2:
 
 # ***Hediye Kartlarınız***
 ## ***Sağ Tuşu Click'le Resmi Farklı Kaydedin***
->> ![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
+![asset-generation-37226be3-f96a-4d99-a77c-47c59c8eb87b-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/e9d41884-7488-48d6-94a5-694295f08d29)![asset-generation-dd152451-2085-4578-89e9-18310c968701-1-small](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/6be1f77d-0b77-4f5b-8b38-8f6d973f9c9a)
 
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="120%" height="120" frameborder="50" seamless></iframe> </div>
 G-FKYSRVE4K2
