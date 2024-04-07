@@ -13,15 +13,15 @@
 [![CI](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/starteknoloji.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/actions/workflows/codacy.yml)
 
-- ***[MAĞAZA KAMPANYALI ÜRÜNLER](https://starteknoloji.space/shop.html)***-----***[MARKALARIMIZ](https://starteknoloji.github.io/Defter)***-----***[HAKKIMIZDA](https://starteknoloji.space/about)*** 
+# ***[MAĞAZA KAMPANYALI ÜRÜNLER](https://starteknoloji.space/shop.html)***-----***[MARKALARIMIZ](https://starteknoloji.github.io/Defter)***-----***[HAKKIMIZDA](https://starteknoloji.space/about)*** 
   
-<iframe width="700" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="700" style="border: 10;"></iframe>
-<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="700" style="border:10;"></iframe>
+<iframe width="1000" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
+<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
 
 
 # ***APPLİCATİONS***
-<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="300" height="350" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="700" height="400" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
+<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="300" height="350" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
 
 > ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
@@ -41,7 +41,7 @@
 
 # ***Game Start Uni***
 # ****[``ecece``](https://translate.google.com/?hl=tr)****    
-## ***<!* *--* *StarshadeSpacetarShineCometStarsuffSecurHub --* >***
+## ***<!* *--* ***`StarshadeSpacetarShineCometStarsuffSecurHub`*** --* >***
 ## ***- Açık Kaynak Parmak tünel meydan okumak***
 ## ***- Parlayan gölge kuyruklu yıldızları yıldızkokusu güvende***
 ## ***Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun… Değişen Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin*** 
@@ -51,11 +51,11 @@
 
 > ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="700" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="1000" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="700" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="1000" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="700" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
 
 # ***2024 İnnovations***
 # ![Star Efsane Nakavt 8mb](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/0a0855ad-f901-485c-ab51-be37a39906c4)
