@@ -44,6 +44,16 @@
 >
 </stripe-buy-button>
 
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1P2mZlLo2BH0Xa4vG6GsNJck"
+  publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO"
+>
+</stripe-buy-button>
+
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 <stripe-pricing-table pricing-table-id="prctbl_1P1w9MLo2BH0Xa4vTufUGGkJ"
 publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO">
