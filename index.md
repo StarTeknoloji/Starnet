@@ -2,7 +2,7 @@
    
 ![logo baby](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/fdd858fb-10b0-461f-ab36-53f7d532fd8a)
 
-| ***[`(*```STAR``My``Tech`
+| ***[`(*``STAR``My```Tech`
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***]***
 
 - ***[***``(*```STAR``My```Tech`***
