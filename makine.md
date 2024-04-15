@@ -1,3 +1,4 @@
+<p><a href="https://commons.wikimedia.org/wiki/File:Bonsack_machine.png#/media/Dosya:Bonsack_machine.png"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Bonsack_machine.png" alt="Bonsack's machine" height="1080" width="1293"></a><br>James Albert Bonsack (1859 – 1924) - &lt;a rel="nofollow" class="external text" href="http://patimg1.uspto.gov/.piw?Docid=0238640&amp;amp;idkey=NONE"&gt;U.S. patent 238,640&lt;/a&gt;, Kamu Malı, <a href="https://commons.wikimedia.org/w/index.php?curid=1267158">Bağlantı</a></p>
 <div class="mw-content-container">
 			<main id="content" class="mw-body" role="main">
 				<header class="mw-body-header vector-page-titlebar">
