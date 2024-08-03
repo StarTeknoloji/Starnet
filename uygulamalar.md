@@ -4,4 +4,22 @@
 
 # ****[RaceAgainstTime Kronometre geri sayım yapılabilir.](https://starteknoloji.space/uygulamalar/kronometre.cs)****![colorful-comic-page-background-hand-250nw-2294795999 (1)](https://github.com/user-attachments/assets/b60eecbb-f1fc-4195-829a-27f03c1f4e4b)
 
+<div class="controls">
+  <p>This grid sports a pattern that alternates by row and forces the last grid item to span all the columns if there is an odd number of grid items.</p>
+  <p>⚠️ Safari TP and Edge/Chrome Canary support at the moment.</p>
+  <button onclick="addItem()">Add Item</button>
+  <button onclick="removeItem()">Remove Item</button>
+</div>
 
+<div class="grid">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
