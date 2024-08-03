@@ -32,5 +32,9 @@ public partial class Form1 : Form
     public İmage resimGriYap(İmage img)
     {
         Bitmap bmp = (Bitmapt)img;
-        for (int y = 0; y  )
+        for (int y = 0; y < bmp.Height; y++  )//Pixselleri boyuna olarak tarar.
     }
+                for(int x =0;x <bmp.Width; x++)// Pixselleri enine olarak tarar.
+                {
+                    Color eski = bmp.GetPixel(x,y);//Sıradaki pixelleri alır.
+                    int ortalama =  
