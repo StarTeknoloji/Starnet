@@ -1,0 +1,12 @@
+body,html{}
+body{
+margin:0px; padding:0px;
+background-color:white;
+font:12px Tahoma;
+}
+
+#snake-oyunu{margin:0 auto; width:204px;}
+
+p{text-align:center;}
+a{text-decoration:none;}
+a:hover{text-decoration:none;}
