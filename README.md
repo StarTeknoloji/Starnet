@@ -1,4 +1,4 @@
-![asset-generation-99677452-c333-4665-9224-fa7a572ed6d6-2-small](https://github.com/user-attachments/assets/13bb5bdf-7ee5-4ade-8c77-721b48f2c127)
+
 
 ![pwrdLogo200](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8f39d702-060a-42f3-a0dc-fa063e37102c)
 ![tai-ku](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/ed224138-fe0b-4f74-b253-75fffea36e57)
