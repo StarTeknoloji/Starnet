@@ -86,7 +86,3 @@
 <stripe-pricing-table pricing-table-id="prctbl_1P1w9MLo2BH0Xa4vTufUGGkJ"
 publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO">
 </stripe-pricing-table>
-<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table pricing-table-id="prctbl_1P1w9MLo2BH0Xa4vTufUGGkJ"
-publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO">
-</stripe-pricing-table>
