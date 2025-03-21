@@ -545,5 +545,12 @@ UA-240549066-1
 </script>
 
 ![325499175-fd9dac5c-e0a8-47fb-8c33-7b56584b48de](https://github.com/user-attachments/assets/f817259a-5186-4f81-bc91-cd99af85dd50)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><p><img src="https://github.com/StarTeknoloji/Starnet/assets/93947784/98c2b304-700f-4c86-9fcb-754447e84bf0"alt="![github sponsor logo]("></p><div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="star-computer-96573a2a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/star-computer-96573a2a0?trk=profile-badge">Star Computer</a></div><div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br>Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&amp;size=large&amp;timezone=Europe%2FIstanbul" width="40%" height="120" frameborder="5" seamless="70"></iframe></div>
+<h1 id="TWEETCARD"><strong><em><a href="https://t.co/UfvWCoJNWg">t.co/UfvWCoJNWg TWEETCARD</a></em></strong></h1></strong>
 
+<p>G-FKYSRVE4K2
+UA-240549066-1</p>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-240549066-1">
+</script>
 
