@@ -145,7 +145,7 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 - [https://www.yerlicins.com](https://yerlicins.com/)
 - [https://www.braverclient.com](https://braverclient.com)
 - [https://www.cornergrab.com](https://cornergrab.com)
-
+## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
 ## Save Image Find Box Continue Having Fun
 
 ![gamestar](https://github.com/user-attachments/assets/897a4c66-8ab4-402f-9099-85a1478f5509)
@@ -290,17 +290,8 @@ See the [actions tab](https://github.com/actions/javascript-action/actions) for 
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 <script id="dsq-count-scr" src="//starteknoloji-space.disqus.com/count.js" async></script>
-
-
-
-
-
-# ***[MARKALARIMIZ](https://starteknoloji.github.io/Defter)***-----***[HAKKIMIZDA](https://starteknoloji.space/about)*** 
   
 <iframe width="1000" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 10;"></iframe>
-<iframe src="https://uzay.org/canli-yayin/" title="Planet" height="400" width="1000" style="border:10;"></iframe>
-
 
 # ***APPLİCATİONS***
 <iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
