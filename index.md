@@ -125,15 +125,14 @@ Your action is now published! 🧑‍💻:
     */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://starteknoloji-space.disqus.com/embed.js';
+    s.src = 'https://https-starteknoloji-github-io-starnet.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<script id="dsq-count-scr" src="//starteknoloji-space.disqus.com/count.js" async></script>
-## Websites of our businesses used
+<script id="dsq-count-scr" src="//https-starteknoloji-github-io-starnet.disqus.com/count.js" async></script>## Websites of our businesses used
 
 Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştirilebiliriz. Yorum, istek ve sorularınız için lütfen yazınız. 
 NOT; Uygulamamız Konumumuzda geçersizdir.
@@ -155,141 +154,7 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 
 See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! 🚀
 
-<script type='text/javascript'>
-    var disqus_shortname = 'starteknoloji-space';
-    // DON'T EDIT BELOW THIS LINE
-    (function () {
-        var loaded = false;
-        function loadDisqus() {
-            if (loaded) return;
-            loaded = true;
-            var div = document.getElementById('all-comments');
-            div.innerHTML = ''; div.id = 'disqus_thread';
 
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-
-        }
-
-        if ( document.getElementById('all-comments') || document.readyState === "complete" ) {
-            return setTimeout( loadDisqus, 1 );
-        }
-
-        if ( document.addEventListener ) {
-            document.addEventListener( "DOMContentLoaded", loadDisqus, false );
-            window.addEventListener( "load", loadDisqus, false );
-        } else if ( document.attachEvent ) {
-            document.attachEvent( "onreadystatechange", loadDisqus );
-            window.attachEvent( "onload", loadDisqus);
-        }
-    }());
-</script>
-
-
-<div id="disqus_thread"></div>
-<script>
-    window.addEventListener('message', receiveMessage, false);
-    function receiveMessage(event) {
-        if (event.data) {
-            var msg;
-            try {
-                msg = JSON.parse(event.data);
-            } catch (err) {
-                // Do nothing
-            }
-            if (!msg) {
-                return false;
-            }
-            if (msg.name === 'resize' || msg.name === 'rendered') {
-                window.parent.postMessage({
-                sentinel: 'amp',
-                type: 'embed-size',
-                height: msg.data.height
-                }, '*');
-            }
-        }
-    }
-</script>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-    */
-    var disqus_config = function () {
-        this.page.url = window.location;
-        this.page.identifier = window.location.hash;
-    };
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-
-        s.src = '//starteknoloji-space.disqus.com/embed.js';
-
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-<amp-iframe
-    width=600 height=140
-    src="https://example.com/amp#hash"
-    layout="responsive"
-    sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
-    resizable
->
-    <div
-        aria-label="Load more"
-        role=button
-        tabindex=0
-        overflow
-        style="display:block;font-size:12px;font-weight:500;font-family:Helvetica Neue, arial, sans-serif;text-align:center;line-height:1.1;padding:12px 16px;border-radius:4px;background:rgba(29,47,58,0.6);color:rgb(255,255,255)"
-    >
-        Load more
-    </div>
-</amp-iframe>
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://starteknoloji-space.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-<script id="dsq-count-scr" src="//starteknoloji-space.disqus.com/count.js" async></script>
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://starteknoloji-space.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-<script id="dsq-count-scr" src="//starteknoloji-space.disqus.com/count.js" async></script>
   
 <iframe width="1000" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 
