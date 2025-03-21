@@ -1,7 +1,4 @@
 >![starspceafiş](https://github.com/user-attachments/assets/b70a5f9e-ce55-4fe5-8915-9a83e0c6b188)
-![Adsızlı24](https://github.com/user-attachments/assets/74b031dd-28eb-400a-883c-87b8e785bafe)
-[![starpanosatış](https://github.com/user-attachments/assets/e82cd279-e793-448e-8d37-be585ecba30e)](https://starteknoloji.github.io/Starnet/shop)
- ![asset-generation-1e996bc1-9c19-4797-9fa7-082b2b4af4e3-1-small](https://github.com/user-attachments/assets/fb7c5309-c6a2-44c8-ab75-eb983dd29c34)
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
 ***``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é```***`***]***
@@ -306,7 +303,7 @@ See the [actions tab](https://github.com/actions/javascript-action/actions) for 
 
 
 # ***APPLİCATİONS***
-<iframe src="https://discordapp.com/widget?id=1007605187197800530&theme=dark" width="300" height="350" allowtransparency="true" frameborder="10" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
+<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
 
 
 
@@ -327,9 +324,7 @@ See the [actions tab](https://github.com/actions/javascript-action/actions) for 
 <iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
 
 
-# ***İnformations***
-# ![Animation](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/27470a3c-28a3-4715-863e-88b6226f8619)![opt4pow6](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/838849c5-381f-46ef-8a93-9141de247fa0)
-  
+
 The literal continues until de-dented, and the leading indentation is
 stripped.
 
