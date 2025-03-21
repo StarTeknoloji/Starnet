@@ -1,4 +1,4 @@
-![starspceafiş](https://github.com/user-attachments/assets/b70a5f9e-ce55-4fe5-8915-9a83e0c6b188)
+![github io pic](https://github.com/user-attachments/assets/76e96e10-eb3f-4d77-8c36-0f6dbd3d519d)
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
 ***``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é```***`***]***
