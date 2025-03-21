@@ -1,4 +1,4 @@
->![starspceafiş](https://github.com/user-attachments/assets/b70a5f9e-ce55-4fe5-8915-9a83e0c6b188)
+![starspceafiş](https://github.com/user-attachments/assets/b70a5f9e-ce55-4fe5-8915-9a83e0c6b188)
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
 ***``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é```***`***]***
@@ -107,7 +107,7 @@ git push origin v1
 
 Note: We recommend using the `--license` option for ncc, which will create a license file for all of the production node modules used in your project.
 
-Your action is now published! 🧑‍💻:
+[Your action is now published! 🧑‍💻:Start cliclk](https://github.com/Codes-Exe/JavaScript)
 
 
 ## Study and Discussion
