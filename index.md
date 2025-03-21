@@ -145,6 +145,7 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 - [https://www.yerlicins.com](https://yerlicins.com/)
 - [https://www.braverclient.com](https://braverclient.com)
 - [https://www.cornergrab.com](https://cornergrab.com)
+- [https://www.starteknoloji.space](https:/starteknoloji.space)
 ## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
 ## Save Image Find Box Continue Having Fun
 
