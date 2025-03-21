@@ -1,4 +1,4 @@
-![github io pic](https://github.com/user-attachments/assets/76e96e10-eb3f-4d77-8c36-0f6dbd3d519d)
+![Adsız](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
 ***``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é```***`***]***
