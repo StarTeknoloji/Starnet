@@ -77,6 +77,7 @@
   buy-button-id="buy_btn_1P1wydLo2BH0Xa4v7ZbuWWj0"
   publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO"
 >
+
 </stripe-buy-button>
 
 <script async
@@ -121,6 +122,7 @@
   buy-button-id="buy_btn_1P2mZlLo2BH0Xa4vG6GsNJck"
   publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO"
 >
+
 </stripe-buy-button>
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
