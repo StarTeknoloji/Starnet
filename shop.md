@@ -16,13 +16,12 @@
   buy-button-id="buy_btn_1R5hnjGmVCKYPeR5VY5pQ6nA"
   publishable-key="pk_test_51OqX8zGmVCKYPeR5vUlTbkqagB6Tuw9X9dgLEeel7CO8pY5lztvoypRPA3H853sWdyzA6GlCuzQaCEEslfArFai800NyBRR7Og"
 >
-</stripe-buy-button>
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1R5jLQGmVCKYPeR57HeZnNqk"
+  buy-button-id="buy_btn_1R5jSDGmVCKYPeR5zZlzJZZm"
   publishable-key="pk_test_51OqX8zGmVCKYPeR5vUlTbkqagB6Tuw9X9dgLEeel7CO8pY5lztvoypRPA3H853sWdyzA6GlCuzQaCEEslfArFai800NyBRR7Og"
 >
 </stripe-buy-button>
