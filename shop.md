@@ -16,7 +16,6 @@
   publishable-key="pk_test_51OqX8zGmVCKYPeR5vUlTbkqagB6Tuw9X9dgLEeel7CO8pY5lztvoypRPA3H853sWdyzA6GlCuzQaCEEslfArFai800NyBRR7Og"
 >
 
-
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -25,6 +24,7 @@
   buy-button-id="buy_btn_1R5hPjGmVCKYPeR5QSgQA3kX"
   publishable-key="pk_test_51OqX8zGmVCKYPeR5vUlTbkqagB6Tuw9X9dgLEeel7CO8pY5lztvoypRPA3H853sWdyzA6GlCuzQaCEEslfArFai800NyBRR7Og"
 >
+
 </stripe-buy-button>
 
 <script async
@@ -35,6 +35,7 @@
   buy-button-id="buy_btn_1Qp4ZrLo2BH0Xa4vJRJ3RfW0"
   publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO"
 >
+
 </stripe-buy-button>
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -44,6 +45,7 @@
   buy-button-id="buy_btn_1Qp4YkLo2BH0Xa4vKeMJjrAl"
   publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO"
 >
+
 </stripe-buy-button>
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -53,6 +55,7 @@
   buy-button-id="buy_btn_1Qp4WsLo2BH0Xa4v6O9mp9xV"
   publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO"
 >
+
 </stripe-buy-button>
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
