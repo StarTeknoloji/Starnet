@@ -112,8 +112,8 @@ Note: We recommend using the `--license` option for ncc, which will create a lic
 ## Banner
 ![Adsızlı24](https://github.com/user-attachments/assets/8d7df838-424f-4365-aa78-84710f565c90)
 ![starpanosatış](https://github.com/user-attachments/assets/a33a378b-7c91-45f1-8472-cbafe26cf284)
-![Ai Allstar](https://github.com/user-attachments/assets/a7a1f32b-34f5-4c72-a4fe-d24c31d11e33)
 ![baskıın](https://github.com/user-attachments/assets/b4378121-f01e-4708-8547-3ad3f83d41af)
+![Ai Allstar](https://github.com/user-attachments/assets/a7a1f32b-34f5-4c72-a4fe-d24c31d11e33)
 
 ## Study and Discussion
 
