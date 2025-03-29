@@ -118,3 +118,5 @@
 <stripe-pricing-table pricing-table-id="prctbl_1P1w9MLo2BH0Xa4vTufUGGkJ"
 publishable-key="pk_test_51OtaBhLo2BH0Xa4vFwc1rxUmDxooNJo35isvI7BS21a2PyClutHJH58AVYNc79tS42pioRUQNNeascMOjyJnLyV7005po9UtWO">
 </stripe-pricing-table>
+
+<img class="giphy-gif-img giphy-img-loaded" src="https://media4.giphy.com/media/ac003BfmW4ts42KzVg/giphy.gif?cid=ecf05e47gt8w5auc8v9u5tdemyl0kfg284sdbten1t82s9w0&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" width="100%" height="100%" alt="dotfilmsco dot dotfilms dot wordmark GIF" style="background: unset;">
