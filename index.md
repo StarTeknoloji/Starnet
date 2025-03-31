@@ -7,10 +7,11 @@
 ***[***``(*```STAR``My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é``***]***
 
+![starcom (2)]()
 
 
 <p align="center" dir="auto">
-  <a href="https://github.com/actions/javascript-action/actions"><img src="https://github.com/user-attachments/assets/86db517b-85dc-4a22-a228-319e0d94a62a" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="https://github.com/actions/javascript-action/actions"><img src="https://github.com/user-attachments/assets/85438924-9a37-47b8-961a-c3b03d11c4af" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
   
 
