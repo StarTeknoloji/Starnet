@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-  <a href="https://starcomputer.space/shop"><img src="https://github.com/user-attachments/assets/919b4c66-f30f-46b4-9190-b3c318821498" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="https://starcomputer.space/shop"><img src="https://github.com/user-attachments/assets/c517fa45-5836-482c-99a2-58e119dfdc9a" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
