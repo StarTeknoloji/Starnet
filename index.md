@@ -114,7 +114,7 @@ Note: We recommend using the `--license` option for ncc, which will create a lic
 
 [Your action is now published! 🧑‍💻:Start cliclk](https://github.com/Codes-Exe/JavaScript)
 
-## Banner
+# Banner
 ![Adsızlı24](https://github.com/user-attachments/assets/7ebdd6c0-31ae-4eb4-a601-3e971c84f76a)
 ![starpanosatış](https://github.com/user-attachments/assets/a33a378b-7c91-45f1-8472-cbafe26cf284)
 ![baskıın](https://github.com/user-attachments/assets/b4378121-f01e-4708-8547-3ad3f83d41af)
