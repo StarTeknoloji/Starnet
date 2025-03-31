@@ -165,7 +165,9 @@ See the [actions tab](https://github.com/actions/javascript-action/actions) for 
 
 # ***Game Start Uni***
 ## Save Image Find Box Continue Having Fun
-![gamestar](https://github.com/user-attachments/assets/897a4c66-8ab4-402f-9099-85a1478f5509)
+
+<img src="https://github.com/user-attachments/assets/897a4c66-8ab4-402f-9099-85a1478f5509" alt="gamestar">
+
 ## ****[``ecece``](https://translate.google.com/?hl=tr)****    
 ### ***<!* *--* ***`StarshadeSpacetarShineCometStarsuffSecurHub`*** --* >***
 ### ***- Açık Kaynak Parmak tünel meydan okumak***
