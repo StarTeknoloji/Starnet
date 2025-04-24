@@ -1,3 +1,5 @@
+![gezegenler  ile  kodlardan ve dijital   bilgisayar iconlarından  ortasında renkli yüce üçgenlerden oluşan  yıldız renkli ışınlanmış gökkuşağı birlikte bilgisayar ağı olan gelişmiş  yazılım ile dünyadan uza (7)]()
+![gezegenler ve uzay gemileri ile  dağılmış   bilgisayar icon ve çevre birimleri ortasında renkli yüce üçgenlerden oluşan  kuyruklu yıldız renkli ışınlanmış gökkuşağı birlikte bilgisayar ağı olan gelişmiş  c (4)](https://github.com/user-attachments/assets/c4f68368-e996-4528-9a6b-223d7bfc24ba)
 
 
 ![pwrdLogo200](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/8f39d702-060a-42f3-a0dc-fa063e37102c)
