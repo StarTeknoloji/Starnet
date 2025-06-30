@@ -146,7 +146,6 @@ Note: We recommend using the `--license` option for ncc, which will create a lic
 <script id="dsq-count-scr" src="//https-starteknoloji-github-io-starnet.disqus.com/count.js" async></script>## Websites of our businesses used
 
 Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştirilebiliriz. Yorum, istek ve sorularınız için lütfen yazınız. 
-NOT; Uygulamamız Konumumuzda geçersizdir.
 
 ## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
 
