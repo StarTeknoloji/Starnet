@@ -161,7 +161,8 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 - [https://www.starteknoloji.space](https://starteknoloji.space)
 - [https://www.birliraci.com](https://birliraci.com/) Hazırlanıyor!
 - [https://www.starcomputer.space](https://starcomputer.space)
-- [https://www.starcomputer.shop]https://starcomputer.shop) Hazırlanıyor!
+- [https://www.starcomputer.shop](https://starcomputer.shop) Hazırlanıyor!
+
 - ***`Author`***
 ` ***```Erçetin Güler``***
 
