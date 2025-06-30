@@ -152,18 +152,18 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 
 - [https://www.starcomputer.com.tr](https://starcomputer.com.tr)
 - [https://www.mycomputer.digital](https://mycomputer.digital)
-- [https://www.yerlicins.com](https://yerlicins.com/)
+- [https://www.yerlicins.com](https://yerlicins.com/) Hazırlanıyor!
 - [https://www.ogtal.com](https://ogtal.com/)
 - [https://www.starteknoloji.tr](https://starteknoloji.tr/)
 - [https://www.starcomputer.tr](https://starcomputer.tr/)
-- [https://www.braverclient.com](https://braverclient.com)
-- [https://www.cornergrab.com](https://cornergrab.com)
+- [https://www.braverclient.com](https://braverclient.com) Hazırlanıyor!
+- [https://www.cornergrab.com](https://cornergrab.com) Hazırlanıyor!
 - [https://www.starteknoloji.space](https://starteknoloji.space)
-- [https://www.starcomputer.space/shop](https://starcomputer.space/shop)
+- [https://www.birliraci.com](https://birliraci.com/) Hazırlanıyor!
 - [https://www.starcomputer.space](https://starcomputer.space)
-- [https://www.starcomputer.shop](https://starcomputer.shop)
-- `Author`
-` `Erçetin Güler`
+- [https://www.starcomputer.shop]https://starcomputer.shop) Hazırlanıyor!
+- ***`Author`***
+` ***```Erçetin Güler``***
 
 See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! 🚀
 
