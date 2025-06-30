@@ -143,12 +143,13 @@ Note: We recommend using the `--license` option for ncc, which will create a lic
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<script id="dsq-count-scr" src="//https-starteknoloji-github-io-starnet.disqus.com/count.js" async></script>## Websites of our businesses used
-
-Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştirilebiliriz. Yorum, istek ve sorularınız için lütfen yazınız. 
+<script id="dsq-count-scr" src="//https-starteknoloji-github-io-starnet.disqus.com/count.js" async></script>
 
 ## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
 
+### Websites of our businesses used
+
+Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştirilebiliriz. Yorum, istek ve sorularınız için lütfen yazınız. 
 - [https://www.starcomputer.com.tr](https://starcomputer.com.tr)
 - [https://www.mycomputer.digital](https://mycomputer.digital)
 - [https://www.yerlicins.com](https://yerlicins.com) Hazırlanıyor!
