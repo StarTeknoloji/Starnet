@@ -163,7 +163,7 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 - [https://www.starcomputer.space](https://starcomputer.space)
 - [https://www.starcomputer.shop](https://starcomputer.shop) Hazırlanıyor!
 
-- ***```Author`````***``````Erçetin Güler```***
+- ***```Author`````***``````***Erçetin Güler***```***
 
 See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! 🚀
 
