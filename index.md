@@ -148,6 +148,8 @@ Note: We recommend using the `--license` option for ncc, which will create a lic
 Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştirilebiliriz. Yorum, istek ve sorularınız için lütfen yazınız. 
 NOT; Uygulamamız Konumumuzda geçersizdir.
 
+## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
+
 - [https://www.starcomputer.com.tr](https://starcomputer.com.tr)
 - [https://www.mycomputer.digital](https://mycomputer.digital)
 - [https://www.yerlicins.com](https://yerlicins.com/)
@@ -160,10 +162,8 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 - [https://www.starcomputer.space/shop](https://starcomputer.space/shop)
 - [https://www.starcomputer.space](https://starcomputer.space)
 - [https://www.starcomputer.shop](https://starcomputer.shop)
-  
-## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
-`Author`
-`Erçetin Güler`
+- `Author`
+` `Erçetin Güler`
 
 See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! 🚀
 
