@@ -150,8 +150,10 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 
 - [https://www.starcomputer.com.tr](https://starcomputer.com.tr)
 - [https://www.mycomputer.digital](https://mycomputer.digital)
-- [https://www.satilik.shop](https://satilik.shop)
 - [https://www.yerlicins.com](https://yerlicins.com/)
+- [https://www.ogtal.com](https://ogtal.com/)
+- [https://www.starteknoloji.tr](https://starteknoloji.tr/)
+- [https://www.starcomputer.tr](https://starcomputer.tr/)
 - [https://www.braverclient.com](https://braverclient.com)
 - [https://www.cornergrab.com](https://cornergrab.com)
 - [https://www.starteknoloji.space](https://starteknoloji.space)
