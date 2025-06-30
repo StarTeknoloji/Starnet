@@ -158,6 +158,9 @@ NOT; Uygulamamız Konumumuzda geçersizdir.
 - [https://www.cornergrab.com](https://cornergrab.com)
 - [https://www.starteknoloji.space](https://starteknoloji.space)
 - [https://www.starcomputer.space/shop](https://starcomputer.space/shop)
+- [https://www.starcomputer.space](https://starcomputer.space)
+- [https://www.starcomputer.shop](https://starcomputer.shop)
+  
 ## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
 `Author`
 `Erçetin Güler`
