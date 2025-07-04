@@ -1,38 +1,48 @@
 ![gezegenler  ile  kodlardan ve dijital   bilgisayar iconlarından  ortasında renkli yüce üçgenlerden oluşan  yıldız renkli ışınlanmış gökkuşağı birlikte bilgisayar ağı olan gelişmiş  yazılım ile dünyadan uza (4)](https://github.com/user-attachments/assets/9f1f0412-d280-48a2-8385-bd1e3c3cbc18)
 
 # Bilgisayar Parçaları
+
 ### İşlemci
    - [İntel](https://starcomputer.shop/islemci)
    - [Amd](https://starcomputer.shop/islemci-amd)
+
 ### Anakart
    - Amd
    - İntel
+
 ### Hard Disk
    - SSD Diskler
    - Güvenlik Diskleri 7/24
    - Taşınabilir Diskler
    - Nas Diskleri
+
 ### Bellek
    - Masaüstü Belllk
    - Dizüstü Bellek
    - Usb Bellek
    - Hafıza Kartları
    - Sunucu Ramlari
+
 ### Kasa PSU
    - Atx Power Supply
+
 ### Ekran Kartı
    - Ati 16x Nvidia 16x
+
 ### Optik Sürücü
    - DVD Yazıcı Harici
+
 ### Klavye Mouse
    - Klavye Mouse
    - Klavye Mouse Set
+
 ### Hoperlör
 ### Monitör
 ### Web Kamerası
 ### Kulaklık Mikrafon
 ### Fan Termal Macun
 ### Sıvı Soğutma
+
 # Taşınabilir Bilgisayarlar
 ### [Notebook](https://starcomputer.shop/Laptop)
 ### Aksesuar ve Yedek Parça
