@@ -1,4 +1,4 @@
-# [Bilgisayar Parçaları](
+# Bilgisayar Parçaları
 - İşlemci
 - Anakart
 - Hard Disk
@@ -38,26 +38,26 @@
 - Ağ Kablaları ve AKsesuar
 - Router
 # Güvenlik Ürünleri
-- Kayıt Cİhazları
+##  Kayıt Cİhazları
 * Nvr-Dvr-Mobil Nvr
-- Kameralar
+## Kameralar
 * İp Kameralar
 * Analog HD Termal
 * Solar Kamera Solar Panel
 * Fotokopan Yılan Kamera
-- Güvenlik Montaj Ürünleri
+## Güvenlik Montaj Ürünleri
 * Akü Adaptör
 * Kamera Ayakları
 * CCTV Kabloları
 * Bnc Power Jack
 * Aksesuar
 * PTZ Kontrol Klavyesi
-* Buat Montaj Ayaklarıı
-- Plaka Tanıma Sistemleri
-- Geçiş Kontrol Sistemleri Test Cihazırı
-- Yangın Algılama Sİstemleri
-- İnterkom
-- Kabinet Aksesuar
++ Buat Montaj Ayaklarıı
+## Plaka Tanıma Sistemleri
+## Geçiş Kontrol Sistemleri Test Cihazırı
+## Yangın Algılama Sİstemleri
+## İnterkom
+## Kabinet Aksesuar
 
 # Tüketim Ürünleri
 # Kurumsal Ürünler
