@@ -17,7 +17,7 @@
    - [Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)
 
 ### Bellek
-   - Masaüstü Belllk
+   - Masaüstü Bellek
    - Dizüstü Bellek
    - Usb Bellek
    - Hafıza Kartları
