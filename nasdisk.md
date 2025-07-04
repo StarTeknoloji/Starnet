@@ -1,4 +1,4 @@
-![www starcomputer shop logo alışveriş sepeti kredi kartı - online tech shop - tabelsı ile Bilgisayarı  parçaları ve hard diskleri (1)](https://github.com/user-attachments/assets/f0fce8dd-e683-4945-ac7a-b5db73a11cb7)
+![www starcomputer shop logo alışveriş sepeti kredi kartı - online tech shop - tabelsı ile Bilgisayarı  parçaları ve hard diskleri](https://github.com/user-attachments/assets/f7252e55-0035-4777-bb11-3d8cf0cef91b)
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
