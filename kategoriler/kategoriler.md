@@ -3,18 +3,18 @@
 # Bilgisayar Parçaları
 
 ### İşlemci
-   - [İntel](https://starcomputer.shop/islemci)
-   - [Amd](https://starcomputer.shop/islemci-amd)
+   - [İntel](https://starcomputer.shop/kategoriler/islemci)
+   - [Amd](https://starcomputer.shop/kategoriler/islemci-amd)
 
 ### Anakart
-   - [Amd](https://starcomputer.shop/anakart-amd)
-   - [İntel](https://starcomputer.shop/anakart-intel)
+   - [Amd](https://starcomputer.shop/kategoriler/anakart-amd)
+   - [İntel](https://starcomputer.shop/kategoriler/anakart-intel)
 
 ### Hard Disk
-   - [SSD Diskler](https://starcomputer.shop/ssd)
-   - [Güvenlik Diskleri 7/24](https://starcomputer.shop/gd724)
-   - [Taşınabilir Diskler](https://starcomputer.shop/laptopdisk)
-   - [Nas Diskleri](https://starcomputer.shop/nasdisk)
+   - [SSD Diskler](https://starcomputer.shop/kategoriler/ssd)
+   - [Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)
+   - [Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)
+   - [Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)
 
 ### Bellek
    - Masaüstü Belllk
@@ -44,7 +44,7 @@
 ### Sıvı Soğutma
 
 # Taşınabilir Bilgisayarlar
-### [Notebook](https://starcomputer.shop/Laptop)
+### [Notebook](https://starcomputer.shop/kategoriler/Laptop)
 ### Aksesuar ve Yedek Parça
    - Çanta Kılıf Soğutucu Aksesuar
 # Masaüstü Bilgisayarlar
