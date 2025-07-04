@@ -14,7 +14,7 @@
    - [SSD Diskler](https://starcomputer.shop/ssd)
    - [Güvenlik Diskleri 7/24](https://starcomputer.shop/gd724)
    - [Taşınabilir Diskler](https://starcomputer.shop/laptopdisk)
-   - Nas Diskleri
+   - [Nas Diskleri](https://starcomputer.shop/nasdisk)
 
 ### Bellek
    - Masaüstü Belllk
