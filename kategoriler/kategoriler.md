@@ -2,31 +2,31 @@
 
 # *|`Bilgisayar Parçaları`|*
 ### *|`İşlemci`|*
-   - [İntel](https://starcomputer.shop/kategoriler/islemci)
-   - [Amd](https://starcomputer.shop/kategoriler/islemci-amd)
+   - *[İntel](https://starcomputer.shop/kategoriler/islemci)*
+   - *[Amd](https://starcomputer.shop/kategoriler/islemci-amd)*
 ### *|`Anakart`|*
-   - [Amd](https://starcomputer.shop/kategoriler/anakart-amd)
-   - [İntel](https://starcomputer.shop/kategoriler/anakart-intel)
+   - *[Amd](https://starcomputer.shop/kategoriler/anakart-amd)*
+   - *[İntel](https://starcomputer.shop/kategoriler/anakart-intel)*
 ### *|`Hard Disk`|*
-   - [SSD Diskler](https://starcomputer.shop/kategoriler/ssd)
-   - [Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)
-   - [Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)
-   - [Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)
+   - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
+   - *[Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)*
+   - *[Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)*
+   - *[Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)*
 ### *|`Bellek`|*
-   - Masaüstü Bellek
-   - Dizüstü Bellek
-   - Usb Bellek
-   - Hafıza Kartları
-   - Sunucu Ramlari
+   - *Masaüstü Bellek*
+   - *Dizüstü Bellek*
+   - *Usb Bellek*
+   - *Hafıza Kartları*
+   - *Sunucu Ramlari*
 ### *|`Kasa PSU`|*
-   - Atx Power Supply
+   - *Atx Power Supply*
 ### *|`Ekran Kartı`|*
-   - Ati 16x Nvidia 16x
+   - *Ati 16x Nvidia 16x*
 ### *|`Optik Sürücü`|*
-   - DVD Yazıcı Harici
+   - *DVD Yazıcı Harici*
 ### *|`Klavye Mouse`|*
-   - Klavye Mouse
-   - Klavye Mouse Set
+   - *Klavye Mouse*
+   - *Klavye Mouse Set*
 ### *|`Hoperlör`|*
 ### *|`Monitör`|*
 ### *|`Web Kamerası`|*
