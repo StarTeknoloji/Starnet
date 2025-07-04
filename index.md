@@ -1,124 +1,21 @@
-
 <p align="center" dir="auto">
   <a href="https://starcomputer.shop/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
 <iframe width="475" height="250" src="https://onlinesaat.web.tr/embed/zamanlayici/#date=2025-07-20&title=Biti%C5%9F&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe>
 
-
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
-
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
 ***``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é```***`***]***
 
-
 ***[***``(*```STAR``My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é``***]***
-
-
-
-
 
 <p align="center" dir="auto">
   <a href="https://github.com/actions/javascript-action/actions"><img src="https://github.com/user-attachments/assets/85438924-9a37-47b8-961a-c3b03d11c4af" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
-  
-
-This template includes tests, linting, a validation workflow, publishing, and versioning guidance.
-
-If you are new, there's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
-
-## Create an action from this template
-
-Click the `Use this Template` and provide the new repo details for your action
-
-## Code in Main
-
-Install the dependencies
-
-```bash
-npm install
-```
-
-Run the tests :heavy_check_mark:
-
-```bash
-$ npm test
-
- PASS  ./index.test.js
-  ✓ throws invalid number (3ms)
-  ✓ wait 500 ms (504ms)
-  ✓ test runs (95ms)
-...
-```
-
-## Change action.yml
-
-The action.yml defines the inputs and output for your action.
-
-Update the action.yml with your name, description, inputs and outputs for your action.
-
-See the [documentation](https://help.github.com/en/articles/metadata-syntax-for-github-actions)
-
-## Change the Code
-
-Most toolkit and CI/CD operations involve async operations so the action is run in an async function.
-
-```javascript
-const core = require('@actions/core');
-...
-
-async function run() {
-  try {
-      ...
-  }
-  catch (error) {
-    core.setFailed(error.message);
-  }
-}
-
-run()
-```
-
-See the [toolkit documentation](https://github.com/actions/toolkit/blob/master/README.md#packages) for the various packages.
-
-## Package for distribution
-
-GitHub Actions will run the entry point from the action.yml. Packaging assembles the code into one file that can be checked in to Git, enabling fast and reliable execution and preventing the need to check in node_modules.
-
-Actions are run from GitHub repos.  Packaging the action will create a packaged action in the dist folder.
-
-Run prepare
-
-```bash
-npm run prepare
-```
-
-Since the packaged index.js is run from the dist folder.
-
-```bash
-git add dist
-```
-## Create a release branch
-
-Users shouldn't consume the action from master since that would be latest code and actions can break compatibility between major versions.
-
-Checkin to the v1 release branch
-
-```bash
-git checkout -b v1
-git commit -a -m "v1 release"
-```
-
-```bash
-git push origin v1
-```
-
-Note: We recommend using the `--license` option for ncc, which will create a license file for all of the production node modules used in your project.
-
-[Your action is now published! 🧑‍💻:Start cliclk](https://github.com/Codes-Exe/JavaScript)
-
+ 
 # Banner
 ![resimatolye](https://github.com/user-attachments/assets/60d64998-6de3-4a7e-bc75-29e951b55e68)
 ![starpanosatış](https://github.com/user-attachments/assets/a33a378b-7c91-45f1-8472-cbafe26cf284)
