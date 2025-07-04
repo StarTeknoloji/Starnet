@@ -143,10 +143,21 @@
 ### Şerit
 # Barkod Ürünler
 ### Barkod Okuyucu
-### Barkod Yazıcılar 
+- CCD
+- Lazer
+- Kablosuz
+- Karekod
+- Masaüstü
+### Barkod Yazıcılar
+- Barkod Yazıcılar
+- Fiş Etiket Pos yazıcılar
 ### El Terminali 
+- El Terminali
 ### Dokunmatik Pos PC
 ### Yedek Parça
+- Termal Kafa
+- Sarma Ünitesi
+- Kart O;kuyucu
 ### Para Çekmecesi
 # Kurumsal Ürünler
 ### Sunucu
@@ -174,7 +185,40 @@
 ### Taşınabilir Solar Panel
 ### Solar Panel Batyarya
 # Tüketici Elektroniği
+### Ev Teknolojileri
+### Power Bank
+### Tv Monitör Askı Aparatı
+### Sağlık Teknloji 
+### Akıllı Ev Sistemleri
+- Akıllı Priz
+### Hobi
+- Drone
+- Gimbal
+- Mikrofon
+- Aksiyon Kamera
+### Temizli kiti
 # Kablo Dönüştürücüler
+### Usb Data Şarj Kablolar
+### Güc Data Kabloları
+### Vga Kablo
+### Pci Dönüştürücü Kartlat
+### Kvm Switch/ Extender
+### Dönüştürücüler Coklayıcılar
+### Hdmi-Dvi Kablo
 # Telefon
+### Şarj Aletl/ Adaptör ve USB Güç Kablosu
+### ARç ŞArj Kiti
 # Projeksiyon
+### Projeksiyon Cihazı
+### Perde
+### Askı Aparatı
+### Aksesuar
 # Yazılım
+### Oem Kutu Lisans
+- İşletim Sİstemi
+- Ofis Uygulamaları
+### Güvenlik Yazılımlar
+- Antivirüs
+### Web Paketleri
+- Eticaret Paketleri
+### Bulut Yedekleme
