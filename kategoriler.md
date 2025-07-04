@@ -32,29 +32,63 @@
 ### Fan Termal Macun
 ### Sıvı Soğutma
 # Taşınabilir Bilgisayarlar
-- [Notebook](https://starteknoloji.github.io/Starnet/Laptop)
-- Aksesuar ve Yedek Parça
+### [Notebook](https://starteknoloji.github.io/Starnet/Laptop)
+### Aksesuar ve Yedek Parça
+- Çanta Kılıf Soğutucu Aksesuar
 # Masaüstü Bilgisayarlar
-- Masaüstü
-- All İn One
-- Mini PC 
+### Masaüstü
+### All İn One
+### Mini PC 
 # Baskı Çözümleri
-- Lazer Yazıcılar
-- MÜrekkep Yazıcılar
-- Nokta Vuruşlu Yazıcılar
-- Tarayıcılar
-- Döküman Tarayıcılar
+### Lazer Yazıcılar
+- Tek Fonksiyonlu
+- Çok Fonksiyonlu
+- Tanklı Lazer
+### Mürekkep Yazıcılar
+- Tanklı Yazıcılar
+- Mürekkep Püskürtmeli
+### Nokta Vuruşlu Yazıcılar
+### Tarayıcılar
+### Döküman Tarayıcılar
 # Ağ Ürünleri
-- Modem
-- Access Point&Routrer
+### Modem
+- ADSL/ VDSL Kablosuz
+- Vpn Modemler
+### Access Point&Routrer
+- İç Ortam
+- Dış Ortam Uzak Mesafe
+- Powerline
+- Poe Enjektör ADaptör
+### Switch
 - Switch
-- Fiber Optik ve Aksesuar
-- Ağ Kartları
-- Controller ve lisans
-- Bluetooth
-- Pense Aksesuar
-- Ağ Kablaları ve AKsesuar
-- Router
+- Poe Switch
+- Endüstriyel Switch
+### Antenler
+- İç Ortam
+- Uzun Mesafe Dış Ortam
+### Fiber Optik ve Aksesuar
+- Fiber Otik Kablo
+- Patch Panel
+- Patch Card
+- Pigtail / Dac Kablo
+- Sonlandırma Ekipmanları
+- SFP Modül
+- Medya Dönüştürücü
+- DAC KAblo
+### Ağ Kartları
+- Pci / Pciex
+- Usb
+### Controller ve lisans
+### Bluetooth
+### Pense Aksesuar
+### Ağ Kablaları ve Aksesuar
+- Kablo
+- Uçlar
+- Patch Kablo
+- Aksesuar
+- Patch panel
+- Key stone
+### Router
 # Güvenlik Ürünleri
 ###  Kayıt Cİhazları
 * Nvr-Dvr-Mobil Nvr
