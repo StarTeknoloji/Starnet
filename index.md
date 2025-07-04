@@ -1,6 +1,6 @@
 
 <p align="center" dir="auto">
-  <a href="https://starteknoloji.github.io/Starnet/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="https://starcomputer.shop/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
