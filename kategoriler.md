@@ -11,7 +11,7 @@
    - [İntel](https://starcomputer.shop/anakart-intel)
 
 ### Hard Disk
-   - SSD Diskler
+   - [SSD Diskler](https://starcomputer.shop/ssd)
    - Güvenlik Diskleri 7/24
    - Taşınabilir Diskler
    - Nas Diskleri
