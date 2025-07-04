@@ -9,10 +9,10 @@
     + ***Am4***
     + ***Am5***
    - *[İntel](https://starcomputer.shop/kategoriler/anakart-intel)*
-    + ***1151***
-    + ***1200***
-    + ***1700***
-    + ***1851***
+     + ***1151***
+     + ***1200***
+     + ***1700***
+     + ***1851***
 ### *|`Hard Disk`|*
    - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
      + ***Sata***
