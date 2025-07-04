@@ -1,18 +1,36 @@
 # Bilgisayar Parçaları
-- İşlemci
-- Anakart
-- Hard Disk
-- Bellek
-- Kasa PSU
-- Ekran KArtı
-- Optik Sürücü
+### İşlemci
+  * İntel
+  * Amd
+### Anakart
+  * Amd
+  * İntel
+### Hard Disk
+- SSD Diskler
+- Güvenlik Diskleri 7/24
+- Taşınabilir Diskler
+- Nas Diskleri
+### Bellek
+- Masaüstü Belllk
+- Dizüstü Bellek
+- Usb Bellek
+- HAfıza Kartları
+- Sunucu Ramlari
+### Kasa PSU
+- Atx Power Supply
+### Ekran Kartı
+- Ati 16x Nvidia 16x
+### Optik Sürücü
+- DVD Yazıcı Harici
+### Klavye Mouse
 - Klavye Mouse
-- Hoperlör
-- Monitör
-- Web Kamerası
-- Kulaklık Mikrafon
-- Fan Termal Macun
-- Sıvı Soğutma
+- Klavye Mouse Set
+### Hoperlör
+### Monitör
+### Web Kamerası
+### Kulaklık Mikrafon
+### Fan Termal Macun
+### Sıvı Soğutma
 # Taşınabilir Bilgisayarlar
 - [Notebook](https://starteknoloji.github.io/Starnet/Laptop)
 - Aksesuar ve Yedek Parça
