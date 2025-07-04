@@ -1,42 +1,42 @@
 # Bilgisayar Parçaları
- ### İşlemci
+### İşlemci
    - İntel
    - Amd
  ### Anakart
    - Amd
    - İntel
- ### Hard Disk
+### Hard Disk
    - SSD Diskler
    - Güvenlik Diskleri 7/24
    - Taşınabilir Diskler
    - Nas Diskleri
- ### Bellek
+### Bellek
    - Masaüstü Belllk
    - Dizüstü Bellek
    - Usb Bellek
    - Hafıza Kartları
    - Sunucu Ramlari
- ### Kasa PSU
+### Kasa PSU
    - Atx Power Supply
- ### Ekran Kartı
+### Ekran Kartı
    - Ati 16x Nvidia 16x
- ### Optik Sürücü
+### Optik Sürücü
    - DVD Yazıcı Harici
- ### Klavye Mouse
+### Klavye Mouse
    - Klavye Mouse
    - Klavye Mouse Set
- ### Hoperlör
- ### Monitör
- ### Web Kamerası
- ### Kulaklık Mikrafon
- ### Fan Termal Macun
- ### Sıvı Soğutma
+### Hoperlör
+### Monitör
+### Web Kamerası
+### Kulaklık Mikrafon
+### Fan Termal Macun
+### Sıvı Soğutma
 # Taşınabilir Bilgisayarlar
- ### [Notebook](https://starteknoloji.github.io/Starnet/Laptop)
- ### Aksesuar ve Yedek Parça
+### [Notebook](https://starteknoloji.github.io/Starnet/Laptop)
+### Aksesuar ve Yedek Parça
    - Çanta Kılıf Soğutucu Aksesuar
 # Masaüstü Bilgisayarlar
- ### Masaüstü
+### Masaüstü
  ### All İn One
  ### Mini PC 
 # Baskı Çözümleri
