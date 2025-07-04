@@ -14,7 +14,7 @@
 - Fan Termal Macun
 - Sıvı Soğutma
 # Taşınabilir Bilgisayarlar
-- Notebook
+- [Notebook](https://starteknoloji.github.io/Starnet/shop)
 - Aksesuar ve Yedek Parça
 # Masaüstü Bilgisayarlar
 - Masaüstü
