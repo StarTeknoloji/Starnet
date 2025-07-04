@@ -44,8 +44,14 @@
 ### *|`Optik Sürücü`|*
    - ***DVD Yazıcı Harici***
 ### ***|`Klavye Mouse`|***
-   - ***Klavye Mouse***
-   - ***Klavye Mouse Set***
+   - *Klavye*
+     + ***Kablolu***
+     + ***Kablosuz***
+   - *Mouse*
+     + ***Kablolu***
+     + ***Kablosuz***
+   - *Klavye Mouse Set*
+     + ***Kablolu Setler***
 ### *|`Hoperlör`|*
 ### *|`Monitör`|*
 ### *|`Web Kamerası`|*
