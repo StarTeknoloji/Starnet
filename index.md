@@ -2,7 +2,9 @@
 <p align="center" dir="auto">
   <a href="https://starcomputer.shop/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
-<iframe id="online-alarm-kur-iframe" src="https://embed-countdown.onlinealarmkur.com#2026-01-15T00:00:00@Europe%2FIstanbul" width="360" height="80" style="display: block; margin: 0px auto; border: 0px;"></iframe>
+
+<iframe id="online-alarm-kur-iframe" src="https://embed-countdown.onlinealarmkur.com#2025-01-15T00:00:00@Europe%2FIstanbul" width="360" height="80" style="display: block; margin: 0px auto; border: 0px;"></iframe>
+
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
