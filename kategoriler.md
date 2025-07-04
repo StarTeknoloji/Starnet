@@ -7,8 +7,8 @@
    - [Amd](https://starcomputer.shop/islemci-amd)
 
 ### Anakart
-   - Amd
-   - İntel
+   - [Amd](https://starcomputer.shop/anakart-amd)
+   - [İntel](https://starcomputer.shop/anakart-intel)
 
 ### Hard Disk
    - SSD Diskler
