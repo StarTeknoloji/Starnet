@@ -5,9 +5,9 @@
    - *[İntel](https://starcomputer.shop/kategoriler/islemci)*
    - *[Amd](https://starcomputer.shop/kategoriler/islemci-amd)*
 ### *|`Anakart`|*
-   - *[Amd](https://starcomputer.shop/kategoriler/anakart-amd)*
-     + ***Am4***
-     + ***Am5***
+   - *Amd*
+     + [***Am4***](https://starcomputer.shop/kategoriler/anakart-am4)
+     + [***Am5***](https://starcomputer.shop/kategoriler/anakart-am5)
    - *[İntel](https://starcomputer.shop/kategoriler/anakart-intel)*
      + ***1151***
      + ***1200***
