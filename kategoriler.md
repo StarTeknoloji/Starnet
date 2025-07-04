@@ -2,7 +2,7 @@
 ### İşlemci
    - İntel
    - Amd
- ### Anakart
+### Anakart
    - Amd
    - İntel
 ### Hard Disk
