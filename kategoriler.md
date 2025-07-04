@@ -14,7 +14,7 @@
 - Masaüstü Belllk
 - Dizüstü Bellek
 - Usb Bellek
-- HAfıza Kartları
+- Hafıza Kartları
 - Sunucu Ramlari
 ### Kasa PSU
 - Atx Power Supply
