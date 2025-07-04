@@ -2,7 +2,7 @@
 
 # Bilgisayar Parçaları
 ### İşlemci
-   - [İntel](https://starcomputer.shop/Starnet/islemci)
+   - [İntel](https://starcomputer.shop/Starnet/islemciStarnet/islemci)
    - [Amd](https://starcomputer.shop/Starnet/islemci-amd)
 ### Anakart
    - Amd
