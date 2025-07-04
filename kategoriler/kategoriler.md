@@ -1,48 +1,38 @@
 ![gezegenler  ile  kodlardan ve dijital   bilgisayar iconlarından  ortasında renkli yüce üçgenlerden oluşan  yıldız renkli ışınlanmış gökkuşağı birlikte bilgisayar ağı olan gelişmiş  yazılım ile dünyadan uza (4)](https://github.com/user-attachments/assets/9f1f0412-d280-48a2-8385-bd1e3c3cbc18)
-
-# Bilgisayar Parçaları
-
+<p align="center" dir="auto">
+  <a href="https://github.com/actions/javascript-action/actions"><data src=" # Bilgisayar Parçaları
 ### İşlemci
    - [İntel](https://starcomputer.shop/kategoriler/islemci)
    - [Amd](https://starcomputer.shop/kategoriler/islemci-amd)
-
 ### Anakart
    - [Amd](https://starcomputer.shop/kategoriler/anakart-amd)
    - [İntel](https://starcomputer.shop/kategoriler/anakart-intel)
-
 ### Hard Disk
    - [SSD Diskler](https://starcomputer.shop/kategoriler/ssd)
    - [Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)
    - [Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)
    - [Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)
-
 ### Bellek
    - Masaüstü Bellek
    - Dizüstü Bellek
    - Usb Bellek
    - Hafıza Kartları
    - Sunucu Ramlari
-
 ### Kasa PSU
    - Atx Power Supply
-
 ### Ekran Kartı
    - Ati 16x Nvidia 16x
-
 ### Optik Sürücü
    - DVD Yazıcı Harici
-
 ### Klavye Mouse
    - Klavye Mouse
    - Klavye Mouse Set
-
 ### Hoperlör
 ### Monitör
 ### Web Kamerası
 ### Kulaklık Mikrafon
 ### Fan Termal Macun
 ### Sıvı Soğutma
-
 # Taşınabilir Bilgisayarlar
 ### [Notebook](https://starcomputer.shop/kategoriler/Laptop)
 ### Aksesuar ve Yedek Parça
@@ -233,4 +223,7 @@
 - Antivirüs
 ### Web Paketleri
 - Eticaret Paketleri
-### Bulut Yedekleme
+### Bulut Yedekleme" secured-asset-link="" style="max-width: 100%;"></a>
+ </p>
+ 
+
