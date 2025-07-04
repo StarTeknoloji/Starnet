@@ -6,27 +6,43 @@
    - *[Amd](https://starcomputer.shop/kategoriler/islemci-amd)*
 ### *|`Anakart`|*
    - *[Amd](https://starcomputer.shop/kategoriler/anakart-amd)*
+    + ***Am4***
+    + ***Am5***
    - *[İntel](https://starcomputer.shop/kategoriler/anakart-intel)*
+    + ***1151***
+    + ***1200***
+    + ***1700***
+    + ***1851***
 ### *|`Hard Disk`|*
    - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
+     + ***Sata***
+     + ***M.1***
+     + ***mSATA***
+     + **PCI***
    - *[Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)*
    - *[Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)*
    - *[Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)*
+     + ***Enterprise***
+     + ***Nas***
+     + ***Nas Pro***
 ### *|`Bellek`|*
    - *Masaüstü Bellek*
+     + ***DDR3***
+     + ***DDR4***
+     + ***DDR5***
    - *Dizüstü Bellek*
    - *Usb Bellek*
    - *Hafıza Kartları*
    - *Sunucu Ramlari*
 ### *|`Kasa PSU`|*
-   - *Atx Power Supply*
+   - ***Atx Power Supply***
 ### *|`Ekran Kartı`|*
-   - *Ati 16x Nvidia 16x*
+   - ***Ati 16x Nvidia 16x***
 ### *|`Optik Sürücü`|*
-   - *DVD Yazıcı Harici*
-### *|`Klavye Mouse`|*
-   - *Klavye Mouse*
-   - *Klavye Mouse Set*
+   - ***DVD Yazıcı Harici***
+### ***|`Klavye Mouse`|***
+   - ***Klavye Mouse***
+   - ***Klavye Mouse Set***
 ### *|`Hoperlör`|*
 ### *|`Monitör`|*
 ### *|`Web Kamerası`|*
