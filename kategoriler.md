@@ -1,3 +1,5 @@
+![gezegenler  ile  kodlardan ve dijital   bilgisayar iconlarından  ortasında renkli yüce üçgenlerden oluşan  yıldız renkli ışınlanmış gökkuşağı birlikte bilgisayar ağı olan gelişmiş  yazılım ile dünyadan uza (4)](https://github.com/user-attachments/assets/9f1f0412-d280-48a2-8385-bd1e3c3cbc18)
+
 # Bilgisayar Parçaları
 ### İşlemci
    - [İntel](https://starteknoloji.github.io/Starnet/islemci)
