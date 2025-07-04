@@ -2,8 +2,8 @@
 
 # Bilgisayar Parçaları
 ### İşlemci
-   - [İntel](https://starcomputer.shop/Starnet/islemci)
-   - [Amd](https://starcomputer.shop/Starnet/islemci-amd)
+   - [İntel](https://starcomputer.shop/islemci)
+   - [Amd](https://starcomputer.shop/islemci-amd)
 ### Anakart
    - Amd
    - İntel
@@ -34,7 +34,7 @@
 ### Fan Termal Macun
 ### Sıvı Soğutma
 # Taşınabilir Bilgisayarlar
-### [Notebook](https://starcomputer.shop/Starnet/Laptop)
+### [Notebook](https://starcomputer.shop/Laptop)
 ### Aksesuar ve Yedek Parça
    - Çanta Kılıf Soğutucu Aksesuar
 # Masaüstü Bilgisayarlar
