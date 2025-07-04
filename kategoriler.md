@@ -1,6 +1,6 @@
 # Bilgisayar Parçaları
 ### İşlemci
-   - İntel
+   - [İntel](https://starteknoloji.github.io/Starnet/İslemci)
    - Amd
 ### Anakart
    - Amd
