@@ -82,7 +82,7 @@
 * Duvar Tipi Dış Ortamö
 * CCTV Kabinet Kabinet
 ### Güvenlik  Monitör Videowall
-
+* Monitör
 # Tüketim Ürünleri
 # Kurumsal Ürünler
 # Kesintsiz Güç Kaynağı
