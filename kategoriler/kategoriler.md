@@ -31,6 +31,9 @@
      + ***DDR4***
      + ***DDR5***
    - *Dizüstü Bellek*
+     + ***DDR3***
+     + ***DDR4***
+     + ***DDR5***
    - *Usb Bellek*
    - *Hafıza Kartları*
    - *Sunucu Ramlari*
