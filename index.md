@@ -3,7 +3,6 @@
   <a href="https://starcomputer.shop/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
-<div id="hn-iki-tarih-arasindaki-gun-sayisini-widget"></div><script src="https://e.hesaplama.net/iki-tarih-arasindaki-gun-sayisini.do?bgcolor=FFFFFF&tcolor=000000&hcolor=3B8CEE&rcolor=EEEEEE&tsize=n&tfamily=n&btype=s&bsize=1px&bcolor=EEEEEE" type="text/javascript"></script>
 
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
 
