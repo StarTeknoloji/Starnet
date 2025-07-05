@@ -56,16 +56,6 @@ Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştir
 - [https://www.starcomputer.shop](https://starcomputer.shop) Hazırlanıyor!
 
 # ***``Author``***`**Erçetin Güler**
-
-See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! 🚀
-
-
-  
-<iframe width="1000" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
-
-# ***VİDEO&GAME***
-<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
-
 # ***Game Start Uni***
 ## Save Image Find Box Continue Having Fun
 
