@@ -54,7 +54,7 @@ Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştir
 - [https://www.starcomputer.space](https://starcomputer.space)
 - [https://www.starcomputer.shop](https://starcomputer.shop) Hazırlanıyor!
 
-# ***``Author``***`**Erçetin Güler**
+
 ![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)![h0h82wmd](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7192be5b-1fe6-4500-97ca-943a4ccf5123)
 
 
