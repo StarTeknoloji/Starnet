@@ -3,7 +3,7 @@
  </p>
 
 
-  <h1><GİRİŞ/h1><a herf="https://starcomputer.shop/kategoriler/kategoriler">
+  <h1><GİRİŞ</h1><a herf="https://starcomputer.shop/kategoriler/kategoriler">
 
 
   <p align="center" dir="auto">
