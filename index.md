@@ -2,16 +2,6 @@
   <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
-
-  <p align="center" dir="auto">
-  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/a71d6af8-6316-4e0e-a77e-8385c63017e0" secured-asset-link="" style="max-width: 100%;"></a>
- </p>
-  <p align="center" dir="auto">
-  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/2076e680-b1f3-4752-8544-fa9c9b634109" secured-asset-link="" style="max-width: 100%;"></a>
- </p>
- 
-
-
 ## Study and Discussion
 
 <div id="disqus_thread"></div>
