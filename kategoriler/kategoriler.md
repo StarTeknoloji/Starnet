@@ -21,20 +21,9 @@
 
 # [*|Kurumsal Ürünler|*](https://starcomputer.shop/kategoriler/kurumsal)
 
+# [*|Kesintsiz Güç Kaynağı|*](https://starcomputer.shop/kategoriler/gückaynagı)
 
-# Kesintsiz Güç Kaynağı
 
-### Online
-
-### Line İnteractive
-
-### Akü
-
-### Taşınabilir Güc Kaynağı
-
-### Taşınabilir Solar Panel
-
-### Solar Panel Batyarya
 
 # Tüketici Elektroniği
 
