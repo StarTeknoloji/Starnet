@@ -29,21 +29,11 @@
 
 # [*|Telefon|*](https://starcomputer.shop/kategoriler/telefon)
 
-# [*|Projeksiyon|*(https://starcomputer.shop/kategoriler/projeksiyon)
+# [*|Projeksiyon|*](https://starcomputer.shop/kategoriler/projeksiyon)
 
-# Yazılım
+# [*|Yazılım|*](https://starcomputer.shop/kategoriler/yazılım)
 
-### Oem Kutu Lisans
-- İşletim Sİstemi
-- Ofis Uygulamaları
 
-### Güvenlik Yazılımlar
-- Antivirüs
-
-### Web Paketleri
-- Eticaret Paketleri
-
-### Bulut Yedekleme" 
 
  
 
