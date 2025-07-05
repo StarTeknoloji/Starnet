@@ -25,23 +25,8 @@
 
 # [*|Tüketici Elektroniği|*](https://starcomputer.shop/kategoriler/tüketici)
 
+# [*|Kablo Dönüştürücüler|*](https://starcomputer.shop/kategoriler/kablo)
 
-
-# Kablo Dönüştürücüler
-
-### Usb Data Şarj Kablolar
-
-### Güc Data Kabloları
-
-### Vga Kablo
-
-### Pci Dönüştürücü Kartlat
-
-### Kvm Switch/ Extender
-
-### Dönüştürücüler Coklayıcılar
-
-### Hdmi-Dvi Kablo
 
 # Telefon
 
