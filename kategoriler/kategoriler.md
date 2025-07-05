@@ -21,7 +21,7 @@
      + [***Sata***](https://starcomputer.shop/kategoriler/ssdsata)
      + ***M.1***
      + ***mSATA***
-     + **PCI***
+     + ***PCI***
    - *[Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)*
    - *[Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)*
    - *Nas Diskleri*
