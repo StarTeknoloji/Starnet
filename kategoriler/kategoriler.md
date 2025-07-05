@@ -15,16 +15,8 @@
 
 # [*|Güvenlik Ürünleri|*](https://starcomputer.shop/kategoriler/güvenlikürün)
 
+# [*|Tüketim Ürünleri|*](https://starcomputer.shop/kategoriler/tüketimürün)
 
-# Tüketim Ürünleri
-
-### Toner
-   - Orjinal
-   - Muadil
-
-### Kartuş
-
-### Şerit
 
 # Barkod Ürünler
 
