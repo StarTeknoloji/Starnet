@@ -27,8 +27,6 @@
 
 ## ***[Hakkımızda](https://starteknoloji.github.io/Defter)***
 
-### ***Mesai Arkadaşlarımız***
-
 ***Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştirilebiliriz. Yorum, istek ve sorularınız için lütfen yazınız.***
 
 - [https://www.starcomputer.com.tr](https://starcomputer.com.tr)
