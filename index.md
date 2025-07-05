@@ -2,9 +2,9 @@
   <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
-<p>
+
   <h1><GİRİŞ/h1><a herf="https://starcomputer.shop/kategoriler/kategoriler">
-</p>
+
 
   <p align="center" dir="auto">
   <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/85438924-9a37-47b8-961a-c3b03d11c4af" secured-asset-link="" style="max-width: 100%;"></a>
