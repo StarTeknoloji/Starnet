@@ -27,12 +27,8 @@
 
 # [*|Kablo Dönüştürücüler|*](https://starcomputer.shop/kategoriler/kablo)
 
+# [*|Telefon|*](https://starcomputer.shop/kategoriler/telefon)
 
-# Telefon
-
-### Şarj Aletl/ Adaptör ve USB Güç Kablosu
-
-### ARç ŞArj Kiti
 
 # Projeksiyon
 
