@@ -17,8 +17,8 @@
      + [***1851 pin***](https://starcomputer.shop/kategoriler/1851pin)
 
 ### *|`Hard Disk`|*
-   - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
-     + ***Sata***
+   - *SSD Diskler*
+     + [***Sata***](https://starcomputer.shop/kategoriler/ssdsata)
      + ***M.1***
      + ***mSATA***
      + **PCI***
