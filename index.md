@@ -72,11 +72,11 @@ Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştir
 
 
 
-<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="1000" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="900" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="1000" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="900" style="border: 10;"></iframe>
 
-<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
+<iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="900" style="border: 10;"></iframe>
 
 
 
