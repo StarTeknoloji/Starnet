@@ -1,9 +1,11 @@
 ![gezegenler  ile  kodlardan ve dijital   bilgisayar iconlarından  ortasında renkli yüce üçgenlerden oluşan  yıldız renkli ışınlanmış gökkuşağı birlikte bilgisayar ağı olan gelişmiş  yazılım ile dünyadan uza (4)](https://github.com/user-attachments/assets/9f1f0412-d280-48a2-8385-bd1e3c3cbc18)
 
 # *|Bilgisayar Parçaları|*
+
 ### *|`İşlemci`|*
    - *[İntel](https://starcomputer.shop/kategoriler/islemci)*
    - *[Amd](https://starcomputer.shop/kategoriler/islemci-amd)*
+
 ### *|`Anakart`|*
    - *Amd*
      + [***Am4***](https://starcomputer.shop/kategoriler/anakart-am4)
@@ -13,6 +15,7 @@
      + ***1200 pin***
      + [***1700 pin***](https://starcomputer.shop/kategoriler/1700pin)
      + ***1851 pin***
+
 ### *|`Hard Disk`|*
    - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
      + ***Sata***
@@ -25,6 +28,7 @@
      + ***Enterprise***
      + ***Nas***
      + ***Nas Pro***
+
 ### *|`Bellek`|*
    - *Masaüstü Bellek*
      + ***DDR3***
@@ -37,12 +41,16 @@
    - *Usb Bellek*
    - *Hafıza Kartları*
    - *Sunucu Ramlari*
+
 ### *|`Kasa PSU`|*
    - ***Atx Power Supply***
+
 ### *|`Ekran Kartı`|*
    - ***Ati 16x Nvidia 16x***
+
 ### *|`Optik Sürücü`|*
    - ***DVD Yazıcı Harici***
+
 ### ***|`Klavye Mouse`|***
    - *Klavye*
      + ***Kablolu***
@@ -52,12 +60,19 @@
      + ***Kablosuz***
    - *Klavye Mouse Set*
      + ***Kablolu Setler***
+
 ### *|`Hoperlör`|*
+
 ### *|`Monitör`|*
+
 ### *|`Web Kamerası`|*
+
 ### *|`Kulaklık Mikrafon`|*
+
 ### *|`Fan Termal Macun`|*
+
 ### *|`Sıvı Soğutma`|*
+
 # Taşınabilir Bilgisayarlar
 ### [Notebook](https://starcomputer.shop/kategoriler/Laptop)
 ### Aksesuar ve Yedek Parça
