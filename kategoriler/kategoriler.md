@@ -5,15 +5,9 @@
 
 # [*|Bilgisayar Parçaları|*](https://starcomputer.shop/kategoriler/PcParcalari)
 
-# *|Taşınabilir Bilgisayarlar|*
+# [*|Taşınabilir Bilgisayarlar|*](https://starcomputer.shop/kategoriler/tasinabilir)
 
 # *|Masaüstü Bilgisayarlar|*
-
-### *|`Masaüstü`|*
-
-### *|`All İn One`|*
-
-### *|`Mini PC`|* 
 
 # *|Baskı Çözümleri|*
 
