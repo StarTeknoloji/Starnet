@@ -2,13 +2,8 @@
   <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
-
-![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
-
-
-
 <p align="center" dir="auto">
-  <a href="https://github.com/actions/javascript-action/actions"><img src="https://github.com/user-attachments/assets/85438924-9a37-47b8-961a-c3b03d11c4af" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/85438924-9a37-47b8-961a-c3b03d11c4af" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
  
 # Banner
@@ -16,6 +11,7 @@
 ![starpanosatış](https://github.com/user-attachments/assets/a33a378b-7c91-45f1-8472-cbafe26cf284)
 ![baskıın](https://github.com/user-attachments/assets/b4378121-f01e-4708-8547-3ad3f83d41af)
 ![Ai Allstar](https://github.com/user-attachments/assets/a7a1f32b-34f5-4c72-a4fe-d24c31d11e33)
+![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
 
 ## Study and Discussion
 
