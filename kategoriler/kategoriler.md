@@ -24,8 +24,8 @@
      + **PCI***
    - *[Güvenlik Diskleri 7/24](https://starcomputer.shop/kategoriler/gd724)*
    - *[Taşınabilir Diskler](https://starcomputer.shop/kategoriler/laptopdisk)*
-   - *[Nas Diskleri](https://starcomputer.shop/kategoriler/nasdisk)*
-     + ***Enterprise***
+   - *[Nas Diskleri]*
+     + [***Enterprise***](https://starcomputer.shop/kategoriler/nasenterprise)
      + ***Nas***
      + ***Nas Pro***
 
