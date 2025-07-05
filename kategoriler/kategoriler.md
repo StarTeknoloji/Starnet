@@ -73,25 +73,29 @@
 
 ### *|`Sıvı Soğutma`|*
 
-# Taşınabilir Bilgisayarlar
-### [Notebook](https://starcomputer.shop/kategoriler/Laptop)
-### Aksesuar ve Yedek Parça
-   - Çanta Kılıf Soğutucu Aksesuar
-# Masaüstü Bilgisayarlar
-### Masaüstü
-### All İn One
-### Mini PC 
-# Baskı Çözümleri
-### Lazer Yazıcılar
-   - Tek Fonksiyonlu
-   - Çok Fonksiyonlu
-   - Tanklı Lazer
-### Mürekkep Yazıcılar
-   - Tanklı Yazıcılar
-   - Mürekkep Püskürtmeli
-### Nokta Vuruşlu Yazıcılar
-### Tarayıcılar
-### Döküman Tarayıcılar
+# *|Taşınabilir Bilgisayarlar|*
+
+### *[`Notebook`](https://starcomputer.shop/kategoriler/Laptop)*
+### *|`Aksesuar ve Yedek Parça`|*
+   - *Çanta Kılıf Soğutucu Aksesuar*
+
+# *|Masaüstü Bilgisayarlar|*
+
+### *|`Masaüstü`|*
+### *|`All İn One`|*
+### *|`Mini PC`|* 
+
+# *|Baskı Çözümleri|*
+### *|`Lazer Yazıcılar`|*
+   - *Tek Fonksiyonlu*
+   - *Çok Fonksiyonlu*
+   - *Tanklı Lazer*
+### *|`Mürekkep Yazıcılar`|*
+   - *Tanklı Yazıcılar*
+   - *Mürekkep Püskürtmeli*
+### *`Nokta Vuruşlu Yazıcılar`|*
+### *|`Tarayıcılar`|*
+### *|`Döküman Tarayıcılar`|*
 # Ağ Ürünleri
 ### Modem
    - ADSL/ VDSL Kablosuz
