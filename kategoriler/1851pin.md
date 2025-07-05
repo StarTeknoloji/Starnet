@@ -1,3 +1,5 @@
+![www starcomputer shop logo alışveriş sepeti kredi kartı - online tech shop - tabelsı ile (5)](https://github.com/user-attachments/assets/36d57a55-b210-4930-9c38-b500895a7380)
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
