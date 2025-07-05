@@ -5,11 +5,7 @@
 
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
 
-***[`(*```STAR``My```Tech`````*****````*****```*****`
-***``é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é```***`***]***
 
-***[***``(*```STAR``My```Tech`***
-***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é``***]***
 
 <p align="center" dir="auto">
   <a href="https://github.com/actions/javascript-action/actions"><img src="https://github.com/user-attachments/assets/85438924-9a37-47b8-961a-c3b03d11c4af" secured-asset-link="" style="max-width: 100%;"></a>
