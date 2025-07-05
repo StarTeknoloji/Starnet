@@ -2,8 +2,9 @@
   <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 <p align="center" dir="auto">
-  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/a913978f-723a-4455-a02d-8ee314f72bf3" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/59a0ea8f-a254-4e70-8874-b5031c960334" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
+
 
 <div id="disqus_thread"></div>
 <script>
