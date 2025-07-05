@@ -9,7 +9,7 @@
 
 # [*|Masaüstü Bilgisayarlar|*](https://starcomputer.shop/kategoriler/masaüstü)
 
-# *|Baskı Çözümleri|*
+# [*|Baskı Çözümleri|*](https://starcomputer.shop/kategoriler/baskı)
 
 
 # Ağ Ürünleri
