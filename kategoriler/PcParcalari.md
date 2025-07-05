@@ -1,3 +1,5 @@
+![envato-labs-ai-8e4c832f-6ce0-4486-bda6-9454ce0b398a](https://github.com/user-attachments/assets/4a7fa660-285e-46de-8f22-f25284cd46b6)
+
 ### *|`İşlemci`|*
    - *[İntel](https://starcomputer.shop/kategoriler/islemci)*
    - *[Amd](https://starcomputer.shop/kategoriler/islemci-amd)*
