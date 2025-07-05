@@ -8,7 +8,7 @@
    - *Amd*
      + [***Am4***](https://starcomputer.shop/kategoriler/anakart-am4)
      + [***Am5***](https://starcomputer.shop/kategoriler/anakart-am5)
-   - *[İntel]*
+   - *İntel*
      + ***1151***
      + ***1200***
      + [***1700***](https://starcomputer.shop/kategoriler/1700pin)
