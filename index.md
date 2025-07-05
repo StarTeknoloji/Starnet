@@ -2,8 +2,10 @@
   <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
-<iframe width="475" height="250" src="https://onlinesaat.web.tr/embed/zamanlayici/#date=2025-07-20&title=Biti%C5%9F&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe>
 
+<p align="center" dir="auto">
+  <a href="https://starcomputer.shop/kategoriler/kategoriler"><data src="<iframe width="475" height="250" src="https://onlinesaat.web.tr/embed/zamanlayici/#date=2025-07-20&title=Biti%C5%9F&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe>" secured-asset-link="" style="max-width: 100%;"></a>
+ </p>
 ![0ypzwp0r](https://github.com/user-attachments/assets/4add34bf-b351-413c-9e19-7f37fe4ff1f9)
 
 ***[`(*```STAR``My```Tech`````*****````*****```*****`
