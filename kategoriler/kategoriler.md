@@ -8,10 +8,10 @@
    - *Amd*
      + [***Am4***](https://starcomputer.shop/kategoriler/anakart-am4)
      + [***Am5***](https://starcomputer.shop/kategoriler/anakart-am5)
-   - *[İntel](https://starcomputer.shop/kategoriler/anakart-intel)*
+   - *[İntel]*
      + ***1151***
      + ***1200***
-     + ***1700***
+     + [***1700***](https://starcomputer.shop/kategoriler/1700pin)
      + ***1851***
 ### *|`Hard Disk`|*
    - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
