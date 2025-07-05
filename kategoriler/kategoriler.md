@@ -29,16 +29,7 @@
 
 # [*|Telefon|*](https://starcomputer.shop/kategoriler/telefon)
 
-
-# Projeksiyon
-
-### Projeksiyon Cihazı
-
-### Perde
-
-### Askı Aparatı
-
-### Aksesuar
+# [*|Projeksiyon|*(https://starcomputer.shop/kategoriler/projeksiyon)
 
 # Yazılım
 
