@@ -17,31 +17,9 @@
 
 # [*|Tüketim Ürünleri|*](https://starcomputer.shop/kategoriler/tüketimürün)
 
+# [*|Barkod Ürünler|*](https://starcomputer.shop/kategoriler/barkod)
 
-# Barkod Ürünler
 
-### Barkod Okuyucu
-- CCD
-- Lazer
-- Kablosuz
-- Karekod
-- Masaüstü
-
-### Barkod Yazıcılar
-- Barkod Yazıcılar
-- Fiş Etiket Pos yazıcılar
-
-### El Terminali 
-- El Terminali
-
-### Dokunmatik Pos PC
-
-### Yedek Parça
-- Termal Kafa
-- Sarma Ünitesi
-- Kart O;kuyucu
-
-### Para Çekmecesi
 
 # Kurumsal Ürünler
 
