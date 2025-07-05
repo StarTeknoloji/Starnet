@@ -20,3 +20,7 @@
 ![blob (5)](https://user-images.githubusercontent.com/93947784/200133322-f38c9edc-3ebd-4bb3-948e-24c99298fb5e.png)
 ![blob-5544083](https://user-images.githubusercontent.com/93947784/200133328-f14b7888-363d-4f55-b896-cd8f53440808.png)
 ![blob-78a257f](https://user-images.githubusercontent.com/93947784/200133332-c350c2b7-abf1-4256-85cb-3ec0b1945a68.png)
+<iframe width="1000" height="700" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="10" marginheight="10" marginwidth="10" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: 10; max-width: 200%; max-height:200vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+
+# ***VİDEO&GAME***
+<iframe src="https://player.vimeo.com/video/886081937?h=32c0e3b16b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="10" allow="autoplay; fullscreen; picture-in-picture" title="www.teknik24.tech/tanıtım"></iframe><iframe src="https://player.vimeo.com/video/929495097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="350" frameborder="30" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="STAR TEKNİK ‐ StarTeknoloji G2 Katkılarıyla"></iframe>
