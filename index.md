@@ -56,6 +56,8 @@ Sitelerimizdeki uygulamalar ev ve işyerleri için özelleştirebilir, geliştir
 - [https://www.starcomputer.shop](https://starcomputer.shop) Hazırlanıyor!
 
 # ***``Author``***`**Erçetin Güler**
+![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)![h0h82wmd](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7192be5b-1fe6-4500-97ca-943a4ccf5123)
+
 # ***Game Start Uni***
 ## Save Image Find Box Continue Having Fun
 
@@ -221,11 +223,6 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
-
-
-
-![rotating_knot](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3)![h0h82wmd](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/7192be5b-1fe6-4500-97ca-943a4ccf5123)
-
 
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br />Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FIstanbul" width="100%" height="125" frameborder="50" seamless></iframe> </div>
 
