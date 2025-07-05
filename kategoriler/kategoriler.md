@@ -7,24 +7,10 @@
 
 # [*|Taşınabilir Bilgisayarlar|*](https://starcomputer.shop/kategoriler/tasinabilir)
 
-# *|Masaüstü Bilgisayarlar|*
+# [*|Masaüstü Bilgisayarlar|*](https://starcomputer.shop/kategoriler/masaüstü)
 
 # *|Baskı Çözümleri|*
 
-### *|`Lazer Yazıcılar`|*
-   - *Tek Fonksiyonlu*
-   - *Çok Fonksiyonlu*
-   - *Tanklı Lazer*
-
-### *|`Mürekkep Yazıcılar`|*
-   - *Tanklı Yazıcılar*
-   - *Mürekkep Püskürtmeli*
-
-### *`Nokta Vuruşlu Yazıcılar`|*
-
-### *|`Tarayıcılar`|*
-
-### *|`Döküman Tarayıcılar`|*
 
 # Ağ Ürünleri
 
