@@ -1,10 +1,9 @@
 <p align="center" dir="auto">
-  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/234d9592-0320-424e-aab3-3547124aa43c" secured-asset-link="" style="max-width: 100%;"></a>
- </p>
-<p align="center" dir="auto">
-  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/59a0ea8f-a254-4e70-8874-b5031c960334" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/37d05bf7-7557-4ca6-9677-cf94cf10e805" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
+
+![envato-labs-ai-b90c21e9-2ea8-4ec3-a806-3655cf8cd409]()
 
 <div id="disqus_thread"></div>
 <script>
