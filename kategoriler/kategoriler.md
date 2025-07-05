@@ -11,10 +11,10 @@
      + [***Am4***](https://starcomputer.shop/kategoriler/anakart-am4)
      + [***Am5***](https://starcomputer.shop/kategoriler/anakart-am5)
    - *İntel*
-     + ***1151 pin***
-     + ***1200 pin***
+     + [***1151 pin***](https://starcomputer.shop/kategoriler/1151pin)
+     + [***1200 pin***](https://starcomputer.shop/kategoriler/1200pin)
      + [***1700 pin***](https://starcomputer.shop/kategoriler/1700pin)
-     + ***1851 pin***
+     + [***1851 pin***](https://starcomputer.shop/kategoriler/1851pin)
 
 ### *|`Hard Disk`|*
    - *[SSD Diskler](https://starcomputer.shop/kategoriler/ssd)*
