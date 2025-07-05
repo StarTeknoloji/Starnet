@@ -3,15 +3,9 @@
 
 <h1>Kategoriler</h1>
 
-# *|Bilgisayar Parçaları|*
-
+# [*|Bilgisayar Parçaları|*](https://starcomputer.shop/kategoriler/PcParcalari)
 
 # *|Taşınabilir Bilgisayarlar|*
-
-### *[`Notebook`](https://starcomputer.shop/kategoriler/Laptop)*
-
-### *|`Aksesuar ve Yedek Parça`|*
-   - *Çanta Kılıf Soğutucu Aksesuar*
 
 # *|Masaüstü Bilgisayarlar|*
 
