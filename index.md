@@ -3,8 +3,6 @@
  </p>
 
 
-![envato-labs-ai-b90c21e9-2ea8-4ec3-a806-3655cf8cd409]()
-
 <div id="disqus_thread"></div>
 <script>
     /**
