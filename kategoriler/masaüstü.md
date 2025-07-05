@@ -1,4 +1,4 @@
-![envato-labs-ai-8e4c832f-6ce0-4486-bda6-9454ce0b398a](https://github.com/user-attachments/assets/02ff4b6d-5417-4dcf-9648-e0d76e13a7ad)
+![envato-labs-ai-5b533d5f-2aae-42eb-b4d8-f575ec7fffad](https://github.com/user-attachments/assets/a4abc2fe-e2b9-45ab-a222-e8d6bd21d9b8)
 
 
 ### *|`Masaüstü`|*
