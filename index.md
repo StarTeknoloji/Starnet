@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-  <a href="https://starcomputer.shop/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/37d05bf7-7557-4ca6-9677-cf94cf10e805" secured-asset-link="" style="max-width: 100%;"></a>
+  <a href="starteknoloji.github.io/Starnet/kategoriler/kategoriler"><img src="https://github.com/user-attachments/assets/37d05bf7-7557-4ca6-9677-cf94cf10e805" secured-asset-link="" style="max-width: 100%;"></a>
  </p>
 
 
